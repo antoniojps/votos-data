@@ -1,0 +1,2702 @@
+[
+  {
+    "codigo": "210001",
+    "nome": "Açores",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PPD",
+    "num_votos": "62966",
+    "perc_votos": "45.67",
+    "mandatos": "4"
+  },
+  {
+    "codigo": "210001",
+    "nome": "Açores",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PS",
+    "num_votos": "42736",
+    "perc_votos": "35.44",
+    "mandatos": "2"
+  },
+  {
+    "codigo": "210001",
+    "nome": "Açores",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "CDS",
+    "num_votos": "13537",
+    "perc_votos": "11.81",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "210001",
+    "nome": "Açores",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PCP",
+    "num_votos": "1871",
+    "perc_votos": "1.46",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "210001",
+    "nome": "Açores",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "MES",
+    "num_votos": "985",
+    "perc_votos": "0.81",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "210001",
+    "nome": "Açores",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "MRPP",
+    "num_votos": "818",
+    "perc_votos": "0.81",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "210001",
+    "nome": "Açores",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "AOC",
+    "num_votos": "595",
+    "perc_votos": "0.91",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "210001",
+    "nome": "Açores",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PPM",
+    "num_votos": "235",
+    "perc_votos": "0.58",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "10000",
+    "nome": "Aveiro",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PPD",
+    "num_votos": "113595",
+    "perc_votos": "35.16",
+    "mandatos": "6"
+  },
+  {
+    "codigo": "10000",
+    "nome": "Aveiro",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PS",
+    "num_votos": "99647",
+    "perc_votos": "30.84",
+    "mandatos": "5"
+  },
+  {
+    "codigo": "10000",
+    "nome": "Aveiro",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "CDS",
+    "num_votos": "72638",
+    "perc_votos": "22.48",
+    "mandatos": "4"
+  },
+  {
+    "codigo": "10000",
+    "nome": "Aveiro",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PCP",
+    "num_votos": "11962",
+    "perc_votos": "3.7",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "10000",
+    "nome": "Aveiro",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "UDP",
+    "num_votos": "2955",
+    "perc_votos": "0.91",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "10000",
+    "nome": "Aveiro",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PDC",
+    "num_votos": "1591",
+    "perc_votos": "0.49",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "10000",
+    "nome": "Aveiro",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "MES",
+    "num_votos": "1519",
+    "perc_votos": "0.47",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "10000",
+    "nome": "Aveiro",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "MRPP",
+    "num_votos": "1330",
+    "perc_votos": "0.41",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "10000",
+    "nome": "Aveiro",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "FSP",
+    "num_votos": "1224",
+    "perc_votos": "0.38",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "10000",
+    "nome": "Aveiro",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PPM",
+    "num_votos": "1187",
+    "perc_votos": "0.37",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "10000",
+    "nome": "Aveiro",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "AOC",
+    "num_votos": "935",
+    "perc_votos": "0.29",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "10000",
+    "nome": "Aveiro",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "LCI",
+    "num_votos": "804",
+    "perc_votos": "0.25",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "20000",
+    "nome": "Beja",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PCP",
+    "num_votos": "52839",
+    "perc_votos": "43.99",
+    "mandatos": "4"
+  },
+  {
+    "codigo": "20000",
+    "nome": "Beja",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PS",
+    "num_votos": "38405",
+    "perc_votos": "31.97",
+    "mandatos": "2"
+  },
+  {
+    "codigo": "20000",
+    "nome": "Beja",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PPD",
+    "num_votos": "9882",
+    "perc_votos": "8.23",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "20000",
+    "nome": "Beja",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "CDS",
+    "num_votos": "5004",
+    "perc_votos": "4.17",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "20000",
+    "nome": "Beja",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "UDP",
+    "num_votos": "2671",
+    "perc_votos": "2.22",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "20000",
+    "nome": "Beja",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "MES",
+    "num_votos": "2092",
+    "perc_votos": "1.74",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "20000",
+    "nome": "Beja",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "FSP",
+    "num_votos": "1564",
+    "perc_votos": "1.3",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "20000",
+    "nome": "Beja",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PPM",
+    "num_votos": "724",
+    "perc_votos": "0.6",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "20000",
+    "nome": "Beja",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "AOC",
+    "num_votos": "557",
+    "perc_votos": "0.46",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "20000",
+    "nome": "Beja",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "LCI",
+    "num_votos": "481",
+    "perc_votos": "0.4",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "20000",
+    "nome": "Beja",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "MRPP",
+    "num_votos": "428",
+    "perc_votos": "0.36",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "30000",
+    "nome": "Braga",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PS",
+    "num_votos": "110586",
+    "perc_votos": "32.28",
+    "mandatos": "6"
+  },
+  {
+    "codigo": "30000",
+    "nome": "Braga",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PPD",
+    "num_votos": "97886",
+    "perc_votos": "28.58",
+    "mandatos": "5"
+  },
+  {
+    "codigo": "30000",
+    "nome": "Braga",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "CDS",
+    "num_votos": "86148",
+    "perc_votos": "25.15",
+    "mandatos": "4"
+  },
+  {
+    "codigo": "30000",
+    "nome": "Braga",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PCP",
+    "num_votos": "14202",
+    "perc_votos": "4.15",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "30000",
+    "nome": "Braga",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "UDP",
+    "num_votos": "3527",
+    "perc_votos": "1.03",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "30000",
+    "nome": "Braga",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "FSP",
+    "num_votos": "2945",
+    "perc_votos": "0.86",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "30000",
+    "nome": "Braga",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PPM",
+    "num_votos": "2658",
+    "perc_votos": "0.78",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "30000",
+    "nome": "Braga",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PDC",
+    "num_votos": "1722",
+    "perc_votos": "0.5",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "30000",
+    "nome": "Braga",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "MRPP",
+    "num_votos": "1589",
+    "perc_votos": "0.46",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "30000",
+    "nome": "Braga",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "MES",
+    "num_votos": "998",
+    "perc_votos": "0.29",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "30000",
+    "nome": "Braga",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PCP (M-L)",
+    "num_votos": "930",
+    "perc_votos": "0.27",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "30000",
+    "nome": "Braga",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "LCI",
+    "num_votos": "651",
+    "perc_votos": "0.19",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "30000",
+    "nome": "Braga",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "AOC",
+    "num_votos": "569",
+    "perc_votos": "0.17",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "40000",
+    "nome": "Bragança",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PPD",
+    "num_votos": "31636",
+    "perc_votos": "33.25",
+    "mandatos": "2"
+  },
+  {
+    "codigo": "40000",
+    "nome": "Bragança",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "CDS",
+    "num_votos": "26927",
+    "perc_votos": "28.3",
+    "mandatos": "2"
+  },
+  {
+    "codigo": "40000",
+    "nome": "Bragança",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PS",
+    "num_votos": "21514",
+    "perc_votos": "22.61",
+    "mandatos": "1"
+  },
+  {
+    "codigo": "40000",
+    "nome": "Bragança",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PCP",
+    "num_votos": "2530",
+    "perc_votos": "2.66",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "40000",
+    "nome": "Bragança",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "FSP",
+    "num_votos": "1003",
+    "perc_votos": "1.05",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "40000",
+    "nome": "Bragança",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PDC",
+    "num_votos": "812",
+    "perc_votos": "0.85",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "40000",
+    "nome": "Bragança",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "UDP",
+    "num_votos": "768",
+    "perc_votos": "0.81",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "40000",
+    "nome": "Bragança",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PPM",
+    "num_votos": "739",
+    "perc_votos": "0.78",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "40000",
+    "nome": "Bragança",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "AOC",
+    "num_votos": "626",
+    "perc_votos": "0.66",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "40000",
+    "nome": "Bragança",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "MRPP",
+    "num_votos": "581",
+    "perc_votos": "0.61",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "40000",
+    "nome": "Bragança",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PCP (M-L)",
+    "num_votos": "511",
+    "perc_votos": "0.54",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "40000",
+    "nome": "Bragança",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "MES",
+    "num_votos": "411",
+    "perc_votos": "0.43",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "40000",
+    "nome": "Bragança",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "LCI",
+    "num_votos": "341",
+    "perc_votos": "0.36",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "50000",
+    "nome": "Castelo Branco",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PS",
+    "num_votos": "51822",
+    "perc_votos": "36.43",
+    "mandatos": "3"
+  },
+  {
+    "codigo": "50000",
+    "nome": "Castelo Branco",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PPD",
+    "num_votos": "32212",
+    "perc_votos": "22.64",
+    "mandatos": "2"
+  },
+  {
+    "codigo": "50000",
+    "nome": "Castelo Branco",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "CDS",
+    "num_votos": "28257",
+    "perc_votos": "19.86",
+    "mandatos": "2"
+  },
+  {
+    "codigo": "50000",
+    "nome": "Castelo Branco",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PCP",
+    "num_votos": "9369",
+    "perc_votos": "6.59",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "50000",
+    "nome": "Castelo Branco",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "FSP",
+    "num_votos": "1708",
+    "perc_votos": "1.2",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "50000",
+    "nome": "Castelo Branco",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "UDP",
+    "num_votos": "1520",
+    "perc_votos": "1.07",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "50000",
+    "nome": "Castelo Branco",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "MRPP",
+    "num_votos": "1325",
+    "perc_votos": "0.93",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "50000",
+    "nome": "Castelo Branco",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PDC",
+    "num_votos": "1163",
+    "perc_votos": "0.82",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "50000",
+    "nome": "Castelo Branco",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PPM",
+    "num_votos": "959",
+    "perc_votos": "0.67",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "50000",
+    "nome": "Castelo Branco",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "MES",
+    "num_votos": "844",
+    "perc_votos": "0.59",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "50000",
+    "nome": "Castelo Branco",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PCP (M-L)",
+    "num_votos": "586",
+    "perc_votos": "0.41",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "50000",
+    "nome": "Castelo Branco",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "AOC",
+    "num_votos": "577",
+    "perc_votos": "0.41",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "50000",
+    "nome": "Castelo Branco",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "LCI",
+    "num_votos": "481",
+    "perc_votos": "0.34",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "60000",
+    "nome": "Coimbra",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PS",
+    "num_votos": "98162",
+    "perc_votos": "40.89",
+    "mandatos": "6"
+  },
+  {
+    "codigo": "60000",
+    "nome": "Coimbra",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PPD",
+    "num_votos": "64162",
+    "perc_votos": "26.72",
+    "mandatos": "4"
+  },
+  {
+    "codigo": "60000",
+    "nome": "Coimbra",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "CDS",
+    "num_votos": "29967",
+    "perc_votos": "12.48",
+    "mandatos": "1"
+  },
+  {
+    "codigo": "60000",
+    "nome": "Coimbra",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PCP",
+    "num_votos": "17405",
+    "perc_votos": "7.25",
+    "mandatos": "1"
+  },
+  {
+    "codigo": "60000",
+    "nome": "Coimbra",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "UDP",
+    "num_votos": "2771",
+    "perc_votos": "1.15",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "60000",
+    "nome": "Coimbra",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "FSP",
+    "num_votos": "1718",
+    "perc_votos": "0.72",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "60000",
+    "nome": "Coimbra",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PDC",
+    "num_votos": "1671",
+    "perc_votos": "0.7",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "60000",
+    "nome": "Coimbra",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PRT",
+    "num_votos": "1584",
+    "perc_votos": "0.66",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "60000",
+    "nome": "Coimbra",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "MRPP",
+    "num_votos": "1430",
+    "perc_votos": "0.6",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "60000",
+    "nome": "Coimbra",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PPM",
+    "num_votos": "1356",
+    "perc_votos": "0.56",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "60000",
+    "nome": "Coimbra",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "LCI",
+    "num_votos": "1159",
+    "perc_votos": "0.48",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "60000",
+    "nome": "Coimbra",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "MES",
+    "num_votos": "1090",
+    "perc_votos": "0.45",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "60000",
+    "nome": "Coimbra",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "AOC",
+    "num_votos": "1066",
+    "perc_votos": "0.44",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "60000",
+    "nome": "Coimbra",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PCP (M-L)",
+    "num_votos": "498",
+    "perc_votos": "0.21",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "750040",
+    "nome": "Europa",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PS",
+    "num_votos": "23824",
+    "perc_votos": "46.09",
+    "mandatos": "1"
+  },
+  {
+    "codigo": "750040",
+    "nome": "Europa",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PPD",
+    "num_votos": "16644",
+    "perc_votos": "32.2",
+    "mandatos": "1"
+  },
+  {
+    "codigo": "750040",
+    "nome": "Europa",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PCP",
+    "num_votos": "5212",
+    "perc_votos": "10.08",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "750040",
+    "nome": "Europa",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "CDS",
+    "num_votos": "3555",
+    "perc_votos": "6.88",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "750040",
+    "nome": "Europa",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PDC",
+    "num_votos": "475",
+    "perc_votos": "0.92",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "750040",
+    "nome": "Europa",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "UDP",
+    "num_votos": "407",
+    "perc_votos": "0.79",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "750040",
+    "nome": "Europa",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "FSP",
+    "num_votos": "183",
+    "perc_votos": "0.35",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "750040",
+    "nome": "Europa",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "MES",
+    "num_votos": "165",
+    "perc_votos": "0.32",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "750040",
+    "nome": "Europa",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "AOC",
+    "num_votos": "83",
+    "perc_votos": "0.16",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "750040",
+    "nome": "Europa",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "MRPP",
+    "num_votos": "69",
+    "perc_votos": "0.13",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "750040",
+    "nome": "Europa",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PPM",
+    "num_votos": "52",
+    "perc_votos": "0.1",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "750040",
+    "nome": "Europa",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "LCI",
+    "num_votos": "28",
+    "perc_votos": "0.05",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "70000",
+    "nome": "Évora",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PCP",
+    "num_votos": "52291",
+    "perc_votos": "43.15",
+    "mandatos": "4"
+  },
+  {
+    "codigo": "70000",
+    "nome": "Évora",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PS",
+    "num_votos": "36679",
+    "perc_votos": "30.26",
+    "mandatos": "2"
+  },
+  {
+    "codigo": "70000",
+    "nome": "Évora",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PPD",
+    "num_votos": "11107",
+    "perc_votos": "9.16",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "70000",
+    "nome": "Évora",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "CDS",
+    "num_votos": "9645",
+    "perc_votos": "7.96",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "70000",
+    "nome": "Évora",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "UDP",
+    "num_votos": "3151",
+    "perc_votos": "2.6",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "70000",
+    "nome": "Évora",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "FSP",
+    "num_votos": "1491",
+    "perc_votos": "1.23",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "70000",
+    "nome": "Évora",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PPM",
+    "num_votos": "844",
+    "perc_votos": "0.7",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "70000",
+    "nome": "Évora",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "MES",
+    "num_votos": "790",
+    "perc_votos": "0.65",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "70000",
+    "nome": "Évora",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "AOC",
+    "num_votos": "409",
+    "perc_votos": "0.34",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "70000",
+    "nome": "Évora",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "MRPP",
+    "num_votos": "407",
+    "perc_votos": "0.34",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "70000",
+    "nome": "Évora",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "LCI",
+    "num_votos": "358",
+    "perc_votos": "0.3",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "80000",
+    "nome": "Faro",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PS",
+    "num_votos": "85313",
+    "perc_votos": "44.63",
+    "mandatos": "6"
+  },
+  {
+    "codigo": "80000",
+    "nome": "Faro",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PPD",
+    "num_votos": "36906",
+    "perc_votos": "19.31",
+    "mandatos": "2"
+  },
+  {
+    "codigo": "80000",
+    "nome": "Faro",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PCP",
+    "num_votos": "27667",
+    "perc_votos": "14.47",
+    "mandatos": "1"
+  },
+  {
+    "codigo": "80000",
+    "nome": "Faro",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "CDS",
+    "num_votos": "13010",
+    "perc_votos": "6.81",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "80000",
+    "nome": "Faro",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "UDP",
+    "num_votos": "4928",
+    "perc_votos": "2.58",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "80000",
+    "nome": "Faro",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "FSP",
+    "num_votos": "3839",
+    "perc_votos": "2.01",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "80000",
+    "nome": "Faro",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "MRPP",
+    "num_votos": "1957",
+    "perc_votos": "1.02",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "80000",
+    "nome": "Faro",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PDC",
+    "num_votos": "1493",
+    "perc_votos": "0.78",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "80000",
+    "nome": "Faro",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "MES",
+    "num_votos": "1387",
+    "perc_votos": "0.73",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "80000",
+    "nome": "Faro",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "AOC",
+    "num_votos": "1021",
+    "perc_votos": "0.53",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "80000",
+    "nome": "Faro",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PPM",
+    "num_votos": "966",
+    "perc_votos": "0.51",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "80000",
+    "nome": "Faro",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PCP (M-L)",
+    "num_votos": "797",
+    "perc_votos": "0.42",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "80000",
+    "nome": "Faro",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "LCI",
+    "num_votos": "743",
+    "perc_votos": "0.39",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "750050",
+    "nome": "Fora da Europa",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PPD",
+    "num_votos": "21317",
+    "perc_votos": "53.23",
+    "mandatos": "1"
+  },
+  {
+    "codigo": "750050",
+    "nome": "Fora da Europa",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "CDS",
+    "num_votos": "13483",
+    "perc_votos": "33.67",
+    "mandatos": "1"
+  },
+  {
+    "codigo": "750050",
+    "nome": "Fora da Europa",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PS",
+    "num_votos": "2517",
+    "perc_votos": "6.29",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "750050",
+    "nome": "Fora da Europa",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PDC",
+    "num_votos": "1277",
+    "perc_votos": "3.19",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "750050",
+    "nome": "Fora da Europa",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PCP",
+    "num_votos": "562",
+    "perc_votos": "1.4",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "750050",
+    "nome": "Fora da Europa",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "UDP",
+    "num_votos": "130",
+    "perc_votos": "0.32",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "750050",
+    "nome": "Fora da Europa",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PPM",
+    "num_votos": "123",
+    "perc_votos": "0.31",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "750050",
+    "nome": "Fora da Europa",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "MES",
+    "num_votos": "36",
+    "perc_votos": "0.09",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "750050",
+    "nome": "Fora da Europa",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "AOC",
+    "num_votos": "21",
+    "perc_votos": "0.05",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "750050",
+    "nome": "Fora da Europa",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "LCI",
+    "num_votos": "3",
+    "perc_votos": "0.01",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "90000",
+    "nome": "Guarda",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "CDS",
+    "num_votos": "39120",
+    "perc_votos": "32.05",
+    "mandatos": "2"
+  },
+  {
+    "codigo": "90000",
+    "nome": "Guarda",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PPD",
+    "num_votos": "31307",
+    "perc_votos": "25.65",
+    "mandatos": "2"
+  },
+  {
+    "codigo": "90000",
+    "nome": "Guarda",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PS",
+    "num_votos": "30746",
+    "perc_votos": "25.19",
+    "mandatos": "2"
+  },
+  {
+    "codigo": "90000",
+    "nome": "Guarda",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PCP",
+    "num_votos": "3583",
+    "perc_votos": "2.94",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "90000",
+    "nome": "Guarda",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "FSP",
+    "num_votos": "1717",
+    "perc_votos": "1.41",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "90000",
+    "nome": "Guarda",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PDC",
+    "num_votos": "1668",
+    "perc_votos": "1.37",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "90000",
+    "nome": "Guarda",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "UDP",
+    "num_votos": "1368",
+    "perc_votos": "1.12",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "90000",
+    "nome": "Guarda",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "MES",
+    "num_votos": "1200",
+    "perc_votos": "0.98",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "90000",
+    "nome": "Guarda",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PPM",
+    "num_votos": "1125",
+    "perc_votos": "0.92",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "90000",
+    "nome": "Guarda",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "MRPP",
+    "num_votos": "1009",
+    "perc_votos": "0.83",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "90000",
+    "nome": "Guarda",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "LCI",
+    "num_votos": "452",
+    "perc_votos": "0.37",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "100000",
+    "nome": "Leiria",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PPD",
+    "num_votos": "69457",
+    "perc_votos": "31.18",
+    "mandatos": "4"
+  },
+  {
+    "codigo": "100000",
+    "nome": "Leiria",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PS",
+    "num_votos": "69236",
+    "perc_votos": "31.08",
+    "mandatos": "4"
+  },
+  {
+    "codigo": "100000",
+    "nome": "Leiria",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "CDS",
+    "num_votos": "43213",
+    "perc_votos": "19.4",
+    "mandatos": "2"
+  },
+  {
+    "codigo": "100000",
+    "nome": "Leiria",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PCP",
+    "num_votos": "16226",
+    "perc_votos": "7.28",
+    "mandatos": "1"
+  },
+  {
+    "codigo": "100000",
+    "nome": "Leiria",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "UDP",
+    "num_votos": "2136",
+    "perc_votos": "0.96",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "100000",
+    "nome": "Leiria",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "FSP",
+    "num_votos": "2094",
+    "perc_votos": "0.94",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "100000",
+    "nome": "Leiria",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PPM",
+    "num_votos": "1633",
+    "perc_votos": "0.73",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "100000",
+    "nome": "Leiria",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PDC",
+    "num_votos": "1448",
+    "perc_votos": "0.65",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "100000",
+    "nome": "Leiria",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "MRPP",
+    "num_votos": "1169",
+    "perc_votos": "0.52",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "100000",
+    "nome": "Leiria",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "MES",
+    "num_votos": "1009",
+    "perc_votos": "0.45",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "100000",
+    "nome": "Leiria",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "LCI",
+    "num_votos": "814",
+    "perc_votos": "0.37",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "100000",
+    "nome": "Leiria",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "AOC",
+    "num_votos": "514",
+    "perc_votos": "0.23",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "100000",
+    "nome": "Leiria",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PCP (M-L)",
+    "num_votos": "399",
+    "perc_votos": "0.18",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "110000",
+    "nome": "Lisboa",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PS",
+    "num_votos": "458713",
+    "perc_votos": "38.3",
+    "mandatos": "25"
+  },
+  {
+    "codigo": "110000",
+    "nome": "Lisboa",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PCP",
+    "num_votos": "260554",
+    "perc_votos": "21.75",
+    "mandatos": "14"
+  },
+  {
+    "codigo": "110000",
+    "nome": "Lisboa",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PPD",
+    "num_votos": "196031",
+    "perc_votos": "16.37",
+    "mandatos": "10"
+  },
+  {
+    "codigo": "110000",
+    "nome": "Lisboa",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "CDS",
+    "num_votos": "157554",
+    "perc_votos": "13.15",
+    "mandatos": "8"
+  },
+  {
+    "codigo": "110000",
+    "nome": "Lisboa",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "UDP",
+    "num_votos": "31409",
+    "perc_votos": "2.62",
+    "mandatos": "1"
+  },
+  {
+    "codigo": "110000",
+    "nome": "Lisboa",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "MRPP",
+    "num_votos": "14372",
+    "perc_votos": "1.2",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "110000",
+    "nome": "Lisboa",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "FSP",
+    "num_votos": "8192",
+    "perc_votos": "0.68",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "110000",
+    "nome": "Lisboa",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "MES",
+    "num_votos": "7964",
+    "perc_votos": "0.66",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "110000",
+    "nome": "Lisboa",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PCP (M-L)",
+    "num_votos": "5289",
+    "perc_votos": "0.44",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "110000",
+    "nome": "Lisboa",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PPM",
+    "num_votos": "4902",
+    "perc_votos": "0.41",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "110000",
+    "nome": "Lisboa",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PDC",
+    "num_votos": "4348",
+    "perc_votos": "0.36",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "110000",
+    "nome": "Lisboa",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "LCI",
+    "num_votos": "2865",
+    "perc_votos": "0.24",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "110000",
+    "nome": "Lisboa",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "AOC",
+    "num_votos": "2832",
+    "perc_votos": "0.24",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "110000",
+    "nome": "Lisboa",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PRT",
+    "num_votos": "1580",
+    "perc_votos": "0.13",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "220000",
+    "nome": "Madeira",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PPD",
+    "num_votos": "60925",
+    "perc_votos": "53.04",
+    "mandatos": "4"
+  },
+  {
+    "codigo": "220000",
+    "nome": "Madeira",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PS",
+    "num_votos": "28645",
+    "perc_votos": "24.94",
+    "mandatos": "1"
+  },
+  {
+    "codigo": "220000",
+    "nome": "Madeira",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "CDS",
+    "num_votos": "15310",
+    "perc_votos": "13.33",
+    "mandatos": "1"
+  },
+  {
+    "codigo": "220000",
+    "nome": "Madeira",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PCP",
+    "num_votos": "1667",
+    "perc_votos": "1.45",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "220000",
+    "nome": "Madeira",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "UDP",
+    "num_votos": "1492",
+    "perc_votos": "1.3",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "220000",
+    "nome": "Madeira",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PDC",
+    "num_votos": "1412",
+    "perc_votos": "1.23",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "220000",
+    "nome": "Madeira",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "MES",
+    "num_votos": "1071",
+    "perc_votos": "0.93",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "220000",
+    "nome": "Madeira",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "MRPP",
+    "num_votos": "553",
+    "perc_votos": "0.48",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "220000",
+    "nome": "Madeira",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PPM",
+    "num_votos": "456",
+    "perc_votos": "0.4",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "120000",
+    "nome": "Portalegre",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PS",
+    "num_votos": "40238",
+    "perc_votos": "41.89",
+    "mandatos": "3"
+  },
+  {
+    "codigo": "120000",
+    "nome": "Portalegre",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PCP",
+    "num_votos": "21135",
+    "perc_votos": "22",
+    "mandatos": "1"
+  },
+  {
+    "codigo": "120000",
+    "nome": "Portalegre",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "CDS",
+    "num_votos": "13375",
+    "perc_votos": "13.92",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "120000",
+    "nome": "Portalegre",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PPD",
+    "num_votos": "9680",
+    "perc_votos": "10.08",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "120000",
+    "nome": "Portalegre",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "FSP",
+    "num_votos": "1004",
+    "perc_votos": "1.05",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "120000",
+    "nome": "Portalegre",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "UDP",
+    "num_votos": "949",
+    "perc_votos": "0.99",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "120000",
+    "nome": "Portalegre",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "MES",
+    "num_votos": "934",
+    "perc_votos": "0.97",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "120000",
+    "nome": "Portalegre",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "LCI",
+    "num_votos": "734",
+    "perc_votos": "0.76",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "120000",
+    "nome": "Portalegre",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PDC",
+    "num_votos": "630",
+    "perc_votos": "0.66",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "120000",
+    "nome": "Portalegre",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "AOC",
+    "num_votos": "598",
+    "perc_votos": "0.62",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "120000",
+    "nome": "Portalegre",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PPM",
+    "num_votos": "475",
+    "perc_votos": "0.49",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "120000",
+    "nome": "Portalegre",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "MRPP",
+    "num_votos": "352",
+    "perc_votos": "0.37",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "120000",
+    "nome": "Portalegre",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PCP (M-L)",
+    "num_votos": "309",
+    "perc_votos": "0.32",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "130000",
+    "nome": "Porto",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PS",
+    "num_votos": "336960",
+    "perc_votos": "40.74",
+    "mandatos": "18"
+  },
+  {
+    "codigo": "130000",
+    "nome": "Porto",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PPD",
+    "num_votos": "222974",
+    "perc_votos": "26.96",
+    "mandatos": "11"
+  },
+  {
+    "codigo": "130000",
+    "nome": "Porto",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "CDS",
+    "num_votos": "129732",
+    "perc_votos": "15.68",
+    "mandatos": "6"
+  },
+  {
+    "codigo": "130000",
+    "nome": "Porto",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PCP",
+    "num_votos": "69176",
+    "perc_votos": "8.36",
+    "mandatos": "3"
+  },
+  {
+    "codigo": "130000",
+    "nome": "Porto",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "UDP",
+    "num_votos": "12590",
+    "perc_votos": "1.52",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "130000",
+    "nome": "Porto",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "FSP",
+    "num_votos": "3817",
+    "perc_votos": "0.46",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "130000",
+    "nome": "Porto",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PPM",
+    "num_votos": "3047",
+    "perc_votos": "0.37",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "130000",
+    "nome": "Porto",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PDC",
+    "num_votos": "3014",
+    "perc_votos": "0.36",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "130000",
+    "nome": "Porto",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "LCI",
+    "num_votos": "2376",
+    "perc_votos": "0.29",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "130000",
+    "nome": "Porto",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "MES",
+    "num_votos": "2256",
+    "perc_votos": "0.27",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "130000",
+    "nome": "Porto",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "MRPP",
+    "num_votos": "1963",
+    "perc_votos": "0.24",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "130000",
+    "nome": "Porto",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PRT",
+    "num_votos": "1442",
+    "perc_votos": "0.17",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "130000",
+    "nome": "Porto",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "AOC",
+    "num_votos": "1167",
+    "perc_votos": "0.14",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "130000",
+    "nome": "Porto",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PCP (M-L)",
+    "num_votos": "1154",
+    "perc_votos": "0.14",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "140000",
+    "nome": "Santarém",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PS",
+    "num_votos": "104422",
+    "perc_votos": "38.4",
+    "mandatos": "6"
+  },
+  {
+    "codigo": "140000",
+    "nome": "Santarém",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PPD",
+    "num_votos": "53138",
+    "perc_votos": "19.54",
+    "mandatos": "3"
+  },
+  {
+    "codigo": "140000",
+    "nome": "Santarém",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PCP",
+    "num_votos": "43841",
+    "perc_votos": "16.12",
+    "mandatos": "2"
+  },
+  {
+    "codigo": "140000",
+    "nome": "Santarém",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "CDS",
+    "num_votos": "37699",
+    "perc_votos": "13.86",
+    "mandatos": "2"
+  },
+  {
+    "codigo": "140000",
+    "nome": "Santarém",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "UDP",
+    "num_votos": "4533",
+    "perc_votos": "1.67",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "140000",
+    "nome": "Santarém",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "FSP",
+    "num_votos": "3040",
+    "perc_votos": "1.12",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "140000",
+    "nome": "Santarém",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "MRPP",
+    "num_votos": "1906",
+    "perc_votos": "0.7",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "140000",
+    "nome": "Santarém",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PPM",
+    "num_votos": "1699",
+    "perc_votos": "0.62",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "140000",
+    "nome": "Santarém",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PDC",
+    "num_votos": "1690",
+    "perc_votos": "0.62",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "140000",
+    "nome": "Santarém",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "MES",
+    "num_votos": "1534",
+    "perc_votos": "0.56",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "140000",
+    "nome": "Santarém",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "LCI",
+    "num_votos": "1312",
+    "perc_votos": "0.48",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "140000",
+    "nome": "Santarém",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "AOC",
+    "num_votos": "1189",
+    "perc_votos": "0.44",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "140000",
+    "nome": "Santarém",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PCP (M-L)",
+    "num_votos": "962",
+    "perc_votos": "0.35",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "150000",
+    "nome": "Setúbal",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PCP",
+    "num_votos": "159087",
+    "perc_votos": "44.35",
+    "mandatos": "9"
+  },
+  {
+    "codigo": "150000",
+    "nome": "Setúbal",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PS",
+    "num_votos": "115352",
+    "perc_votos": "32.16",
+    "mandatos": "7"
+  },
+  {
+    "codigo": "150000",
+    "nome": "Setúbal",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PPD",
+    "num_votos": "30142",
+    "perc_votos": "8.4",
+    "mandatos": "1"
+  },
+  {
+    "codigo": "150000",
+    "nome": "Setúbal",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "CDS",
+    "num_votos": "15724",
+    "perc_votos": "4.38",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "150000",
+    "nome": "Setúbal",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "UDP",
+    "num_votos": "10057",
+    "perc_votos": "2.8",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "150000",
+    "nome": "Setúbal",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "FSP",
+    "num_votos": "3467",
+    "perc_votos": "0.97",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "150000",
+    "nome": "Setúbal",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "MRPP",
+    "num_votos": "3194",
+    "perc_votos": "0.89",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "150000",
+    "nome": "Setúbal",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PCP (M-L)",
+    "num_votos": "2987",
+    "perc_votos": "0.83",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "150000",
+    "nome": "Setúbal",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "MES",
+    "num_votos": "2242",
+    "perc_votos": "0.63",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "150000",
+    "nome": "Setúbal",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PPM",
+    "num_votos": "973",
+    "perc_votos": "0.27",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "150000",
+    "nome": "Setúbal",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "AOC",
+    "num_votos": "911",
+    "perc_votos": "0.25",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "150000",
+    "nome": "Setúbal",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PDC",
+    "num_votos": "885",
+    "perc_votos": "0.25",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "150000",
+    "nome": "Setúbal",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "LCI",
+    "num_votos": "653",
+    "perc_votos": "0.18",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "150000",
+    "nome": "Setúbal",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PRT",
+    "num_votos": "565",
+    "perc_votos": "0.16",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "160000",
+    "nome": "Viana do Castelo",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PPD",
+    "num_votos": "42519",
+    "perc_votos": "32.77",
+    "mandatos": "3"
+  },
+  {
+    "codigo": "160000",
+    "nome": "Viana do Castelo",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PS",
+    "num_votos": "33094",
+    "perc_votos": "25.51",
+    "mandatos": "2"
+  },
+  {
+    "codigo": "160000",
+    "nome": "Viana do Castelo",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "CDS",
+    "num_votos": "30437",
+    "perc_votos": "23.46",
+    "mandatos": "2"
+  },
+  {
+    "codigo": "160000",
+    "nome": "Viana do Castelo",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PCP",
+    "num_votos": "8611",
+    "perc_votos": "6.64",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "160000",
+    "nome": "Viana do Castelo",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "FSP",
+    "num_votos": "1314",
+    "perc_votos": "1.01",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "160000",
+    "nome": "Viana do Castelo",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PDC",
+    "num_votos": "1192",
+    "perc_votos": "0.92",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "160000",
+    "nome": "Viana do Castelo",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "UDP",
+    "num_votos": "1110",
+    "perc_votos": "0.86",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "160000",
+    "nome": "Viana do Castelo",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PPM",
+    "num_votos": "995",
+    "perc_votos": "0.77",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "160000",
+    "nome": "Viana do Castelo",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "MES",
+    "num_votos": "881",
+    "perc_votos": "0.68",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "160000",
+    "nome": "Viana do Castelo",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "LCI",
+    "num_votos": "583",
+    "perc_votos": "0.45",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "160000",
+    "nome": "Viana do Castelo",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "MRPP",
+    "num_votos": "399",
+    "perc_votos": "0.31",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "160000",
+    "nome": "Viana do Castelo",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "AOC",
+    "num_votos": "380",
+    "perc_votos": "0.29",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "160000",
+    "nome": "Viana do Castelo",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PCP (M-L)",
+    "num_votos": "314",
+    "perc_votos": "0.24",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "170000",
+    "nome": "Vila Real",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PPD",
+    "num_votos": "50736",
+    "perc_votos": "38.99",
+    "mandatos": "4"
+  },
+  {
+    "codigo": "170000",
+    "nome": "Vila Real",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PS",
+    "num_votos": "34277",
+    "perc_votos": "26.34",
+    "mandatos": "2"
+  },
+  {
+    "codigo": "170000",
+    "nome": "Vila Real",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "CDS",
+    "num_votos": "23808",
+    "perc_votos": "18.3",
+    "mandatos": "1"
+  },
+  {
+    "codigo": "170000",
+    "nome": "Vila Real",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PCP",
+    "num_votos": "4086",
+    "perc_votos": "3.14",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "170000",
+    "nome": "Vila Real",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "UDP",
+    "num_votos": "1192",
+    "perc_votos": "0.92",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "170000",
+    "nome": "Vila Real",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PPM",
+    "num_votos": "1079",
+    "perc_votos": "0.83",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "170000",
+    "nome": "Vila Real",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PDC",
+    "num_votos": "1041",
+    "perc_votos": "0.8",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "170000",
+    "nome": "Vila Real",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "AOC",
+    "num_votos": "936",
+    "perc_votos": "0.72",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "170000",
+    "nome": "Vila Real",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "MES",
+    "num_votos": "890",
+    "perc_votos": "0.68",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "170000",
+    "nome": "Vila Real",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "LCI",
+    "num_votos": "877",
+    "perc_votos": "0.67",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "170000",
+    "nome": "Vila Real",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "FSP",
+    "num_votos": "648",
+    "perc_votos": "0.5",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "170000",
+    "nome": "Vila Real",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "MRPP",
+    "num_votos": "534",
+    "perc_votos": "0.41",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "170000",
+    "nome": "Vila Real",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PCP (M-L)",
+    "num_votos": "406",
+    "perc_votos": "0.31",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "180000",
+    "nome": "Viseu",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PPD",
+    "num_votos": "70159",
+    "perc_votos": "32.22",
+    "mandatos": "4"
+  },
+  {
+    "codigo": "180000",
+    "nome": "Viseu",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "CDS",
+    "num_votos": "67864",
+    "perc_votos": "31.16",
+    "mandatos": "4"
+  },
+  {
+    "codigo": "180000",
+    "nome": "Viseu",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PS",
+    "num_votos": "50033",
+    "perc_votos": "22.97",
+    "mandatos": "3"
+  },
+  {
+    "codigo": "180000",
+    "nome": "Viseu",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PCP",
+    "num_votos": "4954",
+    "perc_votos": "2.27",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "180000",
+    "nome": "Viseu",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PDC",
+    "num_votos": "2342",
+    "perc_votos": "1.08",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "180000",
+    "nome": "Viseu",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PPM",
+    "num_votos": "2093",
+    "perc_votos": "0.96",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "180000",
+    "nome": "Viseu",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "UDP",
+    "num_votos": "2026",
+    "perc_votos": "0.93",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "180000",
+    "nome": "Viseu",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "FSP",
+    "num_votos": "1194",
+    "perc_votos": "0.55",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "180000",
+    "nome": "Viseu",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "MES",
+    "num_votos": "1034",
+    "perc_votos": "0.47",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "180000",
+    "nome": "Viseu",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "MRPP",
+    "num_votos": "815",
+    "perc_votos": "0.37",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "180000",
+    "nome": "Viseu",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "AOC",
+    "num_votos": "792",
+    "perc_votos": "0.36",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "180000",
+    "nome": "Viseu",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "PCP (M-L)",
+    "num_votos": "688",
+    "perc_votos": "0.32",
+    "mandatos": "0"
+  },
+  {
+    "codigo": "180000",
+    "nome": "Viseu",
+    "tipo": "AR",
+    "data": "1976-04-25",
+    "partido": "LCI",
+    "num_votos": "554",
+    "perc_votos": "0.25",
+    "mandatos": "0"
+  }
+]

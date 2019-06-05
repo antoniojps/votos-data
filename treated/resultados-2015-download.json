@@ -1,0 +1,6742 @@
+[
+  {
+    "currentResults": {
+      "availableMandates": 0,
+      "blankVotes": 3047,
+      "blankVotesPercentage": 3.25,
+      "displayMessage": null,
+      "hasNoVoting": false,
+      "nullVotes": 1583,
+      "nullVotesPercentage": 1.69,
+      "numberParishes": 156,
+      "numberVoters": 93803,
+      "percentageVoters": 41.22,
+      "resultsParty": [
+        {
+          "absoluteMajority": null,
+          "acronym": "PS",
+          "constituenctyCounter": 1,
+          "mandates": 3,
+          "percentage": 40.37,
+          "presidents": null,
+          "validVotesPercentage": 42.47,
+          "votes": 37869
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPD/PSD",
+          "constituenctyCounter": 1,
+          "mandates": 2,
+          "percentage": 36.06,
+          "presidents": null,
+          "validVotesPercentage": 37.93,
+          "votes": 33826
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "B.E.",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 7.81,
+          "presidents": null,
+          "validVotesPercentage": 8.22,
+          "votes": 7330
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "CDS-PP.PPM",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 3.9,
+          "presidents": null,
+          "validVotesPercentage": 4.1,
+          "votes": 3654
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCP-PEV",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 2.47,
+          "presidents": null,
+          "validVotesPercentage": 2.6,
+          "votes": 2320
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PAN",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.87,
+          "presidents": null,
+          "validVotesPercentage": 0.91,
+          "votes": 815
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "NC",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.82,
+          "presidents": null,
+          "validVotesPercentage": 0.86,
+          "votes": 766
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCTP/MRPP",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.64,
+          "presidents": null,
+          "validVotesPercentage": 0.67,
+          "votes": 601
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PDR",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.54,
+          "presidents": null,
+          "validVotesPercentage": 0.57,
+          "votes": 511
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PURP",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.37,
+          "presidents": null,
+          "validVotesPercentage": 0.39,
+          "votes": 346
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "L/TDA",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.35,
+          "presidents": null,
+          "validVotesPercentage": 0.37,
+          "votes": 332
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PTP-MAS",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.34,
+          "presidents": null,
+          "validVotesPercentage": 0.36,
+          "votes": 319
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "MPT",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.32,
+          "presidents": null,
+          "validVotesPercentage": 0.34,
+          "votes": 299
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PNR",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.2,
+          "presidents": null,
+          "validVotesPercentage": 0.21,
+          "votes": 185
+        }
+      ],
+      "subscribedVoters": 227546,
+      "tie": false,
+      "tieMessage": null,
+      "totalBoycotts": 0,
+      "totalMandates": 5,
+      "totalParishesApproved": 156,
+      "totalVoters": 93803
+    },
+    "displayMessage": null,
+    "foreignCounterMessage": null,
+    "nationalCounterMessage": null,
+    "previousResults": {
+      "blankVotes": 3250,
+      "blankVotesPercentage": 3.6,
+      "displayMessage": null,
+      "nullVotes": 912,
+      "nullVotesPercentage": 1.01,
+      "percentageVoters": 40.65,
+      "resultsParty": [
+        {
+          "absoluteMajority": null,
+          "acronym": "PPD/PSD",
+          "constituenctyCounter": null,
+          "mandates": 3,
+          "percentage": 47.36,
+          "presidents": null,
+          "validVotesPercentage": 49.64,
+          "votes": 42784
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PS",
+          "constituenctyCounter": null,
+          "mandates": 2,
+          "percentage": 25.67,
+          "presidents": null,
+          "validVotesPercentage": 26.91,
+          "votes": 23195
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "CDS-PP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 12.11,
+          "presidents": null,
+          "validVotesPercentage": 12.7,
+          "votes": 10944
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "B.E.",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 4.39,
+          "presidents": null,
+          "validVotesPercentage": 4.6,
+          "votes": 3966
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCP-PEV",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 2.53,
+          "presidents": null,
+          "validVotesPercentage": 2.65,
+          "votes": 2287
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PAN",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.84,
+          "presidents": null,
+          "validVotesPercentage": 0.88,
+          "votes": 755
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCTP/MRPP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.75,
+          "presidents": null,
+          "validVotesPercentage": 0.79,
+          "votes": 677
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PDA",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.41,
+          "presidents": null,
+          "validVotesPercentage": 0.43,
+          "votes": 371
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "MPT",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.35,
+          "presidents": null,
+          "validVotesPercentage": 0.37,
+          "votes": 315
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "MEP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.28,
+          "presidents": null,
+          "validVotesPercentage": 0.3,
+          "votes": 257
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPM",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.28,
+          "presidents": null,
+          "validVotesPercentage": 0.3,
+          "votes": 257
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PTP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.25,
+          "presidents": null,
+          "validVotesPercentage": 0.26,
+          "votes": 228
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PNR",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.16,
+          "presidents": null,
+          "validVotesPercentage": 0.17,
+          "votes": 149
+        }
+      ],
+      "subscribedVoters": 222247,
+      "totalMandates": 5,
+      "totalVoters": 90347
+    },
+    "refreshTimeout": 20,
+    "territoryFullName": "Açores",
+    "territoryKey": "LOCAL-400000",
+    "territoryMessage": null,
+    "territoryName": "Açores",
+    "time": "12:06",
+    "totalConsulates": 23,
+    "totalConsulatesApproved": 23,
+    "totalParishes": 3092,
+    "totalParishesApproved": 3092,
+    "warningMessage": null
+  },
+  {
+    "currentResults": {
+      "availableMandates": 0,
+      "blankVotes": 1421,
+      "blankVotesPercentage": 1.68,
+      "displayMessage": null,
+      "hasNoVoting": false,
+      "nullVotes": 1079,
+      "nullVotesPercentage": 1.28,
+      "numberParishes": 69,
+      "numberVoters": 84617,
+      "percentageVoters": 59.9,
+      "resultsParty": [
+        {
+          "absoluteMajority": null,
+          "acronym": "PS",
+          "constituenctyCounter": 1,
+          "mandates": 1,
+          "percentage": 37.47,
+          "presidents": null,
+          "validVotesPercentage": 38.61,
+          "votes": 31705
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPD/PSD.CDS-PP",
+          "constituenctyCounter": 1,
+          "mandates": 1,
+          "percentage": 23.96,
+          "presidents": null,
+          "validVotesPercentage": 24.69,
+          "votes": 20275
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCP-PEV",
+          "constituenctyCounter": 1,
+          "mandates": 1,
+          "percentage": 21.94,
+          "presidents": null,
+          "validVotesPercentage": 22.61,
+          "votes": 18567
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "B.E.",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 8.64,
+          "presidents": null,
+          "validVotesPercentage": 8.9,
+          "votes": 7312
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCTP/MRPP",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 1.47,
+          "presidents": null,
+          "validVotesPercentage": 1.52,
+          "votes": 1245
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PAN",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.85,
+          "presidents": null,
+          "validVotesPercentage": 0.88,
+          "votes": 723
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PDR",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.52,
+          "presidents": null,
+          "validVotesPercentage": 0.54,
+          "votes": 443
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPM",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.43,
+          "presidents": null,
+          "validVotesPercentage": 0.44,
+          "votes": 363
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "L/TDA",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.42,
+          "presidents": null,
+          "validVotesPercentage": 0.43,
+          "votes": 356
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PNR",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.33,
+          "presidents": null,
+          "validVotesPercentage": 0.34,
+          "votes": 280
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "MPT",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.29,
+          "presidents": null,
+          "validVotesPercentage": 0.29,
+          "votes": 242
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "NC",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.26,
+          "presidents": null,
+          "validVotesPercentage": 0.26,
+          "votes": 216
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PTP-MAS",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.26,
+          "presidents": null,
+          "validVotesPercentage": 0.27,
+          "votes": 224
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PURP",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.2,
+          "presidents": null,
+          "validVotesPercentage": 0.2,
+          "votes": 166
+        }
+      ],
+      "subscribedVoters": 141258,
+      "tie": false,
+      "tieMessage": null,
+      "totalBoycotts": 0,
+      "totalMandates": 3,
+      "totalParishesApproved": 69,
+      "totalVoters": 84617
+    },
+    "displayMessage": null,
+    "foreignCounterMessage": null,
+    "nationalCounterMessage": null,
+    "previousResults": {
+      "blankVotes": 1839,
+      "blankVotesPercentage": 2.14,
+      "displayMessage": null,
+      "nullVotes": 1050,
+      "nullVotesPercentage": 1.22,
+      "percentageVoters": 59,
+      "resultsParty": [
+        {
+          "absoluteMajority": null,
+          "acronym": "PS",
+          "constituenctyCounter": null,
+          "mandates": 1,
+          "percentage": 29.07,
+          "presidents": null,
+          "validVotesPercentage": 30.08,
+          "votes": 25032
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPD/PSD",
+          "constituenctyCounter": null,
+          "mandates": 1,
+          "percentage": 27.47,
+          "presidents": null,
+          "validVotesPercentage": 28.42,
+          "votes": 23652
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCP-PEV",
+          "constituenctyCounter": null,
+          "mandates": 1,
+          "percentage": 22.06,
+          "presidents": null,
+          "validVotesPercentage": 22.82,
+          "votes": 18990
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "CDS-PP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 8.73,
+          "presidents": null,
+          "validVotesPercentage": 9.03,
+          "votes": 7513
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "B.E.",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 4.91,
+          "presidents": null,
+          "validVotesPercentage": 5.08,
+          "votes": 4230
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCTP/MRPP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 2.1,
+          "presidents": null,
+          "validVotesPercentage": 2.17,
+          "votes": 1804
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PAN",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.75,
+          "presidents": null,
+          "validVotesPercentage": 0.78,
+          "votes": 646
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "MEP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.3,
+          "presidents": null,
+          "validVotesPercentage": 0.31,
+          "votes": 261
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "MPT",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.28,
+          "presidents": null,
+          "validVotesPercentage": 0.29,
+          "votes": 242
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PTP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.25,
+          "presidents": null,
+          "validVotesPercentage": 0.26,
+          "votes": 218
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPM",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.24,
+          "presidents": null,
+          "validVotesPercentage": 0.25,
+          "votes": 208
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PNR",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.2,
+          "presidents": null,
+          "validVotesPercentage": 0.21,
+          "votes": 173
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPV",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.18,
+          "presidents": null,
+          "validVotesPercentage": 0.19,
+          "votes": 154
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "P.H.",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.1,
+          "presidents": null,
+          "validVotesPercentage": 0.11,
+          "votes": 90
+        }
+      ],
+      "subscribedVoters": 145929,
+      "totalMandates": 3,
+      "totalVoters": 86102
+    },
+    "refreshTimeout": 20,
+    "territoryFullName": "Évora",
+    "territoryKey": "LOCAL-070000",
+    "territoryMessage": null,
+    "territoryName": "Évora",
+    "time": "12:05",
+    "totalConsulates": 23,
+    "totalConsulatesApproved": 23,
+    "totalParishes": 3092,
+    "totalParishesApproved": 3092,
+    "warningMessage": null
+  },
+  {
+    "currentResults": {
+      "availableMandates": 0,
+      "blankVotes": 2091,
+      "blankVotesPercentage": 2.01,
+      "displayMessage": null,
+      "hasNoVoting": false,
+      "nullVotes": 2167,
+      "nullVotesPercentage": 2.08,
+      "numberParishes": 120,
+      "numberVoters": 104223,
+      "percentageVoters": 57.46,
+      "resultsParty": [
+        {
+          "absoluteMajority": null,
+          "acronym": "PS",
+          "constituenctyCounter": 1,
+          "mandates": 2,
+          "percentage": 38.86,
+          "presidents": null,
+          "validVotesPercentage": 40.52,
+          "votes": 40502
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPD/PSD.CDS-PP",
+          "constituenctyCounter": 1,
+          "mandates": 2,
+          "percentage": 35.31,
+          "presidents": null,
+          "validVotesPercentage": 36.82,
+          "votes": 36803
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "B.E.",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 10.03,
+          "presidents": null,
+          "validVotesPercentage": 10.45,
+          "votes": 10450
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCP-PEV",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 6.03,
+          "presidents": null,
+          "validVotesPercentage": 6.29,
+          "votes": 6286
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCTP/MRPP",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 1.04,
+          "presidents": null,
+          "validVotesPercentage": 1.08,
+          "votes": 1080
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PDR",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 1.04,
+          "presidents": null,
+          "validVotesPercentage": 1.09,
+          "votes": 1086
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PAN",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.83,
+          "presidents": null,
+          "validVotesPercentage": 0.86,
+          "votes": 860
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "L/TDA",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.49,
+          "presidents": null,
+          "validVotesPercentage": 0.51,
+          "votes": 507
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PNR",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.49,
+          "presidents": null,
+          "validVotesPercentage": 0.51,
+          "votes": 508
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPM",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.48,
+          "presidents": null,
+          "validVotesPercentage": 0.5,
+          "votes": 496
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "MPT",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.45,
+          "presidents": null,
+          "validVotesPercentage": 0.47,
+          "votes": 474
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PTP-MAS",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.36,
+          "presidents": null,
+          "validVotesPercentage": 0.37,
+          "votes": 374
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "NC",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.26,
+          "presidents": null,
+          "validVotesPercentage": 0.27,
+          "votes": 267
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PURP",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.26,
+          "presidents": null,
+          "validVotesPercentage": 0.27,
+          "votes": 272
+        }
+      ],
+      "subscribedVoters": 181378,
+      "tie": false,
+      "tieMessage": null,
+      "totalBoycotts": 0,
+      "totalMandates": 4,
+      "totalParishesApproved": 120,
+      "totalVoters": 104223
+    },
+    "displayMessage": null,
+    "foreignCounterMessage": null,
+    "nationalCounterMessage": null,
+    "previousResults": {
+      "blankVotes": 2948,
+      "blankVotesPercentage": 2.68,
+      "displayMessage": null,
+      "nullVotes": 1934,
+      "nullVotesPercentage": 1.76,
+      "percentageVoters": 57.64,
+      "resultsParty": [
+        {
+          "absoluteMajority": null,
+          "acronym": "PPD/PSD",
+          "constituenctyCounter": null,
+          "mandates": 2,
+          "percentage": 37.96,
+          "presidents": null,
+          "validVotesPercentage": 39.72,
+          "votes": 41799
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PS",
+          "constituenctyCounter": null,
+          "mandates": 2,
+          "percentage": 34.8,
+          "presidents": null,
+          "validVotesPercentage": 36.41,
+          "votes": 38316
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "CDS-PP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 9.57,
+          "presidents": null,
+          "validVotesPercentage": 10.01,
+          "votes": 10535
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCP-PEV",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 4.89,
+          "presidents": null,
+          "validVotesPercentage": 5.12,
+          "votes": 5386
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "B.E.",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 4.19,
+          "presidents": null,
+          "validVotesPercentage": 4.38,
+          "votes": 4614
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCTP/MRPP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 1.32,
+          "presidents": null,
+          "validVotesPercentage": 1.38,
+          "votes": 1453
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PAN",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.69,
+          "presidents": null,
+          "validVotesPercentage": 0.73,
+          "votes": 765
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PTP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.49,
+          "presidents": null,
+          "validVotesPercentage": 0.52,
+          "votes": 544
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PNR",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.39,
+          "presidents": null,
+          "validVotesPercentage": 0.41,
+          "votes": 428
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPM",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.39,
+          "presidents": null,
+          "validVotesPercentage": 0.4,
+          "votes": 425
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "MPT",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.37,
+          "presidents": null,
+          "validVotesPercentage": 0.38,
+          "votes": 402
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "MEP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.32,
+          "presidents": null,
+          "validVotesPercentage": 0.34,
+          "votes": 354
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPV",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.2,
+          "presidents": null,
+          "validVotesPercentage": 0.2,
+          "votes": 215
+        }
+      ],
+      "subscribedVoters": 191043,
+      "totalMandates": 4,
+      "totalVoters": 110118
+    },
+    "refreshTimeout": 20,
+    "territoryFullName": "Castelo Branco",
+    "territoryKey": "LOCAL-050000",
+    "territoryMessage": null,
+    "territoryName": "Castelo Branco",
+    "time": "12:05",
+    "totalConsulates": 23,
+    "totalConsulatesApproved": 23,
+    "totalParishes": 3092,
+    "totalParishesApproved": 3092,
+    "warningMessage": null
+  },
+  {
+    "currentResults": {
+      "availableMandates": 0,
+      "blankVotes": 10708,
+      "blankVotesPercentage": 2.26,
+      "displayMessage": null,
+      "hasNoVoting": false,
+      "nullVotes": 6112,
+      "nullVotesPercentage": 1.29,
+      "numberParishes": 347,
+      "numberVoters": 474341,
+      "percentageVoters": 60.21,
+      "resultsParty": [
+        {
+          "absoluteMajority": null,
+          "acronym": "PPD/PSD.CDS-PP",
+          "constituenctyCounter": 1,
+          "mandates": 10,
+          "percentage": 45.61,
+          "presidents": null,
+          "validVotesPercentage": 47.29,
+          "votes": 216357
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PS",
+          "constituenctyCounter": 1,
+          "mandates": 7,
+          "percentage": 30.87,
+          "presidents": null,
+          "validVotesPercentage": 32,
+          "votes": 146412
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "B.E.",
+          "constituenctyCounter": 1,
+          "mandates": 1,
+          "percentage": 8.8,
+          "presidents": null,
+          "validVotesPercentage": 9.12,
+          "votes": 41745
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCP-PEV",
+          "constituenctyCounter": 1,
+          "mandates": 1,
+          "percentage": 5.19,
+          "presidents": null,
+          "validVotesPercentage": 5.38,
+          "votes": 24632
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PDR",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 1.58,
+          "presidents": null,
+          "validVotesPercentage": 1.64,
+          "votes": 7500
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCTP/MRPP",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 1.15,
+          "presidents": null,
+          "validVotesPercentage": 1.19,
+          "votes": 5436
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PAN",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.78,
+          "presidents": null,
+          "validVotesPercentage": 0.8,
+          "votes": 3682
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "L/TDA",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.49,
+          "presidents": null,
+          "validVotesPercentage": 0.51,
+          "votes": 2333
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PNR",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.39,
+          "presidents": null,
+          "validVotesPercentage": 0.4,
+          "votes": 1836
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "MPT",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.34,
+          "presidents": null,
+          "validVotesPercentage": 0.35,
+          "votes": 1604
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PTP-MAS",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.34,
+          "presidents": null,
+          "validVotesPercentage": 0.35,
+          "votes": 1620
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPV/CDC",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.21,
+          "presidents": null,
+          "validVotesPercentage": 0.22,
+          "votes": 993
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "NC",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.2,
+          "presidents": null,
+          "validVotesPercentage": 0.21,
+          "votes": 972
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPM",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.19,
+          "presidents": null,
+          "validVotesPercentage": 0.19,
+          "votes": 884
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PURP",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.19,
+          "presidents": null,
+          "validVotesPercentage": 0.19,
+          "votes": 878
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "JPP",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.13,
+          "presidents": null,
+          "validVotesPercentage": 0.14,
+          "votes": 637
+        }
+      ],
+      "subscribedVoters": 787768,
+      "tie": false,
+      "tieMessage": null,
+      "totalBoycotts": 0,
+      "totalMandates": 19,
+      "totalParishesApproved": 347,
+      "totalVoters": 474341
+    },
+    "displayMessage": null,
+    "foreignCounterMessage": null,
+    "nationalCounterMessage": null,
+    "previousResults": {
+      "blankVotes": 12825,
+      "blankVotesPercentage": 2.64,
+      "displayMessage": null,
+      "nullVotes": 5270,
+      "nullVotesPercentage": 1.09,
+      "percentageVoters": 62.63,
+      "resultsParty": [
+        {
+          "absoluteMajority": null,
+          "acronym": "PPD/PSD",
+          "constituenctyCounter": null,
+          "mandates": 9,
+          "percentage": 40.07,
+          "presidents": null,
+          "validVotesPercentage": 41.63,
+          "votes": 194545
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PS",
+          "constituenctyCounter": null,
+          "mandates": 7,
+          "percentage": 32.85,
+          "presidents": null,
+          "validVotesPercentage": 34.12,
+          "votes": 159477
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "CDS-PP",
+          "constituenctyCounter": null,
+          "mandates": 2,
+          "percentage": 10.39,
+          "presidents": null,
+          "validVotesPercentage": 10.8,
+          "votes": 50456
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCP-PEV",
+          "constituenctyCounter": null,
+          "mandates": 1,
+          "percentage": 4.89,
+          "presidents": null,
+          "validVotesPercentage": 5.08,
+          "votes": 23759
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "B.E.",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 4.22,
+          "presidents": null,
+          "validVotesPercentage": 4.38,
+          "votes": 20488
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCTP/MRPP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.88,
+          "presidents": null,
+          "validVotesPercentage": 0.91,
+          "votes": 4268
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PAN",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.56,
+          "presidents": null,
+          "validVotesPercentage": 0.58,
+          "votes": 2706
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PND",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.48,
+          "presidents": null,
+          "validVotesPercentage": 0.5,
+          "votes": 2338
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "MPT",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.41,
+          "presidents": null,
+          "validVotesPercentage": 0.42,
+          "votes": 1968
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "MEP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.34,
+          "presidents": null,
+          "validVotesPercentage": 0.35,
+          "votes": 1628
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PTP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.3,
+          "presidents": null,
+          "validVotesPercentage": 0.31,
+          "votes": 1465
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPM",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.23,
+          "presidents": null,
+          "validVotesPercentage": 0.24,
+          "votes": 1105
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PNR",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.22,
+          "presidents": null,
+          "validVotesPercentage": 0.23,
+          "votes": 1092
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPV",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.16,
+          "presidents": null,
+          "validVotesPercentage": 0.17,
+          "votes": 785
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "POUS",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.14,
+          "presidents": null,
+          "validVotesPercentage": 0.15,
+          "votes": 692
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PDA",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.12,
+          "presidents": null,
+          "validVotesPercentage": 0.13,
+          "votes": 593
+        }
+      ],
+      "subscribedVoters": 775167,
+      "totalMandates": 19,
+      "totalVoters": 485460
+    },
+    "refreshTimeout": 20,
+    "territoryFullName": "Braga",
+    "territoryKey": "LOCAL-030000",
+    "territoryMessage": null,
+    "territoryName": "Braga",
+    "time": "12:05",
+    "totalConsulates": 23,
+    "totalConsulatesApproved": 23,
+    "totalParishes": 3092,
+    "totalParishesApproved": 3092,
+    "warningMessage": null
+  },
+  {
+    "currentResults": {
+      "availableMandates": 0,
+      "blankVotes": 6902,
+      "blankVotesPercentage": 2.89,
+      "displayMessage": null,
+      "hasNoVoting": false,
+      "nullVotes": 4699,
+      "nullVotesPercentage": 1.97,
+      "numberParishes": 110,
+      "numberVoters": 238433,
+      "percentageVoters": 56.26,
+      "resultsParty": [
+        {
+          "absoluteMajority": null,
+          "acronym": "PPD/PSD.CDS-PP",
+          "constituenctyCounter": 1,
+          "mandates": 6,
+          "percentage": 48.42,
+          "presidents": null,
+          "validVotesPercentage": 50.9,
+          "votes": 115453
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PS",
+          "constituenctyCounter": 1,
+          "mandates": 3,
+          "percentage": 24.82,
+          "presidents": null,
+          "validVotesPercentage": 26.09,
+          "votes": 59184
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "B.E.",
+          "constituenctyCounter": 1,
+          "mandates": 1,
+          "percentage": 9.66,
+          "presidents": null,
+          "validVotesPercentage": 10.15,
+          "votes": 23034
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCP-PEV",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 5.11,
+          "presidents": null,
+          "validVotesPercentage": 5.37,
+          "votes": 12181
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PDR",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 1.71,
+          "presidents": null,
+          "validVotesPercentage": 1.79,
+          "votes": 4067
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PAN",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 1.22,
+          "presidents": null,
+          "validVotesPercentage": 1.28,
+          "votes": 2908
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCTP/MRPP",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 1.06,
+          "presidents": null,
+          "validVotesPercentage": 1.11,
+          "votes": 2517
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "L/TDA",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.75,
+          "presidents": null,
+          "validVotesPercentage": 0.79,
+          "votes": 1786
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "MPT",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.5,
+          "presidents": null,
+          "validVotesPercentage": 0.52,
+          "votes": 1189
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PNR",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.45,
+          "presidents": null,
+          "validVotesPercentage": 0.47,
+          "votes": 1073
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PTP-MAS",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.38,
+          "presidents": null,
+          "validVotesPercentage": 0.4,
+          "votes": 916
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "NC",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.35,
+          "presidents": null,
+          "validVotesPercentage": 0.37,
+          "votes": 840
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPM",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.29,
+          "presidents": null,
+          "validVotesPercentage": 0.31,
+          "votes": 701
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PURP",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.26,
+          "presidents": null,
+          "validVotesPercentage": 0.27,
+          "votes": 612
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "JPP",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.16,
+          "presidents": null,
+          "validVotesPercentage": 0.16,
+          "votes": 371
+        }
+      ],
+      "subscribedVoters": 423801,
+      "tie": false,
+      "tieMessage": null,
+      "totalBoycotts": 0,
+      "totalMandates": 10,
+      "totalParishesApproved": 110,
+      "totalVoters": 238433
+    },
+    "displayMessage": null,
+    "foreignCounterMessage": null,
+    "nationalCounterMessage": null,
+    "previousResults": {
+      "blankVotes": 8585,
+      "blankVotesPercentage": 3.45,
+      "displayMessage": null,
+      "nullVotes": 3911,
+      "nullVotesPercentage": 1.57,
+      "percentageVoters": 58.5,
+      "resultsParty": [
+        {
+          "absoluteMajority": null,
+          "acronym": "PPD/PSD",
+          "constituenctyCounter": null,
+          "mandates": 6,
+          "percentage": 47,
+          "presidents": null,
+          "validVotesPercentage": 49.49,
+          "votes": 116872
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PS",
+          "constituenctyCounter": null,
+          "mandates": 3,
+          "percentage": 20.71,
+          "presidents": null,
+          "validVotesPercentage": 21.81,
+          "votes": 51503
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "CDS-PP",
+          "constituenctyCounter": null,
+          "mandates": 1,
+          "percentage": 12.8,
+          "presidents": null,
+          "validVotesPercentage": 13.47,
+          "votes": 31819
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "B.E.",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 5.37,
+          "presidents": null,
+          "validVotesPercentage": 5.65,
+          "votes": 13351
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCP-PEV",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 4.97,
+          "presidents": null,
+          "validVotesPercentage": 5.23,
+          "votes": 12349
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PAN",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 1.21,
+          "presidents": null,
+          "validVotesPercentage": 1.27,
+          "votes": 3009
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCTP/MRPP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 1.01,
+          "presidents": null,
+          "validVotesPercentage": 1.06,
+          "votes": 2503
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "MEP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.44,
+          "presidents": null,
+          "validVotesPercentage": 0.46,
+          "votes": 1084
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "MPT",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.39,
+          "presidents": null,
+          "validVotesPercentage": 0.41,
+          "votes": 978
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PTP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.26,
+          "presidents": null,
+          "validVotesPercentage": 0.27,
+          "votes": 635
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PNR",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.24,
+          "presidents": null,
+          "validVotesPercentage": 0.25,
+          "votes": 598
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPV",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.22,
+          "presidents": null,
+          "validVotesPercentage": 0.23,
+          "votes": 550
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "POUS",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.18,
+          "presidents": null,
+          "validVotesPercentage": 0.19,
+          "votes": 445
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPM",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.18,
+          "presidents": null,
+          "validVotesPercentage": 0.19,
+          "votes": 450
+        }
+      ],
+      "subscribedVoters": 425014,
+      "totalMandates": 10,
+      "totalVoters": 248642
+    },
+    "refreshTimeout": 20,
+    "territoryFullName": "Leiria",
+    "territoryKey": "LOCAL-100000",
+    "territoryMessage": null,
+    "territoryName": "Leiria",
+    "time": "12:05",
+    "totalConsulates": 23,
+    "totalConsulatesApproved": 23,
+    "totalParishes": 3092,
+    "totalParishesApproved": 3092,
+    "warningMessage": null
+  },
+  {
+    "currentResults": {
+      "availableMandates": 0,
+      "blankVotes": 1919,
+      "blankVotesPercentage": 1.74,
+      "displayMessage": null,
+      "hasNoVoting": false,
+      "nullVotes": 1960,
+      "nullVotesPercentage": 1.78,
+      "numberParishes": 197,
+      "numberVoters": 110273,
+      "percentageVoters": 48.26,
+      "resultsParty": [
+        {
+          "absoluteMajority": null,
+          "acronym": "PPD/PSD.CDS-PP",
+          "constituenctyCounter": 1,
+          "mandates": 3,
+          "percentage": 51.02,
+          "presidents": null,
+          "validVotesPercentage": 52.88,
+          "votes": 56262
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PS",
+          "constituenctyCounter": 1,
+          "mandates": 2,
+          "percentage": 33.06,
+          "presidents": null,
+          "validVotesPercentage": 34.27,
+          "votes": 36461
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "B.E.",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 5.18,
+          "presidents": null,
+          "validVotesPercentage": 5.36,
+          "votes": 5707
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCP-PEV",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 2.95,
+          "presidents": null,
+          "validVotesPercentage": 3.05,
+          "votes": 3250
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCTP/MRPP",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.91,
+          "presidents": null,
+          "validVotesPercentage": 0.94,
+          "votes": 1004
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PDR",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.73,
+          "presidents": null,
+          "validVotesPercentage": 0.76,
+          "votes": 806
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PAN",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.6,
+          "presidents": null,
+          "validVotesPercentage": 0.63,
+          "votes": 667
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PTP-MAS",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.47,
+          "presidents": null,
+          "validVotesPercentage": 0.49,
+          "votes": 521
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "L/TDA",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.35,
+          "presidents": null,
+          "validVotesPercentage": 0.36,
+          "votes": 383
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPM",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.29,
+          "presidents": null,
+          "validVotesPercentage": 0.3,
+          "votes": 316
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "MPT",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.28,
+          "presidents": null,
+          "validVotesPercentage": 0.29,
+          "votes": 306
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "NC",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.25,
+          "presidents": null,
+          "validVotesPercentage": 0.26,
+          "votes": 281
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PNR",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.25,
+          "presidents": null,
+          "validVotesPercentage": 0.26,
+          "votes": 279
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PURP",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.14,
+          "presidents": null,
+          "validVotesPercentage": 0.14,
+          "votes": 151
+        }
+      ],
+      "subscribedVoters": 228497,
+      "tie": false,
+      "tieMessage": null,
+      "totalBoycotts": 0,
+      "totalMandates": 5,
+      "totalParishesApproved": 197,
+      "totalVoters": 110273
+    },
+    "displayMessage": null,
+    "foreignCounterMessage": null,
+    "nationalCounterMessage": null,
+    "previousResults": {
+      "blankVotes": 2043,
+      "blankVotesPercentage": 1.71,
+      "displayMessage": null,
+      "nullVotes": 1471,
+      "nullVotesPercentage": 1.23,
+      "percentageVoters": 50.75,
+      "resultsParty": [
+        {
+          "absoluteMajority": null,
+          "acronym": "PPD/PSD",
+          "constituenctyCounter": null,
+          "mandates": 3,
+          "percentage": 51.41,
+          "presidents": null,
+          "validVotesPercentage": 52.97,
+          "votes": 61462
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PS",
+          "constituenctyCounter": null,
+          "mandates": 2,
+          "percentage": 29.12,
+          "presidents": null,
+          "validVotesPercentage": 30,
+          "votes": 34814
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "CDS-PP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 8.68,
+          "presidents": null,
+          "validVotesPercentage": 8.94,
+          "votes": 10373
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCP-PEV",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 3.06,
+          "presidents": null,
+          "validVotesPercentage": 3.16,
+          "votes": 3662
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "B.E.",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 2.34,
+          "presidents": null,
+          "validVotesPercentage": 2.41,
+          "votes": 2801
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCTP/MRPP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.6,
+          "presidents": null,
+          "validVotesPercentage": 0.62,
+          "votes": 721
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PAN",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.49,
+          "presidents": null,
+          "validVotesPercentage": 0.5,
+          "votes": 582
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPM",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.48,
+          "presidents": null,
+          "validVotesPercentage": 0.49,
+          "votes": 574
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "MPT",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.25,
+          "presidents": null,
+          "validVotesPercentage": 0.26,
+          "votes": 304
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PTP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.21,
+          "presidents": null,
+          "validVotesPercentage": 0.21,
+          "votes": 247
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "MEP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.19,
+          "presidents": null,
+          "validVotesPercentage": 0.2,
+          "votes": 232
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PNR",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.12,
+          "presidents": null,
+          "validVotesPercentage": 0.12,
+          "votes": 141
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PDA",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.1,
+          "presidents": null,
+          "validVotesPercentage": 0.11,
+          "votes": 122
+        }
+      ],
+      "subscribedVoters": 235558,
+      "totalMandates": 5,
+      "totalVoters": 119549
+    },
+    "refreshTimeout": 20,
+    "territoryFullName": "Vila Real",
+    "territoryKey": "LOCAL-170000",
+    "territoryMessage": null,
+    "territoryName": "Vila Real",
+    "time": "12:06",
+    "totalConsulates": 23,
+    "totalConsulatesApproved": 23,
+    "totalParishes": 3092,
+    "totalParishesApproved": 3092,
+    "warningMessage": null
+  },
+  {
+    "currentResults": {
+      "availableMandates": 0,
+      "blankVotes": 9163,
+      "blankVotesPercentage": 2.49,
+      "displayMessage": null,
+      "hasNoVoting": false,
+      "nullVotes": 6130,
+      "nullVotesPercentage": 1.67,
+      "numberParishes": 147,
+      "numberVoters": 368071,
+      "percentageVoters": 56.31,
+      "resultsParty": [
+        {
+          "absoluteMajority": null,
+          "acronym": "PPD/PSD.CDS-PP",
+          "constituenctyCounter": 1,
+          "mandates": 10,
+          "percentage": 48.14,
+          "presidents": null,
+          "validVotesPercentage": 50.23,
+          "votes": 177185
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PS",
+          "constituenctyCounter": 1,
+          "mandates": 5,
+          "percentage": 27.91,
+          "presidents": null,
+          "validVotesPercentage": 29.12,
+          "votes": 102726
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "B.E.",
+          "constituenctyCounter": 1,
+          "mandates": 1,
+          "percentage": 9.6,
+          "presidents": null,
+          "validVotesPercentage": 10.01,
+          "votes": 35327
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCP-PEV",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 4.36,
+          "presidents": null,
+          "validVotesPercentage": 4.55,
+          "votes": 16038
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PDR",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 1.24,
+          "presidents": null,
+          "validVotesPercentage": 1.29,
+          "votes": 4548
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PAN",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.97,
+          "presidents": null,
+          "validVotesPercentage": 1.01,
+          "votes": 3573
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCTP/MRPP",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.89,
+          "presidents": null,
+          "validVotesPercentage": 0.93,
+          "votes": 3280
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PNR",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.46,
+          "presidents": null,
+          "validVotesPercentage": 0.48,
+          "votes": 1698
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "L/TDA",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.45,
+          "presidents": null,
+          "validVotesPercentage": 0.47,
+          "votes": 1660
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "MPT",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.36,
+          "presidents": null,
+          "validVotesPercentage": 0.38,
+          "votes": 1325
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPM",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.35,
+          "presidents": null,
+          "validVotesPercentage": 0.37,
+          "votes": 1292
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PTP-MAS",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.34,
+          "presidents": null,
+          "validVotesPercentage": 0.36,
+          "votes": 1253
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "NC",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.27,
+          "presidents": null,
+          "validVotesPercentage": 0.29,
+          "votes": 1006
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPV/CDC",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.21,
+          "presidents": null,
+          "validVotesPercentage": 0.22,
+          "votes": 785
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PURP",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.17,
+          "presidents": null,
+          "validVotesPercentage": 0.18,
+          "votes": 634
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "JPP",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.12,
+          "presidents": null,
+          "validVotesPercentage": 0.13,
+          "votes": 448
+        }
+      ],
+      "subscribedVoters": 653597,
+      "tie": false,
+      "tieMessage": null,
+      "totalBoycotts": 0,
+      "totalMandates": 16,
+      "totalParishesApproved": 147,
+      "totalVoters": 368071
+    },
+    "displayMessage": null,
+    "foreignCounterMessage": null,
+    "nationalCounterMessage": null,
+    "previousResults": {
+      "blankVotes": 11046,
+      "blankVotesPercentage": 2.87,
+      "displayMessage": null,
+      "nullVotes": 4757,
+      "nullVotesPercentage": 1.24,
+      "percentageVoters": 59.01,
+      "resultsParty": [
+        {
+          "absoluteMajority": null,
+          "acronym": "PPD/PSD",
+          "constituenctyCounter": null,
+          "mandates": 8,
+          "percentage": 44.45,
+          "presidents": null,
+          "validVotesPercentage": 46.36,
+          "votes": 170857
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PS",
+          "constituenctyCounter": null,
+          "mandates": 5,
+          "percentage": 25.93,
+          "presidents": null,
+          "validVotesPercentage": 27.04,
+          "votes": 99646
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "CDS-PP",
+          "constituenctyCounter": null,
+          "mandates": 2,
+          "percentage": 12.89,
+          "presidents": null,
+          "validVotesPercentage": 13.44,
+          "votes": 49523
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "B.E.",
+          "constituenctyCounter": null,
+          "mandates": 1,
+          "percentage": 5.03,
+          "presidents": null,
+          "validVotesPercentage": 5.25,
+          "votes": 19338
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCP-PEV",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 4.09,
+          "presidents": null,
+          "validVotesPercentage": 4.26,
+          "votes": 15704
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCTP/MRPP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.86,
+          "presidents": null,
+          "validVotesPercentage": 0.89,
+          "votes": 3288
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PAN",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.79,
+          "presidents": null,
+          "validVotesPercentage": 0.83,
+          "votes": 3044
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PNR",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.36,
+          "presidents": null,
+          "validVotesPercentage": 0.37,
+          "votes": 1373
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "MEP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.34,
+          "presidents": null,
+          "validVotesPercentage": 0.36,
+          "votes": 1319
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "MPT",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.34,
+          "presidents": null,
+          "validVotesPercentage": 0.35,
+          "votes": 1289
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPM",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.27,
+          "presidents": null,
+          "validVotesPercentage": 0.28,
+          "votes": 1044
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PTP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.26,
+          "presidents": null,
+          "validVotesPercentage": 0.27,
+          "votes": 1002
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPV",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.19,
+          "presidents": null,
+          "validVotesPercentage": 0.2,
+          "votes": 719
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PDA",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.1,
+          "presidents": null,
+          "validVotesPercentage": 0.11,
+          "votes": 397
+        }
+      ],
+      "subscribedVoters": 651367,
+      "totalMandates": 16,
+      "totalVoters": 384346
+    },
+    "refreshTimeout": 20,
+    "territoryFullName": "Aveiro",
+    "territoryKey": "LOCAL-010000",
+    "territoryMessage": null,
+    "territoryName": "Aveiro",
+    "time": "12:05",
+    "totalConsulates": 23,
+    "totalConsulatesApproved": 23,
+    "totalParishes": 3092,
+    "totalParishesApproved": 3092,
+    "warningMessage": null
+  },
+  {
+    "currentResults": {
+      "availableMandates": 0,
+      "blankVotes": 4235,
+      "blankVotesPercentage": 2.22,
+      "displayMessage": null,
+      "hasNoVoting": false,
+      "nullVotes": 3632,
+      "nullVotesPercentage": 1.9,
+      "numberParishes": 277,
+      "numberVoters": 190712,
+      "percentageVoters": 51.28,
+      "resultsParty": [
+        {
+          "absoluteMajority": null,
+          "acronym": "PPD/PSD.CDS-PP",
+          "constituenctyCounter": 1,
+          "mandates": 6,
+          "percentage": 51.05,
+          "presidents": null,
+          "validVotesPercentage": 53.25,
+          "votes": 97362
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PS",
+          "constituenctyCounter": 1,
+          "mandates": 3,
+          "percentage": 29.65,
+          "presidents": null,
+          "validVotesPercentage": 30.92,
+          "votes": 56543
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "B.E.",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 6.72,
+          "presidents": null,
+          "validVotesPercentage": 7.01,
+          "votes": 12816
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCP-PEV",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 3.5,
+          "presidents": null,
+          "validVotesPercentage": 3.65,
+          "votes": 6668
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PDR",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 1.02,
+          "presidents": null,
+          "validVotesPercentage": 1.07,
+          "votes": 1952
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCTP/MRPP",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.91,
+          "presidents": null,
+          "validVotesPercentage": 0.95,
+          "votes": 1743
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PAN",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.68,
+          "presidents": null,
+          "validVotesPercentage": 0.71,
+          "votes": 1296
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "L/TDA",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.53,
+          "presidents": null,
+          "validVotesPercentage": 0.55,
+          "votes": 1003
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PTP-MAS",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.38,
+          "presidents": null,
+          "validVotesPercentage": 0.39,
+          "votes": 721
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "MPT",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.36,
+          "presidents": null,
+          "validVotesPercentage": 0.37,
+          "votes": 679
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PNR",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.32,
+          "presidents": null,
+          "validVotesPercentage": 0.33,
+          "votes": 608
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "NC",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.28,
+          "presidents": null,
+          "validVotesPercentage": 0.29,
+          "votes": 534
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPM",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.28,
+          "presidents": null,
+          "validVotesPercentage": 0.29,
+          "votes": 533
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PURP",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.2,
+          "presidents": null,
+          "validVotesPercentage": 0.21,
+          "votes": 387
+        }
+      ],
+      "subscribedVoters": 371931,
+      "tie": false,
+      "tieMessage": null,
+      "totalBoycotts": 0,
+      "totalMandates": 9,
+      "totalParishesApproved": 277,
+      "totalVoters": 190712
+    },
+    "displayMessage": null,
+    "foreignCounterMessage": null,
+    "nationalCounterMessage": null,
+    "previousResults": {
+      "blankVotes": 5178,
+      "blankVotesPercentage": 2.55,
+      "displayMessage": null,
+      "nullVotes": 3025,
+      "nullVotesPercentage": 1.49,
+      "percentageVoters": 53.48,
+      "resultsParty": [
+        {
+          "absoluteMajority": null,
+          "acronym": "PPD/PSD",
+          "constituenctyCounter": null,
+          "mandates": 5,
+          "percentage": 48.38,
+          "presidents": null,
+          "validVotesPercentage": 50.42,
+          "votes": 98098
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PS",
+          "constituenctyCounter": null,
+          "mandates": 3,
+          "percentage": 26.69,
+          "presidents": null,
+          "validVotesPercentage": 27.81,
+          "votes": 54107
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "CDS-PP",
+          "constituenctyCounter": null,
+          "mandates": 1,
+          "percentage": 12.37,
+          "presidents": null,
+          "validVotesPercentage": 12.9,
+          "votes": 25090
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCP-PEV",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 2.87,
+          "presidents": null,
+          "validVotesPercentage": 2.99,
+          "votes": 5816
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "B.E.",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 2.85,
+          "presidents": null,
+          "validVotesPercentage": 2.97,
+          "votes": 5786
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCTP/MRPP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.72,
+          "presidents": null,
+          "validVotesPercentage": 0.75,
+          "votes": 1459
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PAN",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.61,
+          "presidents": null,
+          "validVotesPercentage": 0.63,
+          "votes": 1227
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "MPT",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.34,
+          "presidents": null,
+          "validVotesPercentage": 0.36,
+          "votes": 694
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "MEP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.31,
+          "presidents": null,
+          "validVotesPercentage": 0.32,
+          "votes": 620
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPM",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.31,
+          "presidents": null,
+          "validVotesPercentage": 0.32,
+          "votes": 626
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PTP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.23,
+          "presidents": null,
+          "validVotesPercentage": 0.24,
+          "votes": 467
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PDA",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.15,
+          "presidents": null,
+          "validVotesPercentage": 0.15,
+          "votes": 294
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PNR",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.13,
+          "presidents": null,
+          "validVotesPercentage": 0.14,
+          "votes": 267
+        }
+      ],
+      "subscribedVoters": 379142,
+      "totalMandates": 9,
+      "totalVoters": 202754
+    },
+    "refreshTimeout": 20,
+    "territoryFullName": "Viseu",
+    "territoryKey": "LOCAL-180000",
+    "territoryMessage": null,
+    "territoryName": "Viseu",
+    "time": "12:06",
+    "totalConsulates": 23,
+    "totalConsulatesApproved": 23,
+    "totalParishes": 3092,
+    "totalParishesApproved": 3092,
+    "warningMessage": null
+  },
+  {
+    "currentResults": {
+      "availableMandates": 0,
+      "blankVotes": 1230,
+      "blankVotesPercentage": 1.65,
+      "displayMessage": null,
+      "hasNoVoting": false,
+      "nullVotes": 1132,
+      "nullVotesPercentage": 1.52,
+      "numberParishes": 75,
+      "numberVoters": 74485,
+      "percentageVoters": 57.77,
+      "resultsParty": [
+        {
+          "absoluteMajority": null,
+          "acronym": "PS",
+          "constituenctyCounter": 1,
+          "mandates": 1,
+          "percentage": 37.29,
+          "presidents": null,
+          "validVotesPercentage": 38.51,
+          "votes": 27775
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCP-PEV",
+          "constituenctyCounter": 1,
+          "mandates": 1,
+          "percentage": 24.96,
+          "presidents": null,
+          "validVotesPercentage": 25.78,
+          "votes": 18592
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPD/PSD.CDS-PP",
+          "constituenctyCounter": 1,
+          "mandates": 1,
+          "percentage": 20.11,
+          "presidents": null,
+          "validVotesPercentage": 20.77,
+          "votes": 14980
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "B.E.",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 8.2,
+          "presidents": null,
+          "validVotesPercentage": 8.46,
+          "votes": 6105
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCTP/MRPP",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 2.61,
+          "presidents": null,
+          "validVotesPercentage": 2.7,
+          "votes": 1945
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PAN",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.82,
+          "presidents": null,
+          "validVotesPercentage": 0.84,
+          "votes": 608
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PDR",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.47,
+          "presidents": null,
+          "validVotesPercentage": 0.49,
+          "votes": 351
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PURP",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.46,
+          "presidents": null,
+          "validVotesPercentage": 0.47,
+          "votes": 340
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PNR",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.37,
+          "presidents": null,
+          "validVotesPercentage": 0.38,
+          "votes": 275
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "L/TDA",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.36,
+          "presidents": null,
+          "validVotesPercentage": 0.38,
+          "votes": 271
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "MPT",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.33,
+          "presidents": null,
+          "validVotesPercentage": 0.34,
+          "votes": 248
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPM",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.26,
+          "presidents": null,
+          "validVotesPercentage": 0.27,
+          "votes": 192
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PTP-MAS",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.26,
+          "presidents": null,
+          "validVotesPercentage": 0.27,
+          "votes": 193
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "NC",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.21,
+          "presidents": null,
+          "validVotesPercentage": 0.22,
+          "votes": 160
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "JPP",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.12,
+          "presidents": null,
+          "validVotesPercentage": 0.12,
+          "votes": 88
+        }
+      ],
+      "subscribedVoters": 128926,
+      "tie": false,
+      "tieMessage": null,
+      "totalBoycotts": 0,
+      "totalMandates": 3,
+      "totalParishesApproved": 75,
+      "totalVoters": 74485
+    },
+    "displayMessage": null,
+    "foreignCounterMessage": null,
+    "nationalCounterMessage": null,
+    "previousResults": {
+      "blankVotes": 1697,
+      "blankVotesPercentage": 2.27,
+      "displayMessage": null,
+      "nullVotes": 1017,
+      "nullVotesPercentage": 1.36,
+      "percentageVoters": 55.17,
+      "resultsParty": [
+        {
+          "absoluteMajority": null,
+          "acronym": "PS",
+          "constituenctyCounter": null,
+          "mandates": 1,
+          "percentage": 29.79,
+          "presidents": null,
+          "validVotesPercentage": 30.91,
+          "votes": 22308
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCP-PEV",
+          "constituenctyCounter": null,
+          "mandates": 1,
+          "percentage": 25.39,
+          "presidents": null,
+          "validVotesPercentage": 26.34,
+          "votes": 19011
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPD/PSD",
+          "constituenctyCounter": null,
+          "mandates": 1,
+          "percentage": 23.65,
+          "presidents": null,
+          "validVotesPercentage": 24.54,
+          "votes": 17711
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "CDS-PP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 7.29,
+          "presidents": null,
+          "validVotesPercentage": 7.57,
+          "votes": 5462
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "B.E.",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 5.19,
+          "presidents": null,
+          "validVotesPercentage": 5.39,
+          "votes": 3890
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCTP/MRPP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 2.64,
+          "presidents": null,
+          "validVotesPercentage": 2.74,
+          "votes": 1980
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PAN",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.71,
+          "presidents": null,
+          "validVotesPercentage": 0.74,
+          "votes": 533
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PNR",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.41,
+          "presidents": null,
+          "validVotesPercentage": 0.42,
+          "votes": 304
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "MPT",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.34,
+          "presidents": null,
+          "validVotesPercentage": 0.36,
+          "votes": 258
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPM",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.31,
+          "presidents": null,
+          "validVotesPercentage": 0.32,
+          "votes": 231
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PTP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.27,
+          "presidents": null,
+          "validVotesPercentage": 0.28,
+          "votes": 201
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "MEP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.25,
+          "presidents": null,
+          "validVotesPercentage": 0.26,
+          "votes": 189
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "P.H.",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.12,
+          "presidents": null,
+          "validVotesPercentage": 0.12,
+          "votes": 90
+        }
+      ],
+      "subscribedVoters": 135739,
+      "totalMandates": 3,
+      "totalVoters": 74882
+    },
+    "refreshTimeout": 20,
+    "territoryFullName": "Beja",
+    "territoryKey": "LOCAL-020000",
+    "territoryMessage": null,
+    "territoryName": "Beja",
+    "time": "12:05",
+    "totalConsulates": 23,
+    "totalConsulatesApproved": 23,
+    "totalParishes": 3092,
+    "totalParishesApproved": 3092,
+    "warningMessage": null
+  },
+  {
+    "currentResults": {
+      "availableMandates": 0,
+      "blankVotes": 5929,
+      "blankVotesPercentage": 2.69,
+      "displayMessage": null,
+      "hasNoVoting": false,
+      "nullVotes": 3536,
+      "nullVotesPercentage": 1.61,
+      "numberParishes": 155,
+      "numberVoters": 220211,
+      "percentageVoters": 56.33,
+      "resultsParty": [
+        {
+          "absoluteMajority": null,
+          "acronym": "PPD/PSD.CDS-PP",
+          "constituenctyCounter": 1,
+          "mandates": 4,
+          "percentage": 37.18,
+          "presidents": null,
+          "validVotesPercentage": 38.85,
+          "votes": 81882
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PS",
+          "constituenctyCounter": 1,
+          "mandates": 4,
+          "percentage": 35.28,
+          "presidents": null,
+          "validVotesPercentage": 36.86,
+          "votes": 77684
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "B.E.",
+          "constituenctyCounter": 1,
+          "mandates": 1,
+          "percentage": 9.89,
+          "presidents": null,
+          "validVotesPercentage": 10.33,
+          "votes": 21780
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCP-PEV",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 7.03,
+          "presidents": null,
+          "validVotesPercentage": 7.34,
+          "votes": 15476
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PDR",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 1.64,
+          "presidents": null,
+          "validVotesPercentage": 1.72,
+          "votes": 3615
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PAN",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.98,
+          "presidents": null,
+          "validVotesPercentage": 1.03,
+          "votes": 2165
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCTP/MRPP",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.86,
+          "presidents": null,
+          "validVotesPercentage": 0.9,
+          "votes": 1889
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "L/TDA",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.59,
+          "presidents": null,
+          "validVotesPercentage": 0.61,
+          "votes": 1292
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PNR",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.5,
+          "presidents": null,
+          "validVotesPercentage": 0.52,
+          "votes": 1097
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PTP-MAS",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.49,
+          "presidents": null,
+          "validVotesPercentage": 0.51,
+          "votes": 1081
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "MPT",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.39,
+          "presidents": null,
+          "validVotesPercentage": 0.41,
+          "votes": 854
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "NC",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.31,
+          "presidents": null,
+          "validVotesPercentage": 0.32,
+          "votes": 683
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPM",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.24,
+          "presidents": null,
+          "validVotesPercentage": 0.25,
+          "votes": 525
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PURP",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.2,
+          "presidents": null,
+          "validVotesPercentage": 0.21,
+          "votes": 451
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "JPP",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.12,
+          "presidents": null,
+          "validVotesPercentage": 0.13,
+          "votes": 272
+        }
+      ],
+      "subscribedVoters": 390947,
+      "tie": false,
+      "tieMessage": null,
+      "totalBoycotts": 0,
+      "totalMandates": 9,
+      "totalParishesApproved": 155,
+      "totalVoters": 220211
+    },
+    "displayMessage": null,
+    "foreignCounterMessage": null,
+    "nationalCounterMessage": null,
+    "previousResults": {
+      "blankVotes": 8160,
+      "blankVotesPercentage": 3.6,
+      "displayMessage": null,
+      "nullVotes": 3101,
+      "nullVotesPercentage": 1.37,
+      "percentageVoters": 57.39,
+      "resultsParty": [
+        {
+          "absoluteMajority": null,
+          "acronym": "PPD/PSD",
+          "constituenctyCounter": null,
+          "mandates": 5,
+          "percentage": 40.17,
+          "presidents": null,
+          "validVotesPercentage": 42.27,
+          "votes": 91123
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PS",
+          "constituenctyCounter": null,
+          "mandates": 3,
+          "percentage": 29.18,
+          "presidents": null,
+          "validVotesPercentage": 30.71,
+          "votes": 66197
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "CDS-PP",
+          "constituenctyCounter": null,
+          "mandates": 1,
+          "percentage": 9.87,
+          "presidents": null,
+          "validVotesPercentage": 10.39,
+          "votes": 22389
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCP-PEV",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 6.22,
+          "presidents": null,
+          "validVotesPercentage": 6.55,
+          "votes": 14112
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "B.E.",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 5.75,
+          "presidents": null,
+          "validVotesPercentage": 6.05,
+          "votes": 13033
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PAN",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 1.12,
+          "presidents": null,
+          "validVotesPercentage": 1.17,
+          "votes": 2531
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCTP/MRPP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.89,
+          "presidents": null,
+          "validVotesPercentage": 0.93,
+          "votes": 2014
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "MEP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.4,
+          "presidents": null,
+          "validVotesPercentage": 0.42,
+          "votes": 910
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "MPT",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.29,
+          "presidents": null,
+          "validVotesPercentage": 0.31,
+          "votes": 662
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PNR",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.26,
+          "presidents": null,
+          "validVotesPercentage": 0.27,
+          "votes": 591
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PTP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.26,
+          "presidents": null,
+          "validVotesPercentage": 0.28,
+          "votes": 600
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPM",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.25,
+          "presidents": null,
+          "validVotesPercentage": 0.26,
+          "votes": 556
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PND",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.23,
+          "presidents": null,
+          "validVotesPercentage": 0.24,
+          "votes": 519
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPV",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.15,
+          "presidents": null,
+          "validVotesPercentage": 0.16,
+          "votes": 335
+        }
+      ],
+      "subscribedVoters": 395231,
+      "totalMandates": 9,
+      "totalVoters": 226833
+    },
+    "refreshTimeout": 20,
+    "territoryFullName": "Coimbra",
+    "territoryKey": "LOCAL-060000",
+    "territoryMessage": null,
+    "territoryName": "Coimbra",
+    "time": "12:05",
+    "totalConsulates": 23,
+    "totalConsulatesApproved": 23,
+    "totalParishes": 3092,
+    "totalParishesApproved": 3092,
+    "warningMessage": null
+  },
+  {
+    "currentResults": {
+      "availableMandates": 0,
+      "blankVotes": 1018,
+      "blankVotesPercentage": 0.81,
+      "displayMessage": null,
+      "hasNoVoting": false,
+      "nullVotes": 3597,
+      "nullVotesPercentage": 2.88,
+      "numberParishes": 54,
+      "numberVoters": 125104,
+      "percentageVoters": 48.9,
+      "resultsParty": [
+        {
+          "absoluteMajority": null,
+          "acronym": "PPD/PSD",
+          "constituenctyCounter": 1,
+          "mandates": 3,
+          "percentage": 37.75,
+          "presidents": null,
+          "validVotesPercentage": 39.2,
+          "votes": 47228
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PS",
+          "constituenctyCounter": 1,
+          "mandates": 2,
+          "percentage": 20.9,
+          "presidents": null,
+          "validVotesPercentage": 21.7,
+          "votes": 26152
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "B.E.",
+          "constituenctyCounter": 1,
+          "mandates": 1,
+          "percentage": 10.66,
+          "presidents": null,
+          "validVotesPercentage": 11.07,
+          "votes": 13342
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "JPP",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 6.93,
+          "presidents": null,
+          "validVotesPercentage": 7.2,
+          "votes": 8671
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "CDS-PP",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 6.02,
+          "presidents": null,
+          "validVotesPercentage": 6.25,
+          "votes": 7536
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCP-PEV",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 3.57,
+          "presidents": null,
+          "validVotesPercentage": 3.71,
+          "votes": 4468
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PAN",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 1.76,
+          "presidents": null,
+          "validVotesPercentage": 1.83,
+          "votes": 2206
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PDR",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 1.71,
+          "presidents": null,
+          "validVotesPercentage": 1.78,
+          "votes": 2144
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PTP",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 1.4,
+          "presidents": null,
+          "validVotesPercentage": 1.45,
+          "votes": 1748
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "MPT",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 1.36,
+          "presidents": null,
+          "validVotesPercentage": 1.42,
+          "votes": 1705
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCTP/MRPP",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 1.27,
+          "presidents": null,
+          "validVotesPercentage": 1.32,
+          "votes": 1592
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "L/TDA",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 1.01,
+          "presidents": null,
+          "validVotesPercentage": 1.05,
+          "votes": 1260
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "NC",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.9,
+          "presidents": null,
+          "validVotesPercentage": 0.93,
+          "votes": 1125
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PNR",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.63,
+          "presidents": null,
+          "validVotesPercentage": 0.65,
+          "votes": 784
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPM",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.42,
+          "presidents": null,
+          "validVotesPercentage": 0.44,
+          "votes": 528
+        }
+      ],
+      "subscribedVoters": 255821,
+      "tie": false,
+      "tieMessage": null,
+      "totalBoycotts": 0,
+      "totalMandates": 6,
+      "totalParishesApproved": 54,
+      "totalVoters": 125104
+    },
+    "displayMessage": null,
+    "foreignCounterMessage": null,
+    "nationalCounterMessage": null,
+    "previousResults": {
+      "blankVotes": 1655,
+      "blankVotesPercentage": 1.19,
+      "displayMessage": null,
+      "nullVotes": 3041,
+      "nullVotesPercentage": 2.19,
+      "percentageVoters": 54.31,
+      "resultsParty": [
+        {
+          "absoluteMajority": null,
+          "acronym": "PPD/PSD",
+          "constituenctyCounter": null,
+          "mandates": 4,
+          "percentage": 49.39,
+          "presidents": null,
+          "validVotesPercentage": 51.11,
+          "votes": 68649
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PS",
+          "constituenctyCounter": null,
+          "mandates": 1,
+          "percentage": 14.68,
+          "presidents": null,
+          "validVotesPercentage": 15.19,
+          "votes": 20401
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "CDS-PP",
+          "constituenctyCounter": null,
+          "mandates": 1,
+          "percentage": 13.74,
+          "presidents": null,
+          "validVotesPercentage": 14.22,
+          "votes": 19101
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "B.E.",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 4,
+          "presidents": null,
+          "validVotesPercentage": 4.14,
+          "votes": 5567
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCP-PEV",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 3.67,
+          "presidents": null,
+          "validVotesPercentage": 3.79,
+          "votes": 5096
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PND",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 2.91,
+          "presidents": null,
+          "validVotesPercentage": 3.01,
+          "votes": 4046
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PTP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 2.13,
+          "presidents": null,
+          "validVotesPercentage": 2.2,
+          "votes": 2961
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "MPT",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 1.84,
+          "presidents": null,
+          "validVotesPercentage": 1.91,
+          "votes": 2561
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PAN",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 1.72,
+          "presidents": null,
+          "validVotesPercentage": 1.78,
+          "votes": 2385
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCTP/MRPP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 1.42,
+          "presidents": null,
+          "validVotesPercentage": 1.47,
+          "votes": 1968
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PNR",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.41,
+          "presidents": null,
+          "validVotesPercentage": 0.43,
+          "votes": 573
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPM",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.39,
+          "presidents": null,
+          "validVotesPercentage": 0.4,
+          "votes": 538
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "MEP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.33,
+          "presidents": null,
+          "validVotesPercentage": 0.34,
+          "votes": 461
+        }
+      ],
+      "subscribedVoters": 255928,
+      "totalMandates": 6,
+      "totalVoters": 139003
+    },
+    "refreshTimeout": 20,
+    "territoryFullName": "Madeira",
+    "territoryKey": "LOCAL-300000",
+    "territoryMessage": null,
+    "territoryName": "Madeira",
+    "time": "12:06",
+    "totalConsulates": 23,
+    "totalConsulatesApproved": 23,
+    "totalParishes": 3092,
+    "totalParishesApproved": 3092,
+    "warningMessage": null
+  },
+  {
+    "currentResults": {
+      "availableMandates": 0,
+      "blankVotes": 4286,
+      "blankVotesPercentage": 2.25,
+      "displayMessage": null,
+      "hasNoVoting": false,
+      "nullVotes": 3079,
+      "nullVotesPercentage": 1.62,
+      "numberParishes": 67,
+      "numberVoters": 190484,
+      "percentageVoters": 51.38,
+      "resultsParty": [
+        {
+          "absoluteMajority": null,
+          "acronym": "PS",
+          "constituenctyCounter": 1,
+          "mandates": 4,
+          "percentage": 32.77,
+          "presidents": null,
+          "validVotesPercentage": 34.09,
+          "votes": 62422
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPD/PSD.CDS-PP",
+          "constituenctyCounter": 1,
+          "mandates": 3,
+          "percentage": 31.47,
+          "presidents": null,
+          "validVotesPercentage": 32.74,
+          "votes": 59950
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "B.E.",
+          "constituenctyCounter": 1,
+          "mandates": 1,
+          "percentage": 14.13,
+          "presidents": null,
+          "validVotesPercentage": 14.7,
+          "votes": 26922
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCP-PEV",
+          "constituenctyCounter": 1,
+          "mandates": 1,
+          "percentage": 8.68,
+          "presidents": null,
+          "validVotesPercentage": 9.03,
+          "votes": 16539
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PAN",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 1.99,
+          "presidents": null,
+          "validVotesPercentage": 2.07,
+          "votes": 3783
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCTP/MRPP",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 1.58,
+          "presidents": null,
+          "validVotesPercentage": 1.64,
+          "votes": 3012
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PDR",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 1.2,
+          "presidents": null,
+          "validVotesPercentage": 1.25,
+          "votes": 2293
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "L/TDA",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.75,
+          "presidents": null,
+          "validVotesPercentage": 0.78,
+          "votes": 1435
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PNR",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.71,
+          "presidents": null,
+          "validVotesPercentage": 0.73,
+          "votes": 1343
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "NC",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.7,
+          "presidents": null,
+          "validVotesPercentage": 0.73,
+          "votes": 1337
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "MPT",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.64,
+          "presidents": null,
+          "validVotesPercentage": 0.67,
+          "votes": 1222
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PTP-MAS",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.64,
+          "presidents": null,
+          "validVotesPercentage": 0.67,
+          "votes": 1220
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PURP",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.47,
+          "presidents": null,
+          "validVotesPercentage": 0.48,
+          "votes": 886
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPM",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.4,
+          "presidents": null,
+          "validVotesPercentage": 0.41,
+          "votes": 755
+        }
+      ],
+      "subscribedVoters": 370764,
+      "tie": false,
+      "tieMessage": null,
+      "totalBoycotts": 0,
+      "totalMandates": 9,
+      "totalParishesApproved": 67,
+      "totalVoters": 190484
+    },
+    "displayMessage": null,
+    "foreignCounterMessage": null,
+    "nationalCounterMessage": null,
+    "previousResults": {
+      "blankVotes": 6029,
+      "blankVotesPercentage": 3,
+      "displayMessage": null,
+      "nullVotes": 2953,
+      "nullVotesPercentage": 1.47,
+      "percentageVoters": 55.8,
+      "resultsParty": [
+        {
+          "absoluteMajority": null,
+          "acronym": "PPD/PSD",
+          "constituenctyCounter": null,
+          "mandates": 4,
+          "percentage": 37.03,
+          "presidents": null,
+          "validVotesPercentage": 38.76,
+          "votes": 74491
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PS",
+          "constituenctyCounter": null,
+          "mandates": 2,
+          "percentage": 22.95,
+          "presidents": null,
+          "validVotesPercentage": 24.02,
+          "votes": 46174
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "CDS-PP",
+          "constituenctyCounter": null,
+          "mandates": 1,
+          "percentage": 12.71,
+          "presidents": null,
+          "validVotesPercentage": 13.3,
+          "votes": 25561
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCP-PEV",
+          "constituenctyCounter": null,
+          "mandates": 1,
+          "percentage": 8.57,
+          "presidents": null,
+          "validVotesPercentage": 8.97,
+          "votes": 17233
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "B.E.",
+          "constituenctyCounter": null,
+          "mandates": 1,
+          "percentage": 8.16,
+          "presidents": null,
+          "validVotesPercentage": 8.54,
+          "votes": 16414
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PAN",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 1.64,
+          "presidents": null,
+          "validVotesPercentage": 1.72,
+          "votes": 3304
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCTP/MRPP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 1.57,
+          "presidents": null,
+          "validVotesPercentage": 1.64,
+          "votes": 3155
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "MPT",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 1.04,
+          "presidents": null,
+          "validVotesPercentage": 1.08,
+          "votes": 2084
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "MEP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.54,
+          "presidents": null,
+          "validVotesPercentage": 0.57,
+          "votes": 1086
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PNR",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.54,
+          "presidents": null,
+          "validVotesPercentage": 0.56,
+          "votes": 1078
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPM",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.35,
+          "presidents": null,
+          "validVotesPercentage": 0.36,
+          "votes": 701
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPV",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.32,
+          "presidents": null,
+          "validVotesPercentage": 0.33,
+          "votes": 642
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "POUS",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.14,
+          "presidents": null,
+          "validVotesPercentage": 0.14,
+          "votes": 274
+        }
+      ],
+      "subscribedVoters": 360564,
+      "totalMandates": 9,
+      "totalVoters": 201179
+    },
+    "refreshTimeout": 20,
+    "territoryFullName": "Faro",
+    "territoryKey": "LOCAL-080000",
+    "territoryMessage": null,
+    "territoryName": "Faro",
+    "time": "12:05",
+    "totalConsulates": 23,
+    "totalConsulatesApproved": 23,
+    "totalParishes": 3092,
+    "totalParishesApproved": 3092,
+    "warningMessage": null
+  },
+  {
+    "currentResults": {
+      "availableMandates": 0,
+      "blankVotes": 5142,
+      "blankVotesPercentage": 2.26,
+      "displayMessage": null,
+      "hasNoVoting": false,
+      "nullVotes": 3967,
+      "nullVotesPercentage": 1.74,
+      "numberParishes": 141,
+      "numberVoters": 227620,
+      "percentageVoters": 57.87,
+      "resultsParty": [
+        {
+          "absoluteMajority": null,
+          "acronym": "PPD/PSD.CDS-PP",
+          "constituenctyCounter": 1,
+          "mandates": 4,
+          "percentage": 35.82,
+          "presidents": null,
+          "validVotesPercentage": 37.32,
+          "votes": 81544
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PS",
+          "constituenctyCounter": 1,
+          "mandates": 3,
+          "percentage": 32.91,
+          "presidents": null,
+          "validVotesPercentage": 34.28,
+          "votes": 74905
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "B.E.",
+          "constituenctyCounter": 1,
+          "mandates": 1,
+          "percentage": 10.76,
+          "presidents": null,
+          "validVotesPercentage": 11.21,
+          "votes": 24489
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCP-PEV",
+          "constituenctyCounter": 1,
+          "mandates": 1,
+          "percentage": 9.64,
+          "presidents": null,
+          "validVotesPercentage": 10.04,
+          "votes": 21941
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCTP/MRPP",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 1.34,
+          "presidents": null,
+          "validVotesPercentage": 1.4,
+          "votes": 3060
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PAN",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 1.19,
+          "presidents": null,
+          "validVotesPercentage": 1.24,
+          "votes": 2715
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PDR",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 1.04,
+          "presidents": null,
+          "validVotesPercentage": 1.09,
+          "votes": 2377
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "L/TDA",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.54,
+          "presidents": null,
+          "validVotesPercentage": 0.57,
+          "votes": 1236
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PNR",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.53,
+          "presidents": null,
+          "validVotesPercentage": 0.55,
+          "votes": 1206
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "MPT",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.46,
+          "presidents": null,
+          "validVotesPercentage": 0.48,
+          "votes": 1038
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "NC",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.41,
+          "presidents": null,
+          "validVotesPercentage": 0.43,
+          "votes": 932
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PTP-MAS",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.41,
+          "presidents": null,
+          "validVotesPercentage": 0.42,
+          "votes": 928
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPM",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.36,
+          "presidents": null,
+          "validVotesPercentage": 0.38,
+          "votes": 822
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PURP",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.36,
+          "presidents": null,
+          "validVotesPercentage": 0.38,
+          "votes": 827
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPV/CDC",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.22,
+          "presidents": null,
+          "validVotesPercentage": 0.22,
+          "votes": 491
+        }
+      ],
+      "subscribedVoters": 393314,
+      "tie": false,
+      "tieMessage": null,
+      "totalBoycotts": 0,
+      "totalMandates": 9,
+      "totalParishesApproved": 141,
+      "totalVoters": 227620
+    },
+    "displayMessage": null,
+    "foreignCounterMessage": null,
+    "nationalCounterMessage": null,
+    "previousResults": {
+      "blankVotes": 7056,
+      "blankVotesPercentage": 2.97,
+      "displayMessage": null,
+      "nullVotes": 3506,
+      "nullVotesPercentage": 1.48,
+      "percentageVoters": 58.95,
+      "resultsParty": [
+        {
+          "absoluteMajority": null,
+          "acronym": "PPD/PSD",
+          "constituenctyCounter": null,
+          "mandates": 5,
+          "percentage": 37.72,
+          "presidents": null,
+          "validVotesPercentage": 39.48,
+          "votes": 89526
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PS",
+          "constituenctyCounter": null,
+          "mandates": 3,
+          "percentage": 25.85,
+          "presidents": null,
+          "validVotesPercentage": 27.05,
+          "votes": 61343
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "CDS-PP",
+          "constituenctyCounter": null,
+          "mandates": 1,
+          "percentage": 12.3,
+          "presidents": null,
+          "validVotesPercentage": 12.87,
+          "votes": 29196
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCP-PEV",
+          "constituenctyCounter": null,
+          "mandates": 1,
+          "percentage": 9.02,
+          "presidents": null,
+          "validVotesPercentage": 9.44,
+          "votes": 21416
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "B.E.",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 5.79,
+          "presidents": null,
+          "validVotesPercentage": 6.06,
+          "votes": 13747
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCTP/MRPP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 1.43,
+          "presidents": null,
+          "validVotesPercentage": 1.5,
+          "votes": 3393
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PAN",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.95,
+          "presidents": null,
+          "validVotesPercentage": 0.99,
+          "votes": 2248
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "MPT",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.62,
+          "presidents": null,
+          "validVotesPercentage": 0.64,
+          "votes": 1461
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "MEP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.49,
+          "presidents": null,
+          "validVotesPercentage": 0.51,
+          "votes": 1158
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PNR",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.35,
+          "presidents": null,
+          "validVotesPercentage": 0.37,
+          "votes": 835
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPM",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.31,
+          "presidents": null,
+          "validVotesPercentage": 0.32,
+          "votes": 729
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PTP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.29,
+          "presidents": null,
+          "validVotesPercentage": 0.31,
+          "votes": 699
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PND",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.24,
+          "presidents": null,
+          "validVotesPercentage": 0.26,
+          "votes": 580
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "POUS",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.18,
+          "presidents": null,
+          "validVotesPercentage": 0.19,
+          "votes": 439
+        }
+      ],
+      "subscribedVoters": 402597,
+      "totalMandates": 10,
+      "totalVoters": 237332
+    },
+    "refreshTimeout": 20,
+    "territoryFullName": "Santarém",
+    "territoryKey": "LOCAL-140000",
+    "territoryMessage": null,
+    "territoryName": "Santarém",
+    "time": "12:05",
+    "totalConsulates": 23,
+    "totalConsulatesApproved": 23,
+    "totalParishes": 3092,
+    "totalParishesApproved": 3092,
+    "warningMessage": null
+  },
+  {
+    "currentResults": {
+      "availableMandates": 0,
+      "blankVotes": 3228,
+      "blankVotesPercentage": 2.51,
+      "displayMessage": null,
+      "hasNoVoting": false,
+      "nullVotes": 2141,
+      "nullVotesPercentage": 1.67,
+      "numberParishes": 208,
+      "numberVoters": 128488,
+      "percentageVoters": 50.74,
+      "resultsParty": [
+        {
+          "absoluteMajority": null,
+          "acronym": "PPD/PSD.CDS-PP",
+          "constituenctyCounter": 1,
+          "mandates": 4,
+          "percentage": 45.54,
+          "presidents": null,
+          "validVotesPercentage": 47.52,
+          "votes": 58509
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PS",
+          "constituenctyCounter": 1,
+          "mandates": 2,
+          "percentage": 29.82,
+          "presidents": null,
+          "validVotesPercentage": 31.12,
+          "votes": 38309
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "B.E.",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 7.96,
+          "presidents": null,
+          "validVotesPercentage": 8.3,
+          "votes": 10225
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCP-PEV",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 5.23,
+          "presidents": null,
+          "validVotesPercentage": 5.46,
+          "votes": 6726
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PDR",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 1.87,
+          "presidents": null,
+          "validVotesPercentage": 1.95,
+          "votes": 2400
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCTP/MRPP",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.87,
+          "presidents": null,
+          "validVotesPercentage": 0.9,
+          "votes": 1113
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PAN",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.85,
+          "presidents": null,
+          "validVotesPercentage": 0.88,
+          "votes": 1086
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "NC",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.81,
+          "presidents": null,
+          "validVotesPercentage": 0.84,
+          "votes": 1037
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PTP-MAS",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.75,
+          "presidents": null,
+          "validVotesPercentage": 0.78,
+          "votes": 959
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PNR",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.44,
+          "presidents": null,
+          "validVotesPercentage": 0.45,
+          "votes": 559
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPM",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.42,
+          "presidents": null,
+          "validVotesPercentage": 0.43,
+          "votes": 535
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "L/TDA",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.35,
+          "presidents": null,
+          "validVotesPercentage": 0.37,
+          "votes": 453
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "MPT",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.35,
+          "presidents": null,
+          "validVotesPercentage": 0.36,
+          "votes": 445
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPV/CDC",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.3,
+          "presidents": null,
+          "validVotesPercentage": 0.32,
+          "votes": 390
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PURP",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.17,
+          "presidents": null,
+          "validVotesPercentage": 0.17,
+          "votes": 213
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "JPP",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.12,
+          "presidents": null,
+          "validVotesPercentage": 0.13,
+          "votes": 160
+        }
+      ],
+      "subscribedVoters": 253219,
+      "tie": false,
+      "tieMessage": null,
+      "totalBoycotts": 0,
+      "totalMandates": 6,
+      "totalParishesApproved": 208,
+      "totalVoters": 128488
+    },
+    "displayMessage": null,
+    "foreignCounterMessage": null,
+    "nationalCounterMessage": null,
+    "previousResults": {
+      "blankVotes": 4004,
+      "blankVotesPercentage": 2.97,
+      "displayMessage": null,
+      "nullVotes": 1740,
+      "nullVotesPercentage": 1.29,
+      "percentageVoters": 52.46,
+      "resultsParty": [
+        {
+          "absoluteMajority": null,
+          "acronym": "PPD/PSD",
+          "constituenctyCounter": null,
+          "mandates": 3,
+          "percentage": 43.59,
+          "presidents": null,
+          "validVotesPercentage": 45.53,
+          "votes": 58806
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PS",
+          "constituenctyCounter": null,
+          "mandates": 2,
+          "percentage": 26.18,
+          "presidents": null,
+          "validVotesPercentage": 27.35,
+          "votes": 35319
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "CDS-PP",
+          "constituenctyCounter": null,
+          "mandates": 1,
+          "percentage": 13.44,
+          "presidents": null,
+          "validVotesPercentage": 14.04,
+          "votes": 18129
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCP-PEV",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 4.93,
+          "presidents": null,
+          "validVotesPercentage": 5.14,
+          "votes": 6645
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "B.E.",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 4.39,
+          "presidents": null,
+          "validVotesPercentage": 4.59,
+          "votes": 5925
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCTP/MRPP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 1.09,
+          "presidents": null,
+          "validVotesPercentage": 1.14,
+          "votes": 1471
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PAN",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.69,
+          "presidents": null,
+          "validVotesPercentage": 0.72,
+          "votes": 926
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "MEP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.43,
+          "presidents": null,
+          "validVotesPercentage": 0.45,
+          "votes": 575
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "MPT",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.29,
+          "presidents": null,
+          "validVotesPercentage": 0.3,
+          "votes": 385
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPM",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.24,
+          "presidents": null,
+          "validVotesPercentage": 0.25,
+          "votes": 328
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPV",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.18,
+          "presidents": null,
+          "validVotesPercentage": 0.19,
+          "votes": 242
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PNR",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.16,
+          "presidents": null,
+          "validVotesPercentage": 0.16,
+          "votes": 212
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PDA",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.14,
+          "presidents": null,
+          "validVotesPercentage": 0.15,
+          "votes": 195
+        }
+      ],
+      "subscribedVoters": 257155,
+      "totalMandates": 6,
+      "totalVoters": 134902
+    },
+    "refreshTimeout": 20,
+    "territoryFullName": "Viana do Castelo",
+    "territoryKey": "LOCAL-160000",
+    "territoryMessage": null,
+    "territoryName": "Viana do Castelo",
+    "time": "12:06",
+    "totalConsulates": 23,
+    "totalConsulatesApproved": 23,
+    "totalParishes": 3092,
+    "totalParishesApproved": 3092,
+    "warningMessage": null
+  },
+  {
+    "currentResults": {
+      "availableMandates": 0,
+      "blankVotes": 1189,
+      "blankVotesPercentage": 1.71,
+      "displayMessage": null,
+      "hasNoVoting": false,
+      "nullVotes": 1408,
+      "nullVotesPercentage": 2.02,
+      "numberParishes": 226,
+      "numberVoters": 69644,
+      "percentageVoters": 47.23,
+      "resultsParty": [
+        {
+          "absoluteMajority": null,
+          "acronym": "PPD/PSD.CDS-PP",
+          "constituenctyCounter": 1,
+          "mandates": 2,
+          "percentage": 49.41,
+          "presidents": null,
+          "validVotesPercentage": 51.32,
+          "votes": 34408
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PS",
+          "constituenctyCounter": 1,
+          "mandates": 1,
+          "percentage": 34.06,
+          "presidents": null,
+          "validVotesPercentage": 35.38,
+          "votes": 23718
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "B.E.",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 5.54,
+          "presidents": null,
+          "validVotesPercentage": 5.75,
+          "votes": 3858
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCP-PEV",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 3.07,
+          "presidents": null,
+          "validVotesPercentage": 3.19,
+          "votes": 2136
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PDR",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.78,
+          "presidents": null,
+          "validVotesPercentage": 0.81,
+          "votes": 546
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCTP/MRPP",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.77,
+          "presidents": null,
+          "validVotesPercentage": 0.8,
+          "votes": 537
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PAN",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.55,
+          "presidents": null,
+          "validVotesPercentage": 0.58,
+          "votes": 386
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PTP-MAS",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.41,
+          "presidents": null,
+          "validVotesPercentage": 0.42,
+          "votes": 284
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "L/TDA",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.36,
+          "presidents": null,
+          "validVotesPercentage": 0.37,
+          "votes": 251
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPM",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.33,
+          "presidents": null,
+          "validVotesPercentage": 0.34,
+          "votes": 229
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "MPT",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.32,
+          "presidents": null,
+          "validVotesPercentage": 0.33,
+          "votes": 223
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PNR",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.27,
+          "presidents": null,
+          "validVotesPercentage": 0.28,
+          "votes": 190
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "NC",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.23,
+          "presidents": null,
+          "validVotesPercentage": 0.24,
+          "votes": 160
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "JPP",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.17,
+          "presidents": null,
+          "validVotesPercentage": 0.18,
+          "votes": 121
+        }
+      ],
+      "subscribedVoters": 147465,
+      "tie": false,
+      "tieMessage": null,
+      "totalBoycotts": 0,
+      "totalMandates": 3,
+      "totalParishesApproved": 226,
+      "totalVoters": 69644
+    },
+    "displayMessage": null,
+    "foreignCounterMessage": null,
+    "nationalCounterMessage": null,
+    "previousResults": {
+      "blankVotes": 1428,
+      "blankVotesPercentage": 1.89,
+      "displayMessage": null,
+      "nullVotes": 1107,
+      "nullVotesPercentage": 1.46,
+      "percentageVoters": 49.13,
+      "resultsParty": [
+        {
+          "absoluteMajority": null,
+          "acronym": "PPD/PSD",
+          "constituenctyCounter": null,
+          "mandates": 2,
+          "percentage": 51.99,
+          "presidents": null,
+          "validVotesPercentage": 53.8,
+          "votes": 39321
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PS",
+          "constituenctyCounter": null,
+          "mandates": 1,
+          "percentage": 26.1,
+          "presidents": null,
+          "validVotesPercentage": 27,
+          "votes": 19736
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "CDS-PP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 11.08,
+          "presidents": null,
+          "validVotesPercentage": 11.46,
+          "votes": 8380
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCP-PEV",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 2.59,
+          "presidents": null,
+          "validVotesPercentage": 2.68,
+          "votes": 1962
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "B.E.",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 2.3,
+          "presidents": null,
+          "validVotesPercentage": 2.38,
+          "votes": 1738
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCTP/MRPP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.55,
+          "presidents": null,
+          "validVotesPercentage": 0.57,
+          "votes": 416
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "P.H.",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.41,
+          "presidents": null,
+          "validVotesPercentage": 0.42,
+          "votes": 309
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "MPT",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.37,
+          "presidents": null,
+          "validVotesPercentage": 0.38,
+          "votes": 279
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPM",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.33,
+          "presidents": null,
+          "validVotesPercentage": 0.34,
+          "votes": 246
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "MEP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.3,
+          "presidents": null,
+          "validVotesPercentage": 0.31,
+          "votes": 226
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PTP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.23,
+          "presidents": null,
+          "validVotesPercentage": 0.24,
+          "votes": 175
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PNR",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.21,
+          "presidents": null,
+          "validVotesPercentage": 0.22,
+          "votes": 162
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PDA",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.19,
+          "presidents": null,
+          "validVotesPercentage": 0.2,
+          "votes": 143
+        }
+      ],
+      "subscribedVoters": 153945,
+      "totalMandates": 3,
+      "totalVoters": 75628
+    },
+    "refreshTimeout": 20,
+    "territoryFullName": "Bragança",
+    "territoryKey": "LOCAL-040000",
+    "territoryMessage": null,
+    "territoryName": "Bragança",
+    "time": "12:05",
+    "totalConsulates": 23,
+    "totalConsulatesApproved": 23,
+    "totalParishes": 3092,
+    "totalParishesApproved": 3092,
+    "warningMessage": null
+  },
+  {
+    "currentResults": {
+      "availableMandates": 0,
+      "blankVotes": 22176,
+      "blankVotesPercentage": 1.92,
+      "displayMessage": null,
+      "hasNoVoting": false,
+      "nullVotes": 17112,
+      "nullVotesPercentage": 1.49,
+      "numberParishes": 134,
+      "numberVoters": 1152050,
+      "percentageVoters": 60.6,
+      "resultsParty": [
+        {
+          "absoluteMajority": null,
+          "acronym": "PPD/PSD.CDS-PP",
+          "constituenctyCounter": 1,
+          "mandates": 18,
+          "percentage": 34.68,
+          "presidents": null,
+          "validVotesPercentage": 35.9,
+          "votes": 399520
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PS",
+          "constituenctyCounter": 1,
+          "mandates": 18,
+          "percentage": 33.54,
+          "presidents": null,
+          "validVotesPercentage": 34.72,
+          "votes": 386354
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "B.E.",
+          "constituenctyCounter": 1,
+          "mandates": 5,
+          "percentage": 10.89,
+          "presidents": null,
+          "validVotesPercentage": 11.27,
+          "votes": 125438
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCP-PEV",
+          "constituenctyCounter": 1,
+          "mandates": 5,
+          "percentage": 9.84,
+          "presidents": null,
+          "validVotesPercentage": 10.19,
+          "votes": 113406
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PAN",
+          "constituenctyCounter": 1,
+          "mandates": 1,
+          "percentage": 1.96,
+          "presidents": null,
+          "validVotesPercentage": 2.03,
+          "votes": 22628
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "L/TDA",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 1.27,
+          "presidents": null,
+          "validVotesPercentage": 1.32,
+          "votes": 14683
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCTP/MRPP",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.96,
+          "presidents": null,
+          "validVotesPercentage": 1,
+          "votes": 11083
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PDR",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.89,
+          "presidents": null,
+          "validVotesPercentage": 0.92,
+          "votes": 10249
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PNR",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.62,
+          "presidents": null,
+          "validVotesPercentage": 0.65,
+          "votes": 7188
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "MPT",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.44,
+          "presidents": null,
+          "validVotesPercentage": 0.46,
+          "votes": 5078
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PTP-MAS",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.44,
+          "presidents": null,
+          "validVotesPercentage": 0.45,
+          "votes": 5026
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PURP",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.35,
+          "presidents": null,
+          "validVotesPercentage": 0.36,
+          "votes": 3999
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "NC",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.32,
+          "presidents": null,
+          "validVotesPercentage": 0.34,
+          "votes": 3737
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPM",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.24,
+          "presidents": null,
+          "validVotesPercentage": 0.25,
+          "votes": 2820
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "JPP",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.13,
+          "presidents": null,
+          "validVotesPercentage": 0.14,
+          "votes": 1553
+        }
+      ],
+      "subscribedVoters": 1900982,
+      "tie": false,
+      "tieMessage": null,
+      "totalBoycotts": 0,
+      "totalMandates": 47,
+      "totalParishesApproved": 134,
+      "totalVoters": 1152050
+    },
+    "displayMessage": null,
+    "foreignCounterMessage": null,
+    "nationalCounterMessage": null,
+    "previousResults": {
+      "blankVotes": 31132,
+      "blankVotesPercentage": 2.66,
+      "displayMessage": null,
+      "nullVotes": 15830,
+      "nullVotesPercentage": 1.35,
+      "percentageVoters": 62.19,
+      "resultsParty": [
+        {
+          "absoluteMajority": null,
+          "acronym": "PPD/PSD",
+          "constituenctyCounter": null,
+          "mandates": 18,
+          "percentage": 34.1,
+          "presidents": null,
+          "validVotesPercentage": 35.52,
+          "votes": 398789
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PS",
+          "constituenctyCounter": null,
+          "mandates": 14,
+          "percentage": 27.53,
+          "presidents": null,
+          "validVotesPercentage": 28.68,
+          "votes": 321952
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "CDS-PP",
+          "constituenctyCounter": null,
+          "mandates": 7,
+          "percentage": 13.78,
+          "presidents": null,
+          "validVotesPercentage": 14.36,
+          "votes": 161227
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCP-PEV",
+          "constituenctyCounter": null,
+          "mandates": 5,
+          "percentage": 9.55,
+          "presidents": null,
+          "validVotesPercentage": 9.95,
+          "votes": 111737
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "B.E.",
+          "constituenctyCounter": null,
+          "mandates": 3,
+          "percentage": 5.72,
+          "presidents": null,
+          "validVotesPercentage": 5.96,
+          "votes": 66868
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PAN",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 1.44,
+          "presidents": null,
+          "validVotesPercentage": 1.5,
+          "votes": 16884
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCTP/MRPP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 1.23,
+          "presidents": null,
+          "validVotesPercentage": 1.28,
+          "votes": 14398
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "MEP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.53,
+          "presidents": null,
+          "validVotesPercentage": 0.55,
+          "votes": 6206
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PNR",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.53,
+          "presidents": null,
+          "validVotesPercentage": 0.55,
+          "votes": 6193
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPM",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.37,
+          "presidents": null,
+          "validVotesPercentage": 0.38,
+          "votes": 4285
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "MPT",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.35,
+          "presidents": null,
+          "validVotesPercentage": 0.37,
+          "votes": 4134
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PTP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.21,
+          "presidents": null,
+          "validVotesPercentage": 0.22,
+          "votes": 2423
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PND",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.17,
+          "presidents": null,
+          "validVotesPercentage": 0.17,
+          "votes": 1952
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPV",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.17,
+          "presidents": null,
+          "validVotesPercentage": 0.18,
+          "votes": 1997
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "POUS",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.16,
+          "presidents": null,
+          "validVotesPercentage": 0.16,
+          "votes": 1830
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "P.H.",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.15,
+          "presidents": null,
+          "validVotesPercentage": 0.16,
+          "votes": 1761
+        }
+      ],
+      "subscribedVoters": 1880814,
+      "totalMandates": 47,
+      "totalVoters": 1169598
+    },
+    "refreshTimeout": 20,
+    "territoryFullName": "Lisboa",
+    "territoryKey": "LOCAL-110000",
+    "territoryMessage": null,
+    "territoryName": "Lisboa",
+    "time": "12:05",
+    "totalConsulates": 23,
+    "totalConsulatesApproved": 23,
+    "totalParishes": 3092,
+    "totalParishesApproved": 3092,
+    "warningMessage": null
+  },
+  {
+    "currentResults": {
+      "availableMandates": 0,
+      "blankVotes": 1689,
+      "blankVotesPercentage": 1.98,
+      "displayMessage": null,
+      "hasNoVoting": false,
+      "nullVotes": 1987,
+      "nullVotesPercentage": 2.32,
+      "numberParishes": 242,
+      "numberVoters": 85469,
+      "percentageVoters": 52.29,
+      "resultsParty": [
+        {
+          "absoluteMajority": null,
+          "acronym": "PPD/PSD.CDS-PP",
+          "constituenctyCounter": 1,
+          "mandates": 2,
+          "percentage": 45.59,
+          "presidents": null,
+          "validVotesPercentage": 47.64,
+          "votes": 38964
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PS",
+          "constituenctyCounter": 1,
+          "mandates": 2,
+          "percentage": 33.78,
+          "presidents": null,
+          "validVotesPercentage": 35.29,
+          "votes": 28868
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "B.E.",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 7.42,
+          "presidents": null,
+          "validVotesPercentage": 7.75,
+          "votes": 6341
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCP-PEV",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 3.95,
+          "presidents": null,
+          "validVotesPercentage": 4.13,
+          "votes": 3379
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PDR",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 1.12,
+          "presidents": null,
+          "validVotesPercentage": 1.17,
+          "votes": 958
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PAN",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.85,
+          "presidents": null,
+          "validVotesPercentage": 0.89,
+          "votes": 725
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCTP/MRPP",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.81,
+          "presidents": null,
+          "validVotesPercentage": 0.84,
+          "votes": 689
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PNR",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.46,
+          "presidents": null,
+          "validVotesPercentage": 0.48,
+          "votes": 389
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "MPT",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.35,
+          "presidents": null,
+          "validVotesPercentage": 0.36,
+          "votes": 298
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "L/TDA",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.34,
+          "presidents": null,
+          "validVotesPercentage": 0.35,
+          "votes": 287
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PTP-MAS",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.32,
+          "presidents": null,
+          "validVotesPercentage": 0.34,
+          "votes": 277
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPM",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.25,
+          "presidents": null,
+          "validVotesPercentage": 0.26,
+          "votes": 211
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "NC",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.21,
+          "presidents": null,
+          "validVotesPercentage": 0.22,
+          "votes": 180
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PURP",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.17,
+          "presidents": null,
+          "validVotesPercentage": 0.18,
+          "votes": 144
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "JPP",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.1,
+          "presidents": null,
+          "validVotesPercentage": 0.1,
+          "votes": 83
+        }
+      ],
+      "subscribedVoters": 163462,
+      "tie": false,
+      "tieMessage": null,
+      "totalBoycotts": 0,
+      "totalMandates": 4,
+      "totalParishesApproved": 242,
+      "totalVoters": 85469
+    },
+    "displayMessage": null,
+    "foreignCounterMessage": null,
+    "nationalCounterMessage": null,
+    "previousResults": {
+      "blankVotes": 2242,
+      "blankVotesPercentage": 2.41,
+      "displayMessage": null,
+      "nullVotes": 1749,
+      "nullVotesPercentage": 1.88,
+      "percentageVoters": 53.87,
+      "resultsParty": [
+        {
+          "absoluteMajority": null,
+          "acronym": "PPD/PSD",
+          "constituenctyCounter": null,
+          "mandates": 3,
+          "percentage": 46.32,
+          "presidents": null,
+          "validVotesPercentage": 48.4,
+          "votes": 43016
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PS",
+          "constituenctyCounter": null,
+          "mandates": 1,
+          "percentage": 28.31,
+          "presidents": null,
+          "validVotesPercentage": 29.58,
+          "votes": 26294
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "CDS-PP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 11.24,
+          "presidents": null,
+          "validVotesPercentage": 11.74,
+          "votes": 10436
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCP-PEV",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 3.48,
+          "presidents": null,
+          "validVotesPercentage": 3.64,
+          "votes": 3232
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "B.E.",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 3.34,
+          "presidents": null,
+          "validVotesPercentage": 3.49,
+          "votes": 3102
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCTP/MRPP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.81,
+          "presidents": null,
+          "validVotesPercentage": 0.85,
+          "votes": 754
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PAN",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.56,
+          "presidents": null,
+          "validVotesPercentage": 0.58,
+          "votes": 519
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPV",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.31,
+          "presidents": null,
+          "validVotesPercentage": 0.32,
+          "votes": 286
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "MPT",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.27,
+          "presidents": null,
+          "validVotesPercentage": 0.28,
+          "votes": 247
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "MEP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.24,
+          "presidents": null,
+          "validVotesPercentage": 0.25,
+          "votes": 225
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PDA",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.22,
+          "presidents": null,
+          "validVotesPercentage": 0.23,
+          "votes": 200
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PTP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.22,
+          "presidents": null,
+          "validVotesPercentage": 0.23,
+          "votes": 200
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPM",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.2,
+          "presidents": null,
+          "validVotesPercentage": 0.21,
+          "votes": 189
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PNR",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.19,
+          "presidents": null,
+          "validVotesPercentage": 0.2,
+          "votes": 178
+        }
+      ],
+      "subscribedVoters": 172396,
+      "totalMandates": 4,
+      "totalVoters": 92869
+    },
+    "refreshTimeout": 20,
+    "territoryFullName": "Guarda",
+    "territoryKey": "LOCAL-090000",
+    "territoryMessage": null,
+    "territoryName": "Guarda",
+    "time": "12:05",
+    "totalConsulates": 23,
+    "totalConsulatesApproved": 23,
+    "totalParishes": 3092,
+    "totalParishesApproved": 3092,
+    "warningMessage": null
+  },
+  {
+    "currentResults": {
+      "availableMandates": 0,
+      "blankVotes": 18902,
+      "blankVotesPercentage": 1.97,
+      "displayMessage": null,
+      "hasNoVoting": false,
+      "nullVotes": 14073,
+      "nullVotesPercentage": 1.47,
+      "numberParishes": 243,
+      "numberVoters": 959919,
+      "percentageVoters": 60.3,
+      "resultsParty": [
+        {
+          "absoluteMajority": null,
+          "acronym": "PPD/PSD.CDS-PP",
+          "constituenctyCounter": 1,
+          "mandates": 17,
+          "percentage": 39.59,
+          "presidents": null,
+          "validVotesPercentage": 41,
+          "votes": 380043
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PS",
+          "constituenctyCounter": 1,
+          "mandates": 14,
+          "percentage": 32.72,
+          "presidents": null,
+          "validVotesPercentage": 33.88,
+          "votes": 314084
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "B.E.",
+          "constituenctyCounter": 1,
+          "mandates": 5,
+          "percentage": 11.14,
+          "presidents": null,
+          "validVotesPercentage": 11.54,
+          "votes": 106954
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCP-PEV",
+          "constituenctyCounter": 1,
+          "mandates": 3,
+          "percentage": 6.83,
+          "presidents": null,
+          "validVotesPercentage": 7.07,
+          "votes": 65560
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PAN",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 1.59,
+          "presidents": null,
+          "validVotesPercentage": 1.65,
+          "votes": 15295
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PDR",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 1.11,
+          "presidents": null,
+          "validVotesPercentage": 1.15,
+          "votes": 10702
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCTP/MRPP",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 1.07,
+          "presidents": null,
+          "validVotesPercentage": 1.11,
+          "votes": 10290
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "L/TDA",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.52,
+          "presidents": null,
+          "validVotesPercentage": 0.54,
+          "votes": 5014
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PNR",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.49,
+          "presidents": null,
+          "validVotesPercentage": 0.51,
+          "votes": 4750
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "MPT",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.36,
+          "presidents": null,
+          "validVotesPercentage": 0.37,
+          "votes": 3449
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "NC",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.29,
+          "presidents": null,
+          "validVotesPercentage": 0.3,
+          "votes": 2773
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PTP-MAS",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.29,
+          "presidents": null,
+          "validVotesPercentage": 0.3,
+          "votes": 2788
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPM",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.25,
+          "presidents": null,
+          "validVotesPercentage": 0.26,
+          "votes": 2392
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PURP",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.17,
+          "presidents": null,
+          "validVotesPercentage": 0.17,
+          "votes": 1611
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "JPP",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.13,
+          "presidents": null,
+          "validVotesPercentage": 0.13,
+          "votes": 1239
+        }
+      ],
+      "subscribedVoters": 1591787,
+      "tie": false,
+      "tieMessage": null,
+      "totalBoycotts": 0,
+      "totalMandates": 39,
+      "totalParishesApproved": 243,
+      "totalVoters": 959919
+    },
+    "displayMessage": null,
+    "foreignCounterMessage": null,
+    "nationalCounterMessage": null,
+    "previousResults": {
+      "blankVotes": 24723,
+      "blankVotesPercentage": 2.49,
+      "displayMessage": null,
+      "nullVotes": 12289,
+      "nullVotesPercentage": 1.24,
+      "percentageVoters": 63.22,
+      "resultsParty": [
+        {
+          "absoluteMajority": null,
+          "acronym": "PPD/PSD",
+          "constituenctyCounter": null,
+          "mandates": 17,
+          "percentage": 39.14,
+          "presidents": null,
+          "validVotesPercentage": 40.65,
+          "votes": 388650
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PS",
+          "constituenctyCounter": null,
+          "mandates": 14,
+          "percentage": 32.03,
+          "presidents": null,
+          "validVotesPercentage": 33.27,
+          "votes": 318100
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "CDS-PP",
+          "constituenctyCounter": null,
+          "mandates": 4,
+          "percentage": 10,
+          "presidents": null,
+          "validVotesPercentage": 10.39,
+          "votes": 99338
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCP-PEV",
+          "constituenctyCounter": null,
+          "mandates": 2,
+          "percentage": 6.23,
+          "presidents": null,
+          "validVotesPercentage": 6.47,
+          "votes": 61819
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "B.E.",
+          "constituenctyCounter": null,
+          "mandates": 2,
+          "percentage": 5.13,
+          "presidents": null,
+          "validVotesPercentage": 5.33,
+          "votes": 50985
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCTP/MRPP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.97,
+          "presidents": null,
+          "validVotesPercentage": 1.01,
+          "votes": 9617
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PAN",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.91,
+          "presidents": null,
+          "validVotesPercentage": 0.95,
+          "votes": 9063
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PTP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.34,
+          "presidents": null,
+          "validVotesPercentage": 0.35,
+          "votes": 3375
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "MEP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.3,
+          "presidents": null,
+          "validVotesPercentage": 0.31,
+          "votes": 2959
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "MPT",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.24,
+          "presidents": null,
+          "validVotesPercentage": 0.25,
+          "votes": 2414
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PDA",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.22,
+          "presidents": null,
+          "validVotesPercentage": 0.23,
+          "votes": 2217
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PND",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.16,
+          "presidents": null,
+          "validVotesPercentage": 0.16,
+          "votes": 1548
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PNR",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.16,
+          "presidents": null,
+          "validVotesPercentage": 0.16,
+          "votes": 1552
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPM",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.15,
+          "presidents": null,
+          "validVotesPercentage": 0.16,
+          "votes": 1524
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "P.H.",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.12,
+          "presidents": null,
+          "validVotesPercentage": 0.13,
+          "votes": 1198
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPV",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.11,
+          "presidents": null,
+          "validVotesPercentage": 0.11,
+          "votes": 1096
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "POUS",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.05,
+          "presidents": null,
+          "validVotesPercentage": 0.06,
+          "votes": 539
+        }
+      ],
+      "subscribedVoters": 1570611,
+      "totalMandates": 39,
+      "totalVoters": 993006
+    },
+    "refreshTimeout": 20,
+    "territoryFullName": "Porto",
+    "territoryKey": "LOCAL-130000",
+    "territoryMessage": null,
+    "territoryName": "Porto",
+    "time": "12:05",
+    "totalConsulates": 23,
+    "totalConsulatesApproved": 23,
+    "totalParishes": 3092,
+    "totalParishesApproved": 3092,
+    "warningMessage": null
+  },
+  {
+    "currentResults": {
+      "availableMandates": 0,
+      "blankVotes": 1130,
+      "blankVotesPercentage": 1.92,
+      "displayMessage": null,
+      "hasNoVoting": false,
+      "nullVotes": 896,
+      "nullVotesPercentage": 1.52,
+      "numberParishes": 69,
+      "numberVoters": 59004,
+      "percentageVoters": 58.31,
+      "resultsParty": [
+        {
+          "absoluteMajority": null,
+          "acronym": "PS",
+          "constituenctyCounter": 1,
+          "mandates": 1,
+          "percentage": 42.43,
+          "presidents": null,
+          "validVotesPercentage": 43.94,
+          "votes": 25037
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPD/PSD.CDS-PP",
+          "constituenctyCounter": 1,
+          "mandates": 1,
+          "percentage": 27.63,
+          "presidents": null,
+          "validVotesPercentage": 28.61,
+          "votes": 16303
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCP-PEV",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 12.18,
+          "presidents": null,
+          "validVotesPercentage": 12.61,
+          "votes": 7184
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "B.E.",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 9.2,
+          "presidents": null,
+          "validVotesPercentage": 9.52,
+          "votes": 5427
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCTP/MRPP",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 1.7,
+          "presidents": null,
+          "validVotesPercentage": 1.76,
+          "votes": 1001
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PAN",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.79,
+          "presidents": null,
+          "validVotesPercentage": 0.81,
+          "votes": 464
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PDR",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.55,
+          "presidents": null,
+          "validVotesPercentage": 0.57,
+          "votes": 326
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PNR",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.37,
+          "presidents": null,
+          "validVotesPercentage": 0.38,
+          "votes": 217
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PTP-MAS",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.34,
+          "presidents": null,
+          "validVotesPercentage": 0.35,
+          "votes": 198
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "L/TDA",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.32,
+          "presidents": null,
+          "validVotesPercentage": 0.33,
+          "votes": 189
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPM",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.32,
+          "presidents": null,
+          "validVotesPercentage": 0.33,
+          "votes": 187
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "MPT",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.26,
+          "presidents": null,
+          "validVotesPercentage": 0.27,
+          "votes": 154
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PURP",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.25,
+          "presidents": null,
+          "validVotesPercentage": 0.26,
+          "votes": 147
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "NC",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.24,
+          "presidents": null,
+          "validVotesPercentage": 0.25,
+          "votes": 144
+        }
+      ],
+      "subscribedVoters": 101189,
+      "tie": false,
+      "tieMessage": null,
+      "totalBoycotts": 0,
+      "totalMandates": 2,
+      "totalParishesApproved": 69,
+      "totalVoters": 59004
+    },
+    "displayMessage": null,
+    "foreignCounterMessage": null,
+    "nationalCounterMessage": null,
+    "previousResults": {
+      "blankVotes": 1536,
+      "blankVotesPercentage": 2.49,
+      "displayMessage": null,
+      "nullVotes": 817,
+      "nullVotesPercentage": 1.33,
+      "percentageVoters": 57.87,
+      "resultsParty": [
+        {
+          "absoluteMajority": null,
+          "acronym": "PPD/PSD",
+          "constituenctyCounter": null,
+          "mandates": 1,
+          "percentage": 32.46,
+          "presidents": null,
+          "validVotesPercentage": 33.74,
+          "votes": 19992
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PS",
+          "constituenctyCounter": null,
+          "mandates": 1,
+          "percentage": 32.43,
+          "presidents": null,
+          "validVotesPercentage": 33.72,
+          "votes": 19978
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCP-PEV",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 12.81,
+          "presidents": null,
+          "validVotesPercentage": 13.32,
+          "votes": 7890
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "CDS-PP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 10.14,
+          "presidents": null,
+          "validVotesPercentage": 10.54,
+          "votes": 6247
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "B.E.",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 4.45,
+          "presidents": null,
+          "validVotesPercentage": 4.63,
+          "votes": 2743
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCTP/MRPP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 1.71,
+          "presidents": null,
+          "validVotesPercentage": 1.77,
+          "votes": 1051
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PAN",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.54,
+          "presidents": null,
+          "validVotesPercentage": 0.56,
+          "votes": 333
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "MEP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.37,
+          "presidents": null,
+          "validVotesPercentage": 0.38,
+          "votes": 227
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "MPT",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.29,
+          "presidents": null,
+          "validVotesPercentage": 0.3,
+          "votes": 176
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PTP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.26,
+          "presidents": null,
+          "validVotesPercentage": 0.27,
+          "votes": 162
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PNR",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.24,
+          "presidents": null,
+          "validVotesPercentage": 0.25,
+          "votes": 150
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPM",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.22,
+          "presidents": null,
+          "validVotesPercentage": 0.23,
+          "votes": 135
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "P.H.",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.13,
+          "presidents": null,
+          "validVotesPercentage": 0.14,
+          "votes": 80
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "POUS",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.13,
+          "presidents": null,
+          "validVotesPercentage": 0.14,
+          "votes": 81
+        }
+      ],
+      "subscribedVoters": 106444,
+      "totalMandates": 2,
+      "totalVoters": 61598
+    },
+    "refreshTimeout": 20,
+    "territoryFullName": "Portalegre",
+    "territoryKey": "LOCAL-120000",
+    "territoryMessage": null,
+    "territoryName": "Portalegre",
+    "time": "12:05",
+    "totalConsulates": 23,
+    "totalConsulatesApproved": 23,
+    "totalParishes": 3092,
+    "totalParishesApproved": 3092,
+    "warningMessage": null
+  },
+  {
+    "currentResults": {
+      "availableMandates": 0,
+      "blankVotes": 7261,
+      "blankVotesPercentage": 1.71,
+      "displayMessage": null,
+      "hasNoVoting": false,
+      "nullVotes": 6183,
+      "nullVotesPercentage": 1.46,
+      "numberParishes": 55,
+      "numberVoters": 423500,
+      "percentageVoters": 58.33,
+      "resultsParty": [
+        {
+          "absoluteMajority": null,
+          "acronym": "PS",
+          "constituenctyCounter": 1,
+          "mandates": 7,
+          "percentage": 34.31,
+          "presidents": null,
+          "validVotesPercentage": 35.43,
+          "votes": 145302
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPD/PSD.CDS-PP",
+          "constituenctyCounter": 1,
+          "mandates": 5,
+          "percentage": 22.59,
+          "presidents": null,
+          "validVotesPercentage": 23.33,
+          "votes": 95659
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCP-PEV",
+          "constituenctyCounter": 1,
+          "mandates": 4,
+          "percentage": 18.8,
+          "presidents": null,
+          "validVotesPercentage": 19.41,
+          "votes": 79606
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "B.E.",
+          "constituenctyCounter": 1,
+          "mandates": 2,
+          "percentage": 13.05,
+          "presidents": null,
+          "validVotesPercentage": 13.48,
+          "votes": 55276
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PAN",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 1.93,
+          "presidents": null,
+          "validVotesPercentage": 1.99,
+          "votes": 8167
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCTP/MRPP",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 1.59,
+          "presidents": null,
+          "validVotesPercentage": 1.64,
+          "votes": 6721
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "L/TDA",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 1.01,
+          "presidents": null,
+          "validVotesPercentage": 1.04,
+          "votes": 4277
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PDR",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.97,
+          "presidents": null,
+          "validVotesPercentage": 1.01,
+          "votes": 4124
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PNR",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.63,
+          "presidents": null,
+          "validVotesPercentage": 0.65,
+          "votes": 2676
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PTP-MAS",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.43,
+          "presidents": null,
+          "validVotesPercentage": 0.44,
+          "votes": 1807
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PURP",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.4,
+          "presidents": null,
+          "validVotesPercentage": 0.41,
+          "votes": 1700
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "MPT",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.37,
+          "presidents": null,
+          "validVotesPercentage": 0.39,
+          "votes": 1584
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "NC",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.37,
+          "presidents": null,
+          "validVotesPercentage": 0.38,
+          "votes": 1572
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPM",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.24,
+          "presidents": null,
+          "validVotesPercentage": 0.25,
+          "votes": 1024
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "JPP",
+          "constituenctyCounter": 1,
+          "mandates": 0,
+          "percentage": 0.13,
+          "presidents": null,
+          "validVotesPercentage": 0.14,
+          "votes": 561
+        }
+      ],
+      "subscribedVoters": 726049,
+      "tie": false,
+      "tieMessage": null,
+      "totalBoycotts": 0,
+      "totalMandates": 18,
+      "totalParishesApproved": 55,
+      "totalVoters": 423500
+    },
+    "displayMessage": null,
+    "foreignCounterMessage": null,
+    "nationalCounterMessage": null,
+    "previousResults": {
+      "blankVotes": 10742,
+      "blankVotesPercentage": 2.55,
+      "displayMessage": null,
+      "nullVotes": 5818,
+      "nullVotesPercentage": 1.38,
+      "percentageVoters": 59.17,
+      "resultsParty": [
+        {
+          "absoluteMajority": null,
+          "acronym": "PS",
+          "constituenctyCounter": null,
+          "mandates": 5,
+          "percentage": 27.14,
+          "presidents": null,
+          "validVotesPercentage": 28.25,
+          "votes": 114358
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPD/PSD",
+          "constituenctyCounter": null,
+          "mandates": 5,
+          "percentage": 25.15,
+          "presidents": null,
+          "validVotesPercentage": 26.18,
+          "votes": 105965
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCP-PEV",
+          "constituenctyCounter": null,
+          "mandates": 4,
+          "percentage": 19.65,
+          "presidents": null,
+          "validVotesPercentage": 20.46,
+          "votes": 82816
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "CDS-PP",
+          "constituenctyCounter": null,
+          "mandates": 2,
+          "percentage": 12.02,
+          "presidents": null,
+          "validVotesPercentage": 12.51,
+          "votes": 50660
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "B.E.",
+          "constituenctyCounter": null,
+          "mandates": 1,
+          "percentage": 7.03,
+          "presidents": null,
+          "validVotesPercentage": 7.32,
+          "votes": 29620
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PAN",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 1.47,
+          "presidents": null,
+          "validVotesPercentage": 1.53,
+          "votes": 6197
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PCTP/MRPP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 1.45,
+          "presidents": null,
+          "validVotesPercentage": 1.51,
+          "votes": 6109
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "MEP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.42,
+          "presidents": null,
+          "validVotesPercentage": 0.44,
+          "votes": 1779
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "MPT",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.39,
+          "presidents": null,
+          "validVotesPercentage": 0.41,
+          "votes": 1649
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PNR",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.38,
+          "presidents": null,
+          "validVotesPercentage": 0.39,
+          "votes": 1581
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPV",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.28,
+          "presidents": null,
+          "validVotesPercentage": 0.29,
+          "votes": 1184
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PTP",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.27,
+          "presidents": null,
+          "validVotesPercentage": 0.28,
+          "votes": 1126
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PPM",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.2,
+          "presidents": null,
+          "validVotesPercentage": 0.21,
+          "votes": 833
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "PND",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.15,
+          "presidents": null,
+          "validVotesPercentage": 0.16,
+          "votes": 646
+        },
+        {
+          "absoluteMajority": null,
+          "acronym": "POUS",
+          "constituenctyCounter": null,
+          "mandates": 0,
+          "percentage": 0.07,
+          "presidents": null,
+          "validVotesPercentage": 0.08,
+          "votes": 304
+        }
+      ],
+      "subscribedVoters": 712133,
+      "totalMandates": 17,
+      "totalVoters": 421387
+    },
+    "refreshTimeout": 20,
+    "territoryFullName": "Setúbal",
+    "territoryKey": "LOCAL-150000",
+    "territoryMessage": null,
+    "territoryName": "Setúbal",
+    "time": "12:06",
+    "totalConsulates": 23,
+    "totalConsulatesApproved": 23,
+    "totalParishes": 3092,
+    "totalParishesApproved": 3092,
+    "warningMessage": null
+  }
+]

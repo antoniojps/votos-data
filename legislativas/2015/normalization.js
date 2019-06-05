@@ -19,10 +19,10 @@ const treated = data.map(localResults => {
   const resultsParty = resultsPartyJSON.map(results => {
     const { acronym, mandates, percentage, votes } = results
     return {
-      acronym,
-      mandates,
-      percentage,
-      votes
+      acronym: acronym.toString(),
+      mandates: mandates.toString(),
+      percentage: percentage.toString(),
+      votes: votes.toString()
     }
   })
   return {

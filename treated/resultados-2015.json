@@ -8,87 +8,87 @@
       "resultsParty": [
         {
           "acronym": "PS",
-          "mandates": 3,
-          "percentage": 40.37,
-          "votes": 37869
+          "mandates": "3",
+          "percentage": "40.37",
+          "votes": "37869"
         },
         {
           "acronym": "PPD/PSD",
-          "mandates": 2,
-          "percentage": 36.06,
-          "votes": 33826
+          "mandates": "2",
+          "percentage": "36.06",
+          "votes": "33826"
         },
         {
           "acronym": "B.E.",
-          "mandates": 0,
-          "percentage": 7.81,
-          "votes": 7330
+          "mandates": "0",
+          "percentage": "7.81",
+          "votes": "7330"
         },
         {
           "acronym": "CDS-PP.PPM",
-          "mandates": 0,
-          "percentage": 3.9,
-          "votes": 3654
+          "mandates": "0",
+          "percentage": "3.9",
+          "votes": "3654"
         },
         {
           "acronym": "PCP-PEV",
-          "mandates": 0,
-          "percentage": 2.47,
-          "votes": 2320
+          "mandates": "0",
+          "percentage": "2.47",
+          "votes": "2320"
         },
         {
           "acronym": "PAN",
-          "mandates": 0,
-          "percentage": 0.87,
-          "votes": 815
+          "mandates": "0",
+          "percentage": "0.87",
+          "votes": "815"
         },
         {
           "acronym": "NC",
-          "mandates": 0,
-          "percentage": 0.82,
-          "votes": 766
+          "mandates": "0",
+          "percentage": "0.82",
+          "votes": "766"
         },
         {
           "acronym": "PCTP/MRPP",
-          "mandates": 0,
-          "percentage": 0.64,
-          "votes": 601
+          "mandates": "0",
+          "percentage": "0.64",
+          "votes": "601"
         },
         {
           "acronym": "PDR",
-          "mandates": 0,
-          "percentage": 0.54,
-          "votes": 511
+          "mandates": "0",
+          "percentage": "0.54",
+          "votes": "511"
         },
         {
           "acronym": "PURP",
-          "mandates": 0,
-          "percentage": 0.37,
-          "votes": 346
+          "mandates": "0",
+          "percentage": "0.37",
+          "votes": "346"
         },
         {
           "acronym": "L/TDA",
-          "mandates": 0,
-          "percentage": 0.35,
-          "votes": 332
+          "mandates": "0",
+          "percentage": "0.35",
+          "votes": "332"
         },
         {
           "acronym": "PTP-MAS",
-          "mandates": 0,
-          "percentage": 0.34,
-          "votes": 319
+          "mandates": "0",
+          "percentage": "0.34",
+          "votes": "319"
         },
         {
           "acronym": "MPT",
-          "mandates": 0,
-          "percentage": 0.32,
-          "votes": 299
+          "mandates": "0",
+          "percentage": "0.32",
+          "votes": "299"
         },
         {
           "acronym": "PNR",
-          "mandates": 0,
-          "percentage": 0.2,
-          "votes": 185
+          "mandates": "0",
+          "percentage": "0.2",
+          "votes": "185"
         }
       ]
     },
@@ -99,87 +99,87 @@
       "resultsParty": [
         {
           "acronym": "PS",
-          "mandates": 1,
-          "percentage": 37.47,
-          "votes": 31705
+          "mandates": "1",
+          "percentage": "37.47",
+          "votes": "31705"
         },
         {
           "acronym": "PPD/PSD.CDS-PP",
-          "mandates": 1,
-          "percentage": 23.96,
-          "votes": 20275
+          "mandates": "1",
+          "percentage": "23.96",
+          "votes": "20275"
         },
         {
           "acronym": "PCP-PEV",
-          "mandates": 1,
-          "percentage": 21.94,
-          "votes": 18567
+          "mandates": "1",
+          "percentage": "21.94",
+          "votes": "18567"
         },
         {
           "acronym": "B.E.",
-          "mandates": 0,
-          "percentage": 8.64,
-          "votes": 7312
+          "mandates": "0",
+          "percentage": "8.64",
+          "votes": "7312"
         },
         {
           "acronym": "PCTP/MRPP",
-          "mandates": 0,
-          "percentage": 1.47,
-          "votes": 1245
+          "mandates": "0",
+          "percentage": "1.47",
+          "votes": "1245"
         },
         {
           "acronym": "PAN",
-          "mandates": 0,
-          "percentage": 0.85,
-          "votes": 723
+          "mandates": "0",
+          "percentage": "0.85",
+          "votes": "723"
         },
         {
           "acronym": "PDR",
-          "mandates": 0,
-          "percentage": 0.52,
-          "votes": 443
+          "mandates": "0",
+          "percentage": "0.52",
+          "votes": "443"
         },
         {
           "acronym": "PPM",
-          "mandates": 0,
-          "percentage": 0.43,
-          "votes": 363
+          "mandates": "0",
+          "percentage": "0.43",
+          "votes": "363"
         },
         {
           "acronym": "L/TDA",
-          "mandates": 0,
-          "percentage": 0.42,
-          "votes": 356
+          "mandates": "0",
+          "percentage": "0.42",
+          "votes": "356"
         },
         {
           "acronym": "PNR",
-          "mandates": 0,
-          "percentage": 0.33,
-          "votes": 280
+          "mandates": "0",
+          "percentage": "0.33",
+          "votes": "280"
         },
         {
           "acronym": "MPT",
-          "mandates": 0,
-          "percentage": 0.29,
-          "votes": 242
+          "mandates": "0",
+          "percentage": "0.29",
+          "votes": "242"
         },
         {
           "acronym": "NC",
-          "mandates": 0,
-          "percentage": 0.26,
-          "votes": 216
+          "mandates": "0",
+          "percentage": "0.26",
+          "votes": "216"
         },
         {
           "acronym": "PTP-MAS",
-          "mandates": 0,
-          "percentage": 0.26,
-          "votes": 224
+          "mandates": "0",
+          "percentage": "0.26",
+          "votes": "224"
         },
         {
           "acronym": "PURP",
-          "mandates": 0,
-          "percentage": 0.2,
-          "votes": 166
+          "mandates": "0",
+          "percentage": "0.2",
+          "votes": "166"
         }
       ]
     },
@@ -190,87 +190,87 @@
       "resultsParty": [
         {
           "acronym": "PS",
-          "mandates": 2,
-          "percentage": 38.86,
-          "votes": 40502
+          "mandates": "2",
+          "percentage": "38.86",
+          "votes": "40502"
         },
         {
           "acronym": "PPD/PSD.CDS-PP",
-          "mandates": 2,
-          "percentage": 35.31,
-          "votes": 36803
+          "mandates": "2",
+          "percentage": "35.31",
+          "votes": "36803"
         },
         {
           "acronym": "B.E.",
-          "mandates": 0,
-          "percentage": 10.03,
-          "votes": 10450
+          "mandates": "0",
+          "percentage": "10.03",
+          "votes": "10450"
         },
         {
           "acronym": "PCP-PEV",
-          "mandates": 0,
-          "percentage": 6.03,
-          "votes": 6286
+          "mandates": "0",
+          "percentage": "6.03",
+          "votes": "6286"
         },
         {
           "acronym": "PCTP/MRPP",
-          "mandates": 0,
-          "percentage": 1.04,
-          "votes": 1080
+          "mandates": "0",
+          "percentage": "1.04",
+          "votes": "1080"
         },
         {
           "acronym": "PDR",
-          "mandates": 0,
-          "percentage": 1.04,
-          "votes": 1086
+          "mandates": "0",
+          "percentage": "1.04",
+          "votes": "1086"
         },
         {
           "acronym": "PAN",
-          "mandates": 0,
-          "percentage": 0.83,
-          "votes": 860
+          "mandates": "0",
+          "percentage": "0.83",
+          "votes": "860"
         },
         {
           "acronym": "L/TDA",
-          "mandates": 0,
-          "percentage": 0.49,
-          "votes": 507
+          "mandates": "0",
+          "percentage": "0.49",
+          "votes": "507"
         },
         {
           "acronym": "PNR",
-          "mandates": 0,
-          "percentage": 0.49,
-          "votes": 508
+          "mandates": "0",
+          "percentage": "0.49",
+          "votes": "508"
         },
         {
           "acronym": "PPM",
-          "mandates": 0,
-          "percentage": 0.48,
-          "votes": 496
+          "mandates": "0",
+          "percentage": "0.48",
+          "votes": "496"
         },
         {
           "acronym": "MPT",
-          "mandates": 0,
-          "percentage": 0.45,
-          "votes": 474
+          "mandates": "0",
+          "percentage": "0.45",
+          "votes": "474"
         },
         {
           "acronym": "PTP-MAS",
-          "mandates": 0,
-          "percentage": 0.36,
-          "votes": 374
+          "mandates": "0",
+          "percentage": "0.36",
+          "votes": "374"
         },
         {
           "acronym": "NC",
-          "mandates": 0,
-          "percentage": 0.26,
-          "votes": 267
+          "mandates": "0",
+          "percentage": "0.26",
+          "votes": "267"
         },
         {
           "acronym": "PURP",
-          "mandates": 0,
-          "percentage": 0.26,
-          "votes": 272
+          "mandates": "0",
+          "percentage": "0.26",
+          "votes": "272"
         }
       ]
     },
@@ -281,99 +281,99 @@
       "resultsParty": [
         {
           "acronym": "PPD/PSD.CDS-PP",
-          "mandates": 10,
-          "percentage": 45.61,
-          "votes": 216357
+          "mandates": "10",
+          "percentage": "45.61",
+          "votes": "216357"
         },
         {
           "acronym": "PS",
-          "mandates": 7,
-          "percentage": 30.87,
-          "votes": 146412
+          "mandates": "7",
+          "percentage": "30.87",
+          "votes": "146412"
         },
         {
           "acronym": "B.E.",
-          "mandates": 1,
-          "percentage": 8.8,
-          "votes": 41745
+          "mandates": "1",
+          "percentage": "8.8",
+          "votes": "41745"
         },
         {
           "acronym": "PCP-PEV",
-          "mandates": 1,
-          "percentage": 5.19,
-          "votes": 24632
+          "mandates": "1",
+          "percentage": "5.19",
+          "votes": "24632"
         },
         {
           "acronym": "PDR",
-          "mandates": 0,
-          "percentage": 1.58,
-          "votes": 7500
+          "mandates": "0",
+          "percentage": "1.58",
+          "votes": "7500"
         },
         {
           "acronym": "PCTP/MRPP",
-          "mandates": 0,
-          "percentage": 1.15,
-          "votes": 5436
+          "mandates": "0",
+          "percentage": "1.15",
+          "votes": "5436"
         },
         {
           "acronym": "PAN",
-          "mandates": 0,
-          "percentage": 0.78,
-          "votes": 3682
+          "mandates": "0",
+          "percentage": "0.78",
+          "votes": "3682"
         },
         {
           "acronym": "L/TDA",
-          "mandates": 0,
-          "percentage": 0.49,
-          "votes": 2333
+          "mandates": "0",
+          "percentage": "0.49",
+          "votes": "2333"
         },
         {
           "acronym": "PNR",
-          "mandates": 0,
-          "percentage": 0.39,
-          "votes": 1836
+          "mandates": "0",
+          "percentage": "0.39",
+          "votes": "1836"
         },
         {
           "acronym": "MPT",
-          "mandates": 0,
-          "percentage": 0.34,
-          "votes": 1604
+          "mandates": "0",
+          "percentage": "0.34",
+          "votes": "1604"
         },
         {
           "acronym": "PTP-MAS",
-          "mandates": 0,
-          "percentage": 0.34,
-          "votes": 1620
+          "mandates": "0",
+          "percentage": "0.34",
+          "votes": "1620"
         },
         {
           "acronym": "PPV/CDC",
-          "mandates": 0,
-          "percentage": 0.21,
-          "votes": 993
+          "mandates": "0",
+          "percentage": "0.21",
+          "votes": "993"
         },
         {
           "acronym": "NC",
-          "mandates": 0,
-          "percentage": 0.2,
-          "votes": 972
+          "mandates": "0",
+          "percentage": "0.2",
+          "votes": "972"
         },
         {
           "acronym": "PPM",
-          "mandates": 0,
-          "percentage": 0.19,
-          "votes": 884
+          "mandates": "0",
+          "percentage": "0.19",
+          "votes": "884"
         },
         {
           "acronym": "PURP",
-          "mandates": 0,
-          "percentage": 0.19,
-          "votes": 878
+          "mandates": "0",
+          "percentage": "0.19",
+          "votes": "878"
         },
         {
           "acronym": "JPP",
-          "mandates": 0,
-          "percentage": 0.13,
-          "votes": 637
+          "mandates": "0",
+          "percentage": "0.13",
+          "votes": "637"
         }
       ]
     },
@@ -384,93 +384,93 @@
       "resultsParty": [
         {
           "acronym": "PPD/PSD.CDS-PP",
-          "mandates": 6,
-          "percentage": 48.42,
-          "votes": 115453
+          "mandates": "6",
+          "percentage": "48.42",
+          "votes": "115453"
         },
         {
           "acronym": "PS",
-          "mandates": 3,
-          "percentage": 24.82,
-          "votes": 59184
+          "mandates": "3",
+          "percentage": "24.82",
+          "votes": "59184"
         },
         {
           "acronym": "B.E.",
-          "mandates": 1,
-          "percentage": 9.66,
-          "votes": 23034
+          "mandates": "1",
+          "percentage": "9.66",
+          "votes": "23034"
         },
         {
           "acronym": "PCP-PEV",
-          "mandates": 0,
-          "percentage": 5.11,
-          "votes": 12181
+          "mandates": "0",
+          "percentage": "5.11",
+          "votes": "12181"
         },
         {
           "acronym": "PDR",
-          "mandates": 0,
-          "percentage": 1.71,
-          "votes": 4067
+          "mandates": "0",
+          "percentage": "1.71",
+          "votes": "4067"
         },
         {
           "acronym": "PAN",
-          "mandates": 0,
-          "percentage": 1.22,
-          "votes": 2908
+          "mandates": "0",
+          "percentage": "1.22",
+          "votes": "2908"
         },
         {
           "acronym": "PCTP/MRPP",
-          "mandates": 0,
-          "percentage": 1.06,
-          "votes": 2517
+          "mandates": "0",
+          "percentage": "1.06",
+          "votes": "2517"
         },
         {
           "acronym": "L/TDA",
-          "mandates": 0,
-          "percentage": 0.75,
-          "votes": 1786
+          "mandates": "0",
+          "percentage": "0.75",
+          "votes": "1786"
         },
         {
           "acronym": "MPT",
-          "mandates": 0,
-          "percentage": 0.5,
-          "votes": 1189
+          "mandates": "0",
+          "percentage": "0.5",
+          "votes": "1189"
         },
         {
           "acronym": "PNR",
-          "mandates": 0,
-          "percentage": 0.45,
-          "votes": 1073
+          "mandates": "0",
+          "percentage": "0.45",
+          "votes": "1073"
         },
         {
           "acronym": "PTP-MAS",
-          "mandates": 0,
-          "percentage": 0.38,
-          "votes": 916
+          "mandates": "0",
+          "percentage": "0.38",
+          "votes": "916"
         },
         {
           "acronym": "NC",
-          "mandates": 0,
-          "percentage": 0.35,
-          "votes": 840
+          "mandates": "0",
+          "percentage": "0.35",
+          "votes": "840"
         },
         {
           "acronym": "PPM",
-          "mandates": 0,
-          "percentage": 0.29,
-          "votes": 701
+          "mandates": "0",
+          "percentage": "0.29",
+          "votes": "701"
         },
         {
           "acronym": "PURP",
-          "mandates": 0,
-          "percentage": 0.26,
-          "votes": 612
+          "mandates": "0",
+          "percentage": "0.26",
+          "votes": "612"
         },
         {
           "acronym": "JPP",
-          "mandates": 0,
-          "percentage": 0.16,
-          "votes": 371
+          "mandates": "0",
+          "percentage": "0.16",
+          "votes": "371"
         }
       ]
     },
@@ -481,87 +481,87 @@
       "resultsParty": [
         {
           "acronym": "PPD/PSD.CDS-PP",
-          "mandates": 3,
-          "percentage": 51.02,
-          "votes": 56262
+          "mandates": "3",
+          "percentage": "51.02",
+          "votes": "56262"
         },
         {
           "acronym": "PS",
-          "mandates": 2,
-          "percentage": 33.06,
-          "votes": 36461
+          "mandates": "2",
+          "percentage": "33.06",
+          "votes": "36461"
         },
         {
           "acronym": "B.E.",
-          "mandates": 0,
-          "percentage": 5.18,
-          "votes": 5707
+          "mandates": "0",
+          "percentage": "5.18",
+          "votes": "5707"
         },
         {
           "acronym": "PCP-PEV",
-          "mandates": 0,
-          "percentage": 2.95,
-          "votes": 3250
+          "mandates": "0",
+          "percentage": "2.95",
+          "votes": "3250"
         },
         {
           "acronym": "PCTP/MRPP",
-          "mandates": 0,
-          "percentage": 0.91,
-          "votes": 1004
+          "mandates": "0",
+          "percentage": "0.91",
+          "votes": "1004"
         },
         {
           "acronym": "PDR",
-          "mandates": 0,
-          "percentage": 0.73,
-          "votes": 806
+          "mandates": "0",
+          "percentage": "0.73",
+          "votes": "806"
         },
         {
           "acronym": "PAN",
-          "mandates": 0,
-          "percentage": 0.6,
-          "votes": 667
+          "mandates": "0",
+          "percentage": "0.6",
+          "votes": "667"
         },
         {
           "acronym": "PTP-MAS",
-          "mandates": 0,
-          "percentage": 0.47,
-          "votes": 521
+          "mandates": "0",
+          "percentage": "0.47",
+          "votes": "521"
         },
         {
           "acronym": "L/TDA",
-          "mandates": 0,
-          "percentage": 0.35,
-          "votes": 383
+          "mandates": "0",
+          "percentage": "0.35",
+          "votes": "383"
         },
         {
           "acronym": "PPM",
-          "mandates": 0,
-          "percentage": 0.29,
-          "votes": 316
+          "mandates": "0",
+          "percentage": "0.29",
+          "votes": "316"
         },
         {
           "acronym": "MPT",
-          "mandates": 0,
-          "percentage": 0.28,
-          "votes": 306
+          "mandates": "0",
+          "percentage": "0.28",
+          "votes": "306"
         },
         {
           "acronym": "NC",
-          "mandates": 0,
-          "percentage": 0.25,
-          "votes": 281
+          "mandates": "0",
+          "percentage": "0.25",
+          "votes": "281"
         },
         {
           "acronym": "PNR",
-          "mandates": 0,
-          "percentage": 0.25,
-          "votes": 279
+          "mandates": "0",
+          "percentage": "0.25",
+          "votes": "279"
         },
         {
           "acronym": "PURP",
-          "mandates": 0,
-          "percentage": 0.14,
-          "votes": 151
+          "mandates": "0",
+          "percentage": "0.14",
+          "votes": "151"
         }
       ]
     },
@@ -572,99 +572,99 @@
       "resultsParty": [
         {
           "acronym": "PPD/PSD.CDS-PP",
-          "mandates": 10,
-          "percentage": 48.14,
-          "votes": 177185
+          "mandates": "10",
+          "percentage": "48.14",
+          "votes": "177185"
         },
         {
           "acronym": "PS",
-          "mandates": 5,
-          "percentage": 27.91,
-          "votes": 102726
+          "mandates": "5",
+          "percentage": "27.91",
+          "votes": "102726"
         },
         {
           "acronym": "B.E.",
-          "mandates": 1,
-          "percentage": 9.6,
-          "votes": 35327
+          "mandates": "1",
+          "percentage": "9.6",
+          "votes": "35327"
         },
         {
           "acronym": "PCP-PEV",
-          "mandates": 0,
-          "percentage": 4.36,
-          "votes": 16038
+          "mandates": "0",
+          "percentage": "4.36",
+          "votes": "16038"
         },
         {
           "acronym": "PDR",
-          "mandates": 0,
-          "percentage": 1.24,
-          "votes": 4548
+          "mandates": "0",
+          "percentage": "1.24",
+          "votes": "4548"
         },
         {
           "acronym": "PAN",
-          "mandates": 0,
-          "percentage": 0.97,
-          "votes": 3573
+          "mandates": "0",
+          "percentage": "0.97",
+          "votes": "3573"
         },
         {
           "acronym": "PCTP/MRPP",
-          "mandates": 0,
-          "percentage": 0.89,
-          "votes": 3280
+          "mandates": "0",
+          "percentage": "0.89",
+          "votes": "3280"
         },
         {
           "acronym": "PNR",
-          "mandates": 0,
-          "percentage": 0.46,
-          "votes": 1698
+          "mandates": "0",
+          "percentage": "0.46",
+          "votes": "1698"
         },
         {
           "acronym": "L/TDA",
-          "mandates": 0,
-          "percentage": 0.45,
-          "votes": 1660
+          "mandates": "0",
+          "percentage": "0.45",
+          "votes": "1660"
         },
         {
           "acronym": "MPT",
-          "mandates": 0,
-          "percentage": 0.36,
-          "votes": 1325
+          "mandates": "0",
+          "percentage": "0.36",
+          "votes": "1325"
         },
         {
           "acronym": "PPM",
-          "mandates": 0,
-          "percentage": 0.35,
-          "votes": 1292
+          "mandates": "0",
+          "percentage": "0.35",
+          "votes": "1292"
         },
         {
           "acronym": "PTP-MAS",
-          "mandates": 0,
-          "percentage": 0.34,
-          "votes": 1253
+          "mandates": "0",
+          "percentage": "0.34",
+          "votes": "1253"
         },
         {
           "acronym": "NC",
-          "mandates": 0,
-          "percentage": 0.27,
-          "votes": 1006
+          "mandates": "0",
+          "percentage": "0.27",
+          "votes": "1006"
         },
         {
           "acronym": "PPV/CDC",
-          "mandates": 0,
-          "percentage": 0.21,
-          "votes": 785
+          "mandates": "0",
+          "percentage": "0.21",
+          "votes": "785"
         },
         {
           "acronym": "PURP",
-          "mandates": 0,
-          "percentage": 0.17,
-          "votes": 634
+          "mandates": "0",
+          "percentage": "0.17",
+          "votes": "634"
         },
         {
           "acronym": "JPP",
-          "mandates": 0,
-          "percentage": 0.12,
-          "votes": 448
+          "mandates": "0",
+          "percentage": "0.12",
+          "votes": "448"
         }
       ]
     },
@@ -675,87 +675,87 @@
       "resultsParty": [
         {
           "acronym": "PPD/PSD.CDS-PP",
-          "mandates": 6,
-          "percentage": 51.05,
-          "votes": 97362
+          "mandates": "6",
+          "percentage": "51.05",
+          "votes": "97362"
         },
         {
           "acronym": "PS",
-          "mandates": 3,
-          "percentage": 29.65,
-          "votes": 56543
+          "mandates": "3",
+          "percentage": "29.65",
+          "votes": "56543"
         },
         {
           "acronym": "B.E.",
-          "mandates": 0,
-          "percentage": 6.72,
-          "votes": 12816
+          "mandates": "0",
+          "percentage": "6.72",
+          "votes": "12816"
         },
         {
           "acronym": "PCP-PEV",
-          "mandates": 0,
-          "percentage": 3.5,
-          "votes": 6668
+          "mandates": "0",
+          "percentage": "3.5",
+          "votes": "6668"
         },
         {
           "acronym": "PDR",
-          "mandates": 0,
-          "percentage": 1.02,
-          "votes": 1952
+          "mandates": "0",
+          "percentage": "1.02",
+          "votes": "1952"
         },
         {
           "acronym": "PCTP/MRPP",
-          "mandates": 0,
-          "percentage": 0.91,
-          "votes": 1743
+          "mandates": "0",
+          "percentage": "0.91",
+          "votes": "1743"
         },
         {
           "acronym": "PAN",
-          "mandates": 0,
-          "percentage": 0.68,
-          "votes": 1296
+          "mandates": "0",
+          "percentage": "0.68",
+          "votes": "1296"
         },
         {
           "acronym": "L/TDA",
-          "mandates": 0,
-          "percentage": 0.53,
-          "votes": 1003
+          "mandates": "0",
+          "percentage": "0.53",
+          "votes": "1003"
         },
         {
           "acronym": "PTP-MAS",
-          "mandates": 0,
-          "percentage": 0.38,
-          "votes": 721
+          "mandates": "0",
+          "percentage": "0.38",
+          "votes": "721"
         },
         {
           "acronym": "MPT",
-          "mandates": 0,
-          "percentage": 0.36,
-          "votes": 679
+          "mandates": "0",
+          "percentage": "0.36",
+          "votes": "679"
         },
         {
           "acronym": "PNR",
-          "mandates": 0,
-          "percentage": 0.32,
-          "votes": 608
+          "mandates": "0",
+          "percentage": "0.32",
+          "votes": "608"
         },
         {
           "acronym": "NC",
-          "mandates": 0,
-          "percentage": 0.28,
-          "votes": 534
+          "mandates": "0",
+          "percentage": "0.28",
+          "votes": "534"
         },
         {
           "acronym": "PPM",
-          "mandates": 0,
-          "percentage": 0.28,
-          "votes": 533
+          "mandates": "0",
+          "percentage": "0.28",
+          "votes": "533"
         },
         {
           "acronym": "PURP",
-          "mandates": 0,
-          "percentage": 0.2,
-          "votes": 387
+          "mandates": "0",
+          "percentage": "0.2",
+          "votes": "387"
         }
       ]
     },
@@ -766,93 +766,93 @@
       "resultsParty": [
         {
           "acronym": "PS",
-          "mandates": 1,
-          "percentage": 37.29,
-          "votes": 27775
+          "mandates": "1",
+          "percentage": "37.29",
+          "votes": "27775"
         },
         {
           "acronym": "PCP-PEV",
-          "mandates": 1,
-          "percentage": 24.96,
-          "votes": 18592
+          "mandates": "1",
+          "percentage": "24.96",
+          "votes": "18592"
         },
         {
           "acronym": "PPD/PSD.CDS-PP",
-          "mandates": 1,
-          "percentage": 20.11,
-          "votes": 14980
+          "mandates": "1",
+          "percentage": "20.11",
+          "votes": "14980"
         },
         {
           "acronym": "B.E.",
-          "mandates": 0,
-          "percentage": 8.2,
-          "votes": 6105
+          "mandates": "0",
+          "percentage": "8.2",
+          "votes": "6105"
         },
         {
           "acronym": "PCTP/MRPP",
-          "mandates": 0,
-          "percentage": 2.61,
-          "votes": 1945
+          "mandates": "0",
+          "percentage": "2.61",
+          "votes": "1945"
         },
         {
           "acronym": "PAN",
-          "mandates": 0,
-          "percentage": 0.82,
-          "votes": 608
+          "mandates": "0",
+          "percentage": "0.82",
+          "votes": "608"
         },
         {
           "acronym": "PDR",
-          "mandates": 0,
-          "percentage": 0.47,
-          "votes": 351
+          "mandates": "0",
+          "percentage": "0.47",
+          "votes": "351"
         },
         {
           "acronym": "PURP",
-          "mandates": 0,
-          "percentage": 0.46,
-          "votes": 340
+          "mandates": "0",
+          "percentage": "0.46",
+          "votes": "340"
         },
         {
           "acronym": "PNR",
-          "mandates": 0,
-          "percentage": 0.37,
-          "votes": 275
+          "mandates": "0",
+          "percentage": "0.37",
+          "votes": "275"
         },
         {
           "acronym": "L/TDA",
-          "mandates": 0,
-          "percentage": 0.36,
-          "votes": 271
+          "mandates": "0",
+          "percentage": "0.36",
+          "votes": "271"
         },
         {
           "acronym": "MPT",
-          "mandates": 0,
-          "percentage": 0.33,
-          "votes": 248
+          "mandates": "0",
+          "percentage": "0.33",
+          "votes": "248"
         },
         {
           "acronym": "PPM",
-          "mandates": 0,
-          "percentage": 0.26,
-          "votes": 192
+          "mandates": "0",
+          "percentage": "0.26",
+          "votes": "192"
         },
         {
           "acronym": "PTP-MAS",
-          "mandates": 0,
-          "percentage": 0.26,
-          "votes": 193
+          "mandates": "0",
+          "percentage": "0.26",
+          "votes": "193"
         },
         {
           "acronym": "NC",
-          "mandates": 0,
-          "percentage": 0.21,
-          "votes": 160
+          "mandates": "0",
+          "percentage": "0.21",
+          "votes": "160"
         },
         {
           "acronym": "JPP",
-          "mandates": 0,
-          "percentage": 0.12,
-          "votes": 88
+          "mandates": "0",
+          "percentage": "0.12",
+          "votes": "88"
         }
       ]
     },
@@ -863,93 +863,93 @@
       "resultsParty": [
         {
           "acronym": "PPD/PSD.CDS-PP",
-          "mandates": 4,
-          "percentage": 37.18,
-          "votes": 81882
+          "mandates": "4",
+          "percentage": "37.18",
+          "votes": "81882"
         },
         {
           "acronym": "PS",
-          "mandates": 4,
-          "percentage": 35.28,
-          "votes": 77684
+          "mandates": "4",
+          "percentage": "35.28",
+          "votes": "77684"
         },
         {
           "acronym": "B.E.",
-          "mandates": 1,
-          "percentage": 9.89,
-          "votes": 21780
+          "mandates": "1",
+          "percentage": "9.89",
+          "votes": "21780"
         },
         {
           "acronym": "PCP-PEV",
-          "mandates": 0,
-          "percentage": 7.03,
-          "votes": 15476
+          "mandates": "0",
+          "percentage": "7.03",
+          "votes": "15476"
         },
         {
           "acronym": "PDR",
-          "mandates": 0,
-          "percentage": 1.64,
-          "votes": 3615
+          "mandates": "0",
+          "percentage": "1.64",
+          "votes": "3615"
         },
         {
           "acronym": "PAN",
-          "mandates": 0,
-          "percentage": 0.98,
-          "votes": 2165
+          "mandates": "0",
+          "percentage": "0.98",
+          "votes": "2165"
         },
         {
           "acronym": "PCTP/MRPP",
-          "mandates": 0,
-          "percentage": 0.86,
-          "votes": 1889
+          "mandates": "0",
+          "percentage": "0.86",
+          "votes": "1889"
         },
         {
           "acronym": "L/TDA",
-          "mandates": 0,
-          "percentage": 0.59,
-          "votes": 1292
+          "mandates": "0",
+          "percentage": "0.59",
+          "votes": "1292"
         },
         {
           "acronym": "PNR",
-          "mandates": 0,
-          "percentage": 0.5,
-          "votes": 1097
+          "mandates": "0",
+          "percentage": "0.5",
+          "votes": "1097"
         },
         {
           "acronym": "PTP-MAS",
-          "mandates": 0,
-          "percentage": 0.49,
-          "votes": 1081
+          "mandates": "0",
+          "percentage": "0.49",
+          "votes": "1081"
         },
         {
           "acronym": "MPT",
-          "mandates": 0,
-          "percentage": 0.39,
-          "votes": 854
+          "mandates": "0",
+          "percentage": "0.39",
+          "votes": "854"
         },
         {
           "acronym": "NC",
-          "mandates": 0,
-          "percentage": 0.31,
-          "votes": 683
+          "mandates": "0",
+          "percentage": "0.31",
+          "votes": "683"
         },
         {
           "acronym": "PPM",
-          "mandates": 0,
-          "percentage": 0.24,
-          "votes": 525
+          "mandates": "0",
+          "percentage": "0.24",
+          "votes": "525"
         },
         {
           "acronym": "PURP",
-          "mandates": 0,
-          "percentage": 0.2,
-          "votes": 451
+          "mandates": "0",
+          "percentage": "0.2",
+          "votes": "451"
         },
         {
           "acronym": "JPP",
-          "mandates": 0,
-          "percentage": 0.12,
-          "votes": 272
+          "mandates": "0",
+          "percentage": "0.12",
+          "votes": "272"
         }
       ]
     },
@@ -960,93 +960,93 @@
       "resultsParty": [
         {
           "acronym": "PPD/PSD",
-          "mandates": 3,
-          "percentage": 37.75,
-          "votes": 47228
+          "mandates": "3",
+          "percentage": "37.75",
+          "votes": "47228"
         },
         {
           "acronym": "PS",
-          "mandates": 2,
-          "percentage": 20.9,
-          "votes": 26152
+          "mandates": "2",
+          "percentage": "20.9",
+          "votes": "26152"
         },
         {
           "acronym": "B.E.",
-          "mandates": 1,
-          "percentage": 10.66,
-          "votes": 13342
+          "mandates": "1",
+          "percentage": "10.66",
+          "votes": "13342"
         },
         {
           "acronym": "JPP",
-          "mandates": 0,
-          "percentage": 6.93,
-          "votes": 8671
+          "mandates": "0",
+          "percentage": "6.93",
+          "votes": "8671"
         },
         {
           "acronym": "CDS-PP",
-          "mandates": 0,
-          "percentage": 6.02,
-          "votes": 7536
+          "mandates": "0",
+          "percentage": "6.02",
+          "votes": "7536"
         },
         {
           "acronym": "PCP-PEV",
-          "mandates": 0,
-          "percentage": 3.57,
-          "votes": 4468
+          "mandates": "0",
+          "percentage": "3.57",
+          "votes": "4468"
         },
         {
           "acronym": "PAN",
-          "mandates": 0,
-          "percentage": 1.76,
-          "votes": 2206
+          "mandates": "0",
+          "percentage": "1.76",
+          "votes": "2206"
         },
         {
           "acronym": "PDR",
-          "mandates": 0,
-          "percentage": 1.71,
-          "votes": 2144
+          "mandates": "0",
+          "percentage": "1.71",
+          "votes": "2144"
         },
         {
           "acronym": "PTP",
-          "mandates": 0,
-          "percentage": 1.4,
-          "votes": 1748
+          "mandates": "0",
+          "percentage": "1.4",
+          "votes": "1748"
         },
         {
           "acronym": "MPT",
-          "mandates": 0,
-          "percentage": 1.36,
-          "votes": 1705
+          "mandates": "0",
+          "percentage": "1.36",
+          "votes": "1705"
         },
         {
           "acronym": "PCTP/MRPP",
-          "mandates": 0,
-          "percentage": 1.27,
-          "votes": 1592
+          "mandates": "0",
+          "percentage": "1.27",
+          "votes": "1592"
         },
         {
           "acronym": "L/TDA",
-          "mandates": 0,
-          "percentage": 1.01,
-          "votes": 1260
+          "mandates": "0",
+          "percentage": "1.01",
+          "votes": "1260"
         },
         {
           "acronym": "NC",
-          "mandates": 0,
-          "percentage": 0.9,
-          "votes": 1125
+          "mandates": "0",
+          "percentage": "0.9",
+          "votes": "1125"
         },
         {
           "acronym": "PNR",
-          "mandates": 0,
-          "percentage": 0.63,
-          "votes": 784
+          "mandates": "0",
+          "percentage": "0.63",
+          "votes": "784"
         },
         {
           "acronym": "PPM",
-          "mandates": 0,
-          "percentage": 0.42,
-          "votes": 528
+          "mandates": "0",
+          "percentage": "0.42",
+          "votes": "528"
         }
       ]
     },
@@ -1057,87 +1057,87 @@
       "resultsParty": [
         {
           "acronym": "PS",
-          "mandates": 4,
-          "percentage": 32.77,
-          "votes": 62422
+          "mandates": "4",
+          "percentage": "32.77",
+          "votes": "62422"
         },
         {
           "acronym": "PPD/PSD.CDS-PP",
-          "mandates": 3,
-          "percentage": 31.47,
-          "votes": 59950
+          "mandates": "3",
+          "percentage": "31.47",
+          "votes": "59950"
         },
         {
           "acronym": "B.E.",
-          "mandates": 1,
-          "percentage": 14.13,
-          "votes": 26922
+          "mandates": "1",
+          "percentage": "14.13",
+          "votes": "26922"
         },
         {
           "acronym": "PCP-PEV",
-          "mandates": 1,
-          "percentage": 8.68,
-          "votes": 16539
+          "mandates": "1",
+          "percentage": "8.68",
+          "votes": "16539"
         },
         {
           "acronym": "PAN",
-          "mandates": 0,
-          "percentage": 1.99,
-          "votes": 3783
+          "mandates": "0",
+          "percentage": "1.99",
+          "votes": "3783"
         },
         {
           "acronym": "PCTP/MRPP",
-          "mandates": 0,
-          "percentage": 1.58,
-          "votes": 3012
+          "mandates": "0",
+          "percentage": "1.58",
+          "votes": "3012"
         },
         {
           "acronym": "PDR",
-          "mandates": 0,
-          "percentage": 1.2,
-          "votes": 2293
+          "mandates": "0",
+          "percentage": "1.2",
+          "votes": "2293"
         },
         {
           "acronym": "L/TDA",
-          "mandates": 0,
-          "percentage": 0.75,
-          "votes": 1435
+          "mandates": "0",
+          "percentage": "0.75",
+          "votes": "1435"
         },
         {
           "acronym": "PNR",
-          "mandates": 0,
-          "percentage": 0.71,
-          "votes": 1343
+          "mandates": "0",
+          "percentage": "0.71",
+          "votes": "1343"
         },
         {
           "acronym": "NC",
-          "mandates": 0,
-          "percentage": 0.7,
-          "votes": 1337
+          "mandates": "0",
+          "percentage": "0.7",
+          "votes": "1337"
         },
         {
           "acronym": "MPT",
-          "mandates": 0,
-          "percentage": 0.64,
-          "votes": 1222
+          "mandates": "0",
+          "percentage": "0.64",
+          "votes": "1222"
         },
         {
           "acronym": "PTP-MAS",
-          "mandates": 0,
-          "percentage": 0.64,
-          "votes": 1220
+          "mandates": "0",
+          "percentage": "0.64",
+          "votes": "1220"
         },
         {
           "acronym": "PURP",
-          "mandates": 0,
-          "percentage": 0.47,
-          "votes": 886
+          "mandates": "0",
+          "percentage": "0.47",
+          "votes": "886"
         },
         {
           "acronym": "PPM",
-          "mandates": 0,
-          "percentage": 0.4,
-          "votes": 755
+          "mandates": "0",
+          "percentage": "0.4",
+          "votes": "755"
         }
       ]
     },
@@ -1148,93 +1148,93 @@
       "resultsParty": [
         {
           "acronym": "PPD/PSD.CDS-PP",
-          "mandates": 4,
-          "percentage": 35.82,
-          "votes": 81544
+          "mandates": "4",
+          "percentage": "35.82",
+          "votes": "81544"
         },
         {
           "acronym": "PS",
-          "mandates": 3,
-          "percentage": 32.91,
-          "votes": 74905
+          "mandates": "3",
+          "percentage": "32.91",
+          "votes": "74905"
         },
         {
           "acronym": "B.E.",
-          "mandates": 1,
-          "percentage": 10.76,
-          "votes": 24489
+          "mandates": "1",
+          "percentage": "10.76",
+          "votes": "24489"
         },
         {
           "acronym": "PCP-PEV",
-          "mandates": 1,
-          "percentage": 9.64,
-          "votes": 21941
+          "mandates": "1",
+          "percentage": "9.64",
+          "votes": "21941"
         },
         {
           "acronym": "PCTP/MRPP",
-          "mandates": 0,
-          "percentage": 1.34,
-          "votes": 3060
+          "mandates": "0",
+          "percentage": "1.34",
+          "votes": "3060"
         },
         {
           "acronym": "PAN",
-          "mandates": 0,
-          "percentage": 1.19,
-          "votes": 2715
+          "mandates": "0",
+          "percentage": "1.19",
+          "votes": "2715"
         },
         {
           "acronym": "PDR",
-          "mandates": 0,
-          "percentage": 1.04,
-          "votes": 2377
+          "mandates": "0",
+          "percentage": "1.04",
+          "votes": "2377"
         },
         {
           "acronym": "L/TDA",
-          "mandates": 0,
-          "percentage": 0.54,
-          "votes": 1236
+          "mandates": "0",
+          "percentage": "0.54",
+          "votes": "1236"
         },
         {
           "acronym": "PNR",
-          "mandates": 0,
-          "percentage": 0.53,
-          "votes": 1206
+          "mandates": "0",
+          "percentage": "0.53",
+          "votes": "1206"
         },
         {
           "acronym": "MPT",
-          "mandates": 0,
-          "percentage": 0.46,
-          "votes": 1038
+          "mandates": "0",
+          "percentage": "0.46",
+          "votes": "1038"
         },
         {
           "acronym": "NC",
-          "mandates": 0,
-          "percentage": 0.41,
-          "votes": 932
+          "mandates": "0",
+          "percentage": "0.41",
+          "votes": "932"
         },
         {
           "acronym": "PTP-MAS",
-          "mandates": 0,
-          "percentage": 0.41,
-          "votes": 928
+          "mandates": "0",
+          "percentage": "0.41",
+          "votes": "928"
         },
         {
           "acronym": "PPM",
-          "mandates": 0,
-          "percentage": 0.36,
-          "votes": 822
+          "mandates": "0",
+          "percentage": "0.36",
+          "votes": "822"
         },
         {
           "acronym": "PURP",
-          "mandates": 0,
-          "percentage": 0.36,
-          "votes": 827
+          "mandates": "0",
+          "percentage": "0.36",
+          "votes": "827"
         },
         {
           "acronym": "PPV/CDC",
-          "mandates": 0,
-          "percentage": 0.22,
-          "votes": 491
+          "mandates": "0",
+          "percentage": "0.22",
+          "votes": "491"
         }
       ]
     },
@@ -1245,99 +1245,99 @@
       "resultsParty": [
         {
           "acronym": "PPD/PSD.CDS-PP",
-          "mandates": 4,
-          "percentage": 45.54,
-          "votes": 58509
+          "mandates": "4",
+          "percentage": "45.54",
+          "votes": "58509"
         },
         {
           "acronym": "PS",
-          "mandates": 2,
-          "percentage": 29.82,
-          "votes": 38309
+          "mandates": "2",
+          "percentage": "29.82",
+          "votes": "38309"
         },
         {
           "acronym": "B.E.",
-          "mandates": 0,
-          "percentage": 7.96,
-          "votes": 10225
+          "mandates": "0",
+          "percentage": "7.96",
+          "votes": "10225"
         },
         {
           "acronym": "PCP-PEV",
-          "mandates": 0,
-          "percentage": 5.23,
-          "votes": 6726
+          "mandates": "0",
+          "percentage": "5.23",
+          "votes": "6726"
         },
         {
           "acronym": "PDR",
-          "mandates": 0,
-          "percentage": 1.87,
-          "votes": 2400
+          "mandates": "0",
+          "percentage": "1.87",
+          "votes": "2400"
         },
         {
           "acronym": "PCTP/MRPP",
-          "mandates": 0,
-          "percentage": 0.87,
-          "votes": 1113
+          "mandates": "0",
+          "percentage": "0.87",
+          "votes": "1113"
         },
         {
           "acronym": "PAN",
-          "mandates": 0,
-          "percentage": 0.85,
-          "votes": 1086
+          "mandates": "0",
+          "percentage": "0.85",
+          "votes": "1086"
         },
         {
           "acronym": "NC",
-          "mandates": 0,
-          "percentage": 0.81,
-          "votes": 1037
+          "mandates": "0",
+          "percentage": "0.81",
+          "votes": "1037"
         },
         {
           "acronym": "PTP-MAS",
-          "mandates": 0,
-          "percentage": 0.75,
-          "votes": 959
+          "mandates": "0",
+          "percentage": "0.75",
+          "votes": "959"
         },
         {
           "acronym": "PNR",
-          "mandates": 0,
-          "percentage": 0.44,
-          "votes": 559
+          "mandates": "0",
+          "percentage": "0.44",
+          "votes": "559"
         },
         {
           "acronym": "PPM",
-          "mandates": 0,
-          "percentage": 0.42,
-          "votes": 535
+          "mandates": "0",
+          "percentage": "0.42",
+          "votes": "535"
         },
         {
           "acronym": "L/TDA",
-          "mandates": 0,
-          "percentage": 0.35,
-          "votes": 453
+          "mandates": "0",
+          "percentage": "0.35",
+          "votes": "453"
         },
         {
           "acronym": "MPT",
-          "mandates": 0,
-          "percentage": 0.35,
-          "votes": 445
+          "mandates": "0",
+          "percentage": "0.35",
+          "votes": "445"
         },
         {
           "acronym": "PPV/CDC",
-          "mandates": 0,
-          "percentage": 0.3,
-          "votes": 390
+          "mandates": "0",
+          "percentage": "0.3",
+          "votes": "390"
         },
         {
           "acronym": "PURP",
-          "mandates": 0,
-          "percentage": 0.17,
-          "votes": 213
+          "mandates": "0",
+          "percentage": "0.17",
+          "votes": "213"
         },
         {
           "acronym": "JPP",
-          "mandates": 0,
-          "percentage": 0.12,
-          "votes": 160
+          "mandates": "0",
+          "percentage": "0.12",
+          "votes": "160"
         }
       ]
     },
@@ -1348,87 +1348,87 @@
       "resultsParty": [
         {
           "acronym": "PPD/PSD.CDS-PP",
-          "mandates": 2,
-          "percentage": 49.41,
-          "votes": 34408
+          "mandates": "2",
+          "percentage": "49.41",
+          "votes": "34408"
         },
         {
           "acronym": "PS",
-          "mandates": 1,
-          "percentage": 34.06,
-          "votes": 23718
+          "mandates": "1",
+          "percentage": "34.06",
+          "votes": "23718"
         },
         {
           "acronym": "B.E.",
-          "mandates": 0,
-          "percentage": 5.54,
-          "votes": 3858
+          "mandates": "0",
+          "percentage": "5.54",
+          "votes": "3858"
         },
         {
           "acronym": "PCP-PEV",
-          "mandates": 0,
-          "percentage": 3.07,
-          "votes": 2136
+          "mandates": "0",
+          "percentage": "3.07",
+          "votes": "2136"
         },
         {
           "acronym": "PDR",
-          "mandates": 0,
-          "percentage": 0.78,
-          "votes": 546
+          "mandates": "0",
+          "percentage": "0.78",
+          "votes": "546"
         },
         {
           "acronym": "PCTP/MRPP",
-          "mandates": 0,
-          "percentage": 0.77,
-          "votes": 537
+          "mandates": "0",
+          "percentage": "0.77",
+          "votes": "537"
         },
         {
           "acronym": "PAN",
-          "mandates": 0,
-          "percentage": 0.55,
-          "votes": 386
+          "mandates": "0",
+          "percentage": "0.55",
+          "votes": "386"
         },
         {
           "acronym": "PTP-MAS",
-          "mandates": 0,
-          "percentage": 0.41,
-          "votes": 284
+          "mandates": "0",
+          "percentage": "0.41",
+          "votes": "284"
         },
         {
           "acronym": "L/TDA",
-          "mandates": 0,
-          "percentage": 0.36,
-          "votes": 251
+          "mandates": "0",
+          "percentage": "0.36",
+          "votes": "251"
         },
         {
           "acronym": "PPM",
-          "mandates": 0,
-          "percentage": 0.33,
-          "votes": 229
+          "mandates": "0",
+          "percentage": "0.33",
+          "votes": "229"
         },
         {
           "acronym": "MPT",
-          "mandates": 0,
-          "percentage": 0.32,
-          "votes": 223
+          "mandates": "0",
+          "percentage": "0.32",
+          "votes": "223"
         },
         {
           "acronym": "PNR",
-          "mandates": 0,
-          "percentage": 0.27,
-          "votes": 190
+          "mandates": "0",
+          "percentage": "0.27",
+          "votes": "190"
         },
         {
           "acronym": "NC",
-          "mandates": 0,
-          "percentage": 0.23,
-          "votes": 160
+          "mandates": "0",
+          "percentage": "0.23",
+          "votes": "160"
         },
         {
           "acronym": "JPP",
-          "mandates": 0,
-          "percentage": 0.17,
-          "votes": 121
+          "mandates": "0",
+          "percentage": "0.17",
+          "votes": "121"
         }
       ]
     },
@@ -1439,93 +1439,93 @@
       "resultsParty": [
         {
           "acronym": "PPD/PSD.CDS-PP",
-          "mandates": 18,
-          "percentage": 34.68,
-          "votes": 399520
+          "mandates": "18",
+          "percentage": "34.68",
+          "votes": "399520"
         },
         {
           "acronym": "PS",
-          "mandates": 18,
-          "percentage": 33.54,
-          "votes": 386354
+          "mandates": "18",
+          "percentage": "33.54",
+          "votes": "386354"
         },
         {
           "acronym": "B.E.",
-          "mandates": 5,
-          "percentage": 10.89,
-          "votes": 125438
+          "mandates": "5",
+          "percentage": "10.89",
+          "votes": "125438"
         },
         {
           "acronym": "PCP-PEV",
-          "mandates": 5,
-          "percentage": 9.84,
-          "votes": 113406
+          "mandates": "5",
+          "percentage": "9.84",
+          "votes": "113406"
         },
         {
           "acronym": "PAN",
-          "mandates": 1,
-          "percentage": 1.96,
-          "votes": 22628
+          "mandates": "1",
+          "percentage": "1.96",
+          "votes": "22628"
         },
         {
           "acronym": "L/TDA",
-          "mandates": 0,
-          "percentage": 1.27,
-          "votes": 14683
+          "mandates": "0",
+          "percentage": "1.27",
+          "votes": "14683"
         },
         {
           "acronym": "PCTP/MRPP",
-          "mandates": 0,
-          "percentage": 0.96,
-          "votes": 11083
+          "mandates": "0",
+          "percentage": "0.96",
+          "votes": "11083"
         },
         {
           "acronym": "PDR",
-          "mandates": 0,
-          "percentage": 0.89,
-          "votes": 10249
+          "mandates": "0",
+          "percentage": "0.89",
+          "votes": "10249"
         },
         {
           "acronym": "PNR",
-          "mandates": 0,
-          "percentage": 0.62,
-          "votes": 7188
+          "mandates": "0",
+          "percentage": "0.62",
+          "votes": "7188"
         },
         {
           "acronym": "MPT",
-          "mandates": 0,
-          "percentage": 0.44,
-          "votes": 5078
+          "mandates": "0",
+          "percentage": "0.44",
+          "votes": "5078"
         },
         {
           "acronym": "PTP-MAS",
-          "mandates": 0,
-          "percentage": 0.44,
-          "votes": 5026
+          "mandates": "0",
+          "percentage": "0.44",
+          "votes": "5026"
         },
         {
           "acronym": "PURP",
-          "mandates": 0,
-          "percentage": 0.35,
-          "votes": 3999
+          "mandates": "0",
+          "percentage": "0.35",
+          "votes": "3999"
         },
         {
           "acronym": "NC",
-          "mandates": 0,
-          "percentage": 0.32,
-          "votes": 3737
+          "mandates": "0",
+          "percentage": "0.32",
+          "votes": "3737"
         },
         {
           "acronym": "PPM",
-          "mandates": 0,
-          "percentage": 0.24,
-          "votes": 2820
+          "mandates": "0",
+          "percentage": "0.24",
+          "votes": "2820"
         },
         {
           "acronym": "JPP",
-          "mandates": 0,
-          "percentage": 0.13,
-          "votes": 1553
+          "mandates": "0",
+          "percentage": "0.13",
+          "votes": "1553"
         }
       ]
     },
@@ -1536,93 +1536,93 @@
       "resultsParty": [
         {
           "acronym": "PPD/PSD.CDS-PP",
-          "mandates": 2,
-          "percentage": 45.59,
-          "votes": 38964
+          "mandates": "2",
+          "percentage": "45.59",
+          "votes": "38964"
         },
         {
           "acronym": "PS",
-          "mandates": 2,
-          "percentage": 33.78,
-          "votes": 28868
+          "mandates": "2",
+          "percentage": "33.78",
+          "votes": "28868"
         },
         {
           "acronym": "B.E.",
-          "mandates": 0,
-          "percentage": 7.42,
-          "votes": 6341
+          "mandates": "0",
+          "percentage": "7.42",
+          "votes": "6341"
         },
         {
           "acronym": "PCP-PEV",
-          "mandates": 0,
-          "percentage": 3.95,
-          "votes": 3379
+          "mandates": "0",
+          "percentage": "3.95",
+          "votes": "3379"
         },
         {
           "acronym": "PDR",
-          "mandates": 0,
-          "percentage": 1.12,
-          "votes": 958
+          "mandates": "0",
+          "percentage": "1.12",
+          "votes": "958"
         },
         {
           "acronym": "PAN",
-          "mandates": 0,
-          "percentage": 0.85,
-          "votes": 725
+          "mandates": "0",
+          "percentage": "0.85",
+          "votes": "725"
         },
         {
           "acronym": "PCTP/MRPP",
-          "mandates": 0,
-          "percentage": 0.81,
-          "votes": 689
+          "mandates": "0",
+          "percentage": "0.81",
+          "votes": "689"
         },
         {
           "acronym": "PNR",
-          "mandates": 0,
-          "percentage": 0.46,
-          "votes": 389
+          "mandates": "0",
+          "percentage": "0.46",
+          "votes": "389"
         },
         {
           "acronym": "MPT",
-          "mandates": 0,
-          "percentage": 0.35,
-          "votes": 298
+          "mandates": "0",
+          "percentage": "0.35",
+          "votes": "298"
         },
         {
           "acronym": "L/TDA",
-          "mandates": 0,
-          "percentage": 0.34,
-          "votes": 287
+          "mandates": "0",
+          "percentage": "0.34",
+          "votes": "287"
         },
         {
           "acronym": "PTP-MAS",
-          "mandates": 0,
-          "percentage": 0.32,
-          "votes": 277
+          "mandates": "0",
+          "percentage": "0.32",
+          "votes": "277"
         },
         {
           "acronym": "PPM",
-          "mandates": 0,
-          "percentage": 0.25,
-          "votes": 211
+          "mandates": "0",
+          "percentage": "0.25",
+          "votes": "211"
         },
         {
           "acronym": "NC",
-          "mandates": 0,
-          "percentage": 0.21,
-          "votes": 180
+          "mandates": "0",
+          "percentage": "0.21",
+          "votes": "180"
         },
         {
           "acronym": "PURP",
-          "mandates": 0,
-          "percentage": 0.17,
-          "votes": 144
+          "mandates": "0",
+          "percentage": "0.17",
+          "votes": "144"
         },
         {
           "acronym": "JPP",
-          "mandates": 0,
-          "percentage": 0.1,
-          "votes": 83
+          "mandates": "0",
+          "percentage": "0.1",
+          "votes": "83"
         }
       ]
     },
@@ -1633,93 +1633,93 @@
       "resultsParty": [
         {
           "acronym": "PPD/PSD.CDS-PP",
-          "mandates": 17,
-          "percentage": 39.59,
-          "votes": 380043
+          "mandates": "17",
+          "percentage": "39.59",
+          "votes": "380043"
         },
         {
           "acronym": "PS",
-          "mandates": 14,
-          "percentage": 32.72,
-          "votes": 314084
+          "mandates": "14",
+          "percentage": "32.72",
+          "votes": "314084"
         },
         {
           "acronym": "B.E.",
-          "mandates": 5,
-          "percentage": 11.14,
-          "votes": 106954
+          "mandates": "5",
+          "percentage": "11.14",
+          "votes": "106954"
         },
         {
           "acronym": "PCP-PEV",
-          "mandates": 3,
-          "percentage": 6.83,
-          "votes": 65560
+          "mandates": "3",
+          "percentage": "6.83",
+          "votes": "65560"
         },
         {
           "acronym": "PAN",
-          "mandates": 0,
-          "percentage": 1.59,
-          "votes": 15295
+          "mandates": "0",
+          "percentage": "1.59",
+          "votes": "15295"
         },
         {
           "acronym": "PDR",
-          "mandates": 0,
-          "percentage": 1.11,
-          "votes": 10702
+          "mandates": "0",
+          "percentage": "1.11",
+          "votes": "10702"
         },
         {
           "acronym": "PCTP/MRPP",
-          "mandates": 0,
-          "percentage": 1.07,
-          "votes": 10290
+          "mandates": "0",
+          "percentage": "1.07",
+          "votes": "10290"
         },
         {
           "acronym": "L/TDA",
-          "mandates": 0,
-          "percentage": 0.52,
-          "votes": 5014
+          "mandates": "0",
+          "percentage": "0.52",
+          "votes": "5014"
         },
         {
           "acronym": "PNR",
-          "mandates": 0,
-          "percentage": 0.49,
-          "votes": 4750
+          "mandates": "0",
+          "percentage": "0.49",
+          "votes": "4750"
         },
         {
           "acronym": "MPT",
-          "mandates": 0,
-          "percentage": 0.36,
-          "votes": 3449
+          "mandates": "0",
+          "percentage": "0.36",
+          "votes": "3449"
         },
         {
           "acronym": "NC",
-          "mandates": 0,
-          "percentage": 0.29,
-          "votes": 2773
+          "mandates": "0",
+          "percentage": "0.29",
+          "votes": "2773"
         },
         {
           "acronym": "PTP-MAS",
-          "mandates": 0,
-          "percentage": 0.29,
-          "votes": 2788
+          "mandates": "0",
+          "percentage": "0.29",
+          "votes": "2788"
         },
         {
           "acronym": "PPM",
-          "mandates": 0,
-          "percentage": 0.25,
-          "votes": 2392
+          "mandates": "0",
+          "percentage": "0.25",
+          "votes": "2392"
         },
         {
           "acronym": "PURP",
-          "mandates": 0,
-          "percentage": 0.17,
-          "votes": 1611
+          "mandates": "0",
+          "percentage": "0.17",
+          "votes": "1611"
         },
         {
           "acronym": "JPP",
-          "mandates": 0,
-          "percentage": 0.13,
-          "votes": 1239
+          "mandates": "0",
+          "percentage": "0.13",
+          "votes": "1239"
         }
       ]
     },
@@ -1730,87 +1730,87 @@
       "resultsParty": [
         {
           "acronym": "PS",
-          "mandates": 1,
-          "percentage": 42.43,
-          "votes": 25037
+          "mandates": "1",
+          "percentage": "42.43",
+          "votes": "25037"
         },
         {
           "acronym": "PPD/PSD.CDS-PP",
-          "mandates": 1,
-          "percentage": 27.63,
-          "votes": 16303
+          "mandates": "1",
+          "percentage": "27.63",
+          "votes": "16303"
         },
         {
           "acronym": "PCP-PEV",
-          "mandates": 0,
-          "percentage": 12.18,
-          "votes": 7184
+          "mandates": "0",
+          "percentage": "12.18",
+          "votes": "7184"
         },
         {
           "acronym": "B.E.",
-          "mandates": 0,
-          "percentage": 9.2,
-          "votes": 5427
+          "mandates": "0",
+          "percentage": "9.2",
+          "votes": "5427"
         },
         {
           "acronym": "PCTP/MRPP",
-          "mandates": 0,
-          "percentage": 1.7,
-          "votes": 1001
+          "mandates": "0",
+          "percentage": "1.7",
+          "votes": "1001"
         },
         {
           "acronym": "PAN",
-          "mandates": 0,
-          "percentage": 0.79,
-          "votes": 464
+          "mandates": "0",
+          "percentage": "0.79",
+          "votes": "464"
         },
         {
           "acronym": "PDR",
-          "mandates": 0,
-          "percentage": 0.55,
-          "votes": 326
+          "mandates": "0",
+          "percentage": "0.55",
+          "votes": "326"
         },
         {
           "acronym": "PNR",
-          "mandates": 0,
-          "percentage": 0.37,
-          "votes": 217
+          "mandates": "0",
+          "percentage": "0.37",
+          "votes": "217"
         },
         {
           "acronym": "PTP-MAS",
-          "mandates": 0,
-          "percentage": 0.34,
-          "votes": 198
+          "mandates": "0",
+          "percentage": "0.34",
+          "votes": "198"
         },
         {
           "acronym": "L/TDA",
-          "mandates": 0,
-          "percentage": 0.32,
-          "votes": 189
+          "mandates": "0",
+          "percentage": "0.32",
+          "votes": "189"
         },
         {
           "acronym": "PPM",
-          "mandates": 0,
-          "percentage": 0.32,
-          "votes": 187
+          "mandates": "0",
+          "percentage": "0.32",
+          "votes": "187"
         },
         {
           "acronym": "MPT",
-          "mandates": 0,
-          "percentage": 0.26,
-          "votes": 154
+          "mandates": "0",
+          "percentage": "0.26",
+          "votes": "154"
         },
         {
           "acronym": "PURP",
-          "mandates": 0,
-          "percentage": 0.25,
-          "votes": 147
+          "mandates": "0",
+          "percentage": "0.25",
+          "votes": "147"
         },
         {
           "acronym": "NC",
-          "mandates": 0,
-          "percentage": 0.24,
-          "votes": 144
+          "mandates": "0",
+          "percentage": "0.24",
+          "votes": "144"
         }
       ]
     },
@@ -1821,93 +1821,93 @@
       "resultsParty": [
         {
           "acronym": "PS",
-          "mandates": 7,
-          "percentage": 34.31,
-          "votes": 145302
+          "mandates": "7",
+          "percentage": "34.31",
+          "votes": "145302"
         },
         {
           "acronym": "PPD/PSD.CDS-PP",
-          "mandates": 5,
-          "percentage": 22.59,
-          "votes": 95659
+          "mandates": "5",
+          "percentage": "22.59",
+          "votes": "95659"
         },
         {
           "acronym": "PCP-PEV",
-          "mandates": 4,
-          "percentage": 18.8,
-          "votes": 79606
+          "mandates": "4",
+          "percentage": "18.8",
+          "votes": "79606"
         },
         {
           "acronym": "B.E.",
-          "mandates": 2,
-          "percentage": 13.05,
-          "votes": 55276
+          "mandates": "2",
+          "percentage": "13.05",
+          "votes": "55276"
         },
         {
           "acronym": "PAN",
-          "mandates": 0,
-          "percentage": 1.93,
-          "votes": 8167
+          "mandates": "0",
+          "percentage": "1.93",
+          "votes": "8167"
         },
         {
           "acronym": "PCTP/MRPP",
-          "mandates": 0,
-          "percentage": 1.59,
-          "votes": 6721
+          "mandates": "0",
+          "percentage": "1.59",
+          "votes": "6721"
         },
         {
           "acronym": "L/TDA",
-          "mandates": 0,
-          "percentage": 1.01,
-          "votes": 4277
+          "mandates": "0",
+          "percentage": "1.01",
+          "votes": "4277"
         },
         {
           "acronym": "PDR",
-          "mandates": 0,
-          "percentage": 0.97,
-          "votes": 4124
+          "mandates": "0",
+          "percentage": "0.97",
+          "votes": "4124"
         },
         {
           "acronym": "PNR",
-          "mandates": 0,
-          "percentage": 0.63,
-          "votes": 2676
+          "mandates": "0",
+          "percentage": "0.63",
+          "votes": "2676"
         },
         {
           "acronym": "PTP-MAS",
-          "mandates": 0,
-          "percentage": 0.43,
-          "votes": 1807
+          "mandates": "0",
+          "percentage": "0.43",
+          "votes": "1807"
         },
         {
           "acronym": "PURP",
-          "mandates": 0,
-          "percentage": 0.4,
-          "votes": 1700
+          "mandates": "0",
+          "percentage": "0.4",
+          "votes": "1700"
         },
         {
           "acronym": "MPT",
-          "mandates": 0,
-          "percentage": 0.37,
-          "votes": 1584
+          "mandates": "0",
+          "percentage": "0.37",
+          "votes": "1584"
         },
         {
           "acronym": "NC",
-          "mandates": 0,
-          "percentage": 0.37,
-          "votes": 1572
+          "mandates": "0",
+          "percentage": "0.37",
+          "votes": "1572"
         },
         {
           "acronym": "PPM",
-          "mandates": 0,
-          "percentage": 0.24,
-          "votes": 1024
+          "mandates": "0",
+          "percentage": "0.24",
+          "votes": "1024"
         },
         {
           "acronym": "JPP",
-          "mandates": 0,
-          "percentage": 0.13,
-          "votes": 561
+          "mandates": "0",
+          "percentage": "0.13",
+          "votes": "561"
         }
       ]
     }

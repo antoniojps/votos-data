@@ -1,0 +1,129 @@
+{
+  "date": "2015-10-04",
+  "territoryName": "Resultados Globais",
+  "territoryKeyOld": null,
+  "territoryKey": "GLOBAL-990000",
+  "abstention": "44.14",
+  "resultsParty": [
+    {
+      "acronym": "PPD/PSD.CDS-PP",
+      "votes": 1993921,
+      "percentage": 36.86,
+      "mandates": 102
+    },
+    {
+      "acronym": "PS",
+      "votes": 1747685,
+      "percentage": 32.31,
+      "mandates": 86
+    },
+    {
+      "acronym": "B.E.",
+      "votes": 550892,
+      "percentage": 10.19,
+      "mandates": 19
+    },
+    {
+      "acronym": "PCP-PEV",
+      "votes": 445980,
+      "percentage": 8.25,
+      "mandates": 17
+    },
+    {
+      "acronym": "PPD/PSD",
+      "votes": 81054,
+      "percentage": 1.5,
+      "mandates": 5
+    },
+    {
+      "acronym": "PAN",
+      "votes": 75140,
+      "percentage": 1.39,
+      "mandates": 1
+    },
+    {
+      "acronym": "PDR",
+      "votes": 61632,
+      "percentage": 1.14,
+      "mandates": 0
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "votes": 59955,
+      "percentage": 1.11,
+      "mandates": 0
+    },
+    {
+      "acronym": "L/TDA",
+      "votes": 39340,
+      "percentage": 0.73,
+      "mandates": 0
+    },
+    {
+      "acronym": "PNR",
+      "votes": 27269,
+      "percentage": 0.5,
+      "mandates": 0
+    },
+    {
+      "acronym": "MPT",
+      "votes": 22596,
+      "percentage": 0.42,
+      "mandates": 0
+    },
+    {
+      "acronym": "NC",
+      "votes": 21439,
+      "percentage": 0.4,
+      "mandates": 0
+    },
+    {
+      "acronym": "PTP-MAS",
+      "votes": 20749,
+      "percentage": 0.38,
+      "mandates": 0
+    },
+    {
+      "acronym": "PPM",
+      "votes": 14897,
+      "percentage": 0.28,
+      "mandates": 0
+    },
+    {
+      "acronym": "JPP",
+      "votes": 14285,
+      "percentage": 0.26,
+      "mandates": 0
+    },
+    {
+      "acronym": "PURP",
+      "votes": 13979,
+      "percentage": 0.26,
+      "mandates": 0
+    },
+    {
+      "acronym": "CDS-PP",
+      "votes": 7536,
+      "percentage": 0.14,
+      "mandates": 0
+    },
+    {
+      "acronym": "CDS-PP.PPM",
+      "votes": 3654,
+      "percentage": 0.07,
+      "mandates": 0
+    },
+    {
+      "acronym": "PPV/CDC",
+      "votes": 2659,
+      "percentage": 0.05,
+      "mandates": 0
+    },
+    {
+      "acronym": "PTP",
+      "votes": 1748,
+      "percentage": 0.03,
+      "mandates": 0
+    }
+  ]
+}

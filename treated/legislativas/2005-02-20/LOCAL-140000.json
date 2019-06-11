@@ -1,0 +1,68 @@
+{
+  "territoryName": "Santarém",
+  "territoryKeyOld": "140000",
+  "territoryKey": "LOCAL-140000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "PS",
+      "mandates": "6",
+      "percentage": "46.14",
+      "votes": "117193"
+    },
+    {
+      "acronym": "PPD/PSD",
+      "mandates": "3",
+      "percentage": "26.39",
+      "votes": "67021"
+    },
+    {
+      "acronym": "CDU",
+      "mandates": "1",
+      "percentage": "8.61",
+      "votes": "21879"
+    },
+    {
+      "acronym": "CDS-PP",
+      "mandates": "0",
+      "percentage": "6.93",
+      "votes": "17607"
+    },
+    {
+      "acronym": "BE",
+      "mandates": "0",
+      "percentage": "6.53",
+      "votes": "16590"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "0.92",
+      "votes": "2328"
+    },
+    {
+      "acronym": "PND",
+      "mandates": "0",
+      "percentage": "0.66",
+      "votes": "1678"
+    },
+    {
+      "acronym": "PH",
+      "mandates": "0",
+      "percentage": "0.3",
+      "votes": "770"
+    },
+    {
+      "acronym": "PNR",
+      "mandates": "0",
+      "percentage": "0.2",
+      "votes": "511"
+    },
+    {
+      "acronym": "POUS",
+      "mandates": "0",
+      "percentage": "0.15",
+      "votes": "391"
+    }
+  ]
+}

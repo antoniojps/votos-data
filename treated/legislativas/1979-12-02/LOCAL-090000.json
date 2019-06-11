@@ -1,0 +1,56 @@
+{
+  "territoryName": "Guarda",
+  "territoryKeyOld": "90000",
+  "territoryKey": "LOCAL-090000",
+  "type": "ARI",
+  "resultsParty": [
+    {
+      "acronym": "AD",
+      "mandates": "4",
+      "percentage": "60.64",
+      "votes": "81115"
+    },
+    {
+      "acronym": "PS",
+      "mandates": "1",
+      "percentage": "26.25",
+      "votes": "35112"
+    },
+    {
+      "acronym": "APU",
+      "mandates": "0",
+      "percentage": "5.38",
+      "votes": "7202"
+    },
+    {
+      "acronym": "PDC",
+      "mandates": "0",
+      "percentage": "1.21",
+      "votes": "1617"
+    },
+    {
+      "acronym": "PSR",
+      "mandates": "0",
+      "percentage": "0.99",
+      "votes": "1331"
+    },
+    {
+      "acronym": "UDP",
+      "mandates": "0",
+      "percentage": "0.93",
+      "votes": "1250"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "0.66",
+      "votes": "886"
+    },
+    {
+      "acronym": "UEDS",
+      "mandates": "0",
+      "percentage": "0.6",
+      "votes": "805"
+    }
+  ]
+}

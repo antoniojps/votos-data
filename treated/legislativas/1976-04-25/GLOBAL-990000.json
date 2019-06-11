@@ -1,0 +1,92 @@
+{
+  "territoryName": "Resultados Globais",
+  "territoryKeyOld": null,
+  "territoryKey": "GLOBAL-990000",
+  "abstention": "16,47",
+  "resultsParty": [
+    {
+      "acronym": "PS",
+      "votes": "1912921",
+      "percentage": "34,89",
+      "mandates": "107"
+    },
+    {
+      "acronym": "PPD",
+      "votes": "1335381",
+      "percentage": "24,35",
+      "mandates": "73"
+    },
+    {
+      "acronym": "CDS",
+      "votes": "876007",
+      "percentage": "15,98",
+      "mandates": "42"
+    },
+    {
+      "acronym": "PCP",
+      "votes": "788830",
+      "percentage": "14,39",
+      "mandates": "40"
+    },
+    {
+      "acronym": "UDP",
+      "votes": "91690",
+      "percentage": "1,67",
+      "mandates": "1"
+    },
+    {
+      "acronym": "FSP",
+      "votes": "42162",
+      "percentage": "0,77",
+      "mandates": "0"
+    },
+    {
+      "acronym": "MRPP",
+      "votes": "36200",
+      "percentage": "0,66",
+      "mandates": "0"
+    },
+    {
+      "acronym": "MES",
+      "votes": "31332",
+      "percentage": "0,57",
+      "mandates": "0"
+    },
+    {
+      "acronym": "PDC",
+      "votes": "29874",
+      "percentage": "0,54",
+      "mandates": "0"
+    },
+    {
+      "acronym": "PPM",
+      "votes": "28320",
+      "percentage": "0,52",
+      "mandates": "0"
+    },
+    {
+      "acronym": "LCI",
+      "votes": "16269",
+      "percentage": "0,30",
+      "mandates": "0"
+    },
+    {
+      "acronym": "PCP (M-L)",
+      "votes": "15830",
+      "percentage": "0,29",
+      "mandates": "0"
+    },
+    {
+      "acronym": "AOC",
+      "votes": "15778",
+      "percentage": "0,29",
+      "mandates": "0"
+    },
+    {
+      "acronym": "PRT",
+      "votes": "5171",
+      "percentage": "0,09",
+      "mandates": "0"
+    }
+  ]
+}

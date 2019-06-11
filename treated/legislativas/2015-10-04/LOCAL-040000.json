@@ -1,0 +1,91 @@
+{
+  "territoryName": "Bragança",
+  "territoryKeyOld": "40000",
+  "territoryKey": "LOCAL-040000",
+  "resultsParty": [
+    {
+      "acronym": "PPD/PSD.CDS-PP",
+      "mandates": "2",
+      "percentage": "49.41",
+      "votes": "34408"
+    },
+    {
+      "acronym": "PS",
+      "mandates": "1",
+      "percentage": "34.06",
+      "votes": "23718"
+    },
+    {
+      "acronym": "B.E.",
+      "mandates": "0",
+      "percentage": "5.54",
+      "votes": "3858"
+    },
+    {
+      "acronym": "PCP-PEV",
+      "mandates": "0",
+      "percentage": "3.07",
+      "votes": "2136"
+    },
+    {
+      "acronym": "PDR",
+      "mandates": "0",
+      "percentage": "0.78",
+      "votes": "546"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "0.77",
+      "votes": "537"
+    },
+    {
+      "acronym": "PAN",
+      "mandates": "0",
+      "percentage": "0.55",
+      "votes": "386"
+    },
+    {
+      "acronym": "PTP-MAS",
+      "mandates": "0",
+      "percentage": "0.41",
+      "votes": "284"
+    },
+    {
+      "acronym": "L/TDA",
+      "mandates": "0",
+      "percentage": "0.36",
+      "votes": "251"
+    },
+    {
+      "acronym": "PPM",
+      "mandates": "0",
+      "percentage": "0.33",
+      "votes": "229"
+    },
+    {
+      "acronym": "MPT",
+      "mandates": "0",
+      "percentage": "0.32",
+      "votes": "223"
+    },
+    {
+      "acronym": "PNR",
+      "mandates": "0",
+      "percentage": "0.27",
+      "votes": "190"
+    },
+    {
+      "acronym": "NC",
+      "mandates": "0",
+      "percentage": "0.23",
+      "votes": "160"
+    },
+    {
+      "acronym": "JPP",
+      "mandates": "0",
+      "percentage": "0.17",
+      "votes": "121"
+    }
+  ]
+}

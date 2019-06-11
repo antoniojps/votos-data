@@ -1,0 +1,62 @@
+{
+  "territoryName": "Guarda",
+  "territoryKeyOld": "90000",
+  "territoryKey": "LOCAL-090000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "PS",
+      "mandates": "2",
+      "percentage": "46.8",
+      "votes": "47290"
+    },
+    {
+      "acronym": "PPD/PSD",
+      "mandates": "2",
+      "percentage": "34.73",
+      "votes": "35092"
+    },
+    {
+      "acronym": "CDS-PP",
+      "mandates": "0",
+      "percentage": "6.96",
+      "votes": "7035"
+    },
+    {
+      "acronym": "BE",
+      "mandates": "0",
+      "percentage": "3.42",
+      "votes": "3452"
+    },
+    {
+      "acronym": "CDU",
+      "mandates": "0",
+      "percentage": "2.94",
+      "votes": "2969"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "0.67",
+      "votes": "673"
+    },
+    {
+      "acronym": "PND",
+      "mandates": "0",
+      "percentage": "0.65",
+      "votes": "661"
+    },
+    {
+      "acronym": "PH",
+      "mandates": "0",
+      "percentage": "0.37",
+      "votes": "372"
+    },
+    {
+      "acronym": "PNR",
+      "mandates": "0",
+      "percentage": "0.33",
+      "votes": "337"
+    }
+  ]
+}

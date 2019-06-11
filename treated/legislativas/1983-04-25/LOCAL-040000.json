@@ -1,0 +1,80 @@
+{
+  "territoryName": "Bragança",
+  "territoryKeyOld": "40000",
+  "territoryKey": "LOCAL-040000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "PPD/PSD",
+      "mandates": "2",
+      "percentage": "35.78",
+      "votes": "33196"
+    },
+    {
+      "acronym": "PS",
+      "mandates": "1",
+      "percentage": "30.38",
+      "votes": "28185"
+    },
+    {
+      "acronym": "CDS",
+      "mandates": "1",
+      "percentage": "20.89",
+      "votes": "19382"
+    },
+    {
+      "acronym": "APU",
+      "mandates": "0",
+      "percentage": "4.76",
+      "votes": "4415"
+    },
+    {
+      "acronym": "PDC",
+      "mandates": "0",
+      "percentage": "1",
+      "votes": "932"
+    },
+    {
+      "acronym": "PPM",
+      "mandates": "0",
+      "percentage": "0.79",
+      "votes": "733"
+    },
+    {
+      "acronym": "PSR",
+      "mandates": "0",
+      "percentage": "0.52",
+      "votes": "484"
+    },
+    {
+      "acronym": "UDP",
+      "mandates": "0",
+      "percentage": "0.49",
+      "votes": "457"
+    },
+    {
+      "acronym": "LST",
+      "mandates": "0",
+      "percentage": "0.46",
+      "votes": "425"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "0.41",
+      "votes": "381"
+    },
+    {
+      "acronym": "POUS",
+      "mandates": "0",
+      "percentage": "0.24",
+      "votes": "227"
+    },
+    {
+      "acronym": "OCMLP",
+      "mandates": "0",
+      "percentage": "0.19",
+      "votes": "175"
+    }
+  ]
+}

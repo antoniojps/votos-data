@@ -1,0 +1,68 @@
+{
+  "territoryName": "Setúbal",
+  "territoryKeyOld": "150000",
+  "territoryKey": "LOCAL-150000",
+  "type": "ARI",
+  "resultsParty": [
+    {
+      "acronym": "APU",
+      "mandates": "9",
+      "percentage": "46.98",
+      "votes": "189593"
+    },
+    {
+      "acronym": "AD",
+      "mandates": "4",
+      "percentage": "22.3",
+      "votes": "89978"
+    },
+    {
+      "acronym": "PS",
+      "mandates": "4",
+      "percentage": "21.36",
+      "votes": "86192"
+    },
+    {
+      "acronym": "UDP",
+      "mandates": "0",
+      "percentage": "3.96",
+      "votes": "15995"
+    },
+    {
+      "acronym": "UEDS",
+      "mandates": "0",
+      "percentage": "0.79",
+      "votes": "3196"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "0.78",
+      "votes": "3140"
+    },
+    {
+      "acronym": "PSR",
+      "mandates": "0",
+      "percentage": "0.6",
+      "votes": "2437"
+    },
+    {
+      "acronym": "PDC",
+      "mandates": "0",
+      "percentage": "0.54",
+      "votes": "2178"
+    },
+    {
+      "acronym": "POUS",
+      "mandates": "0",
+      "percentage": "0.41",
+      "votes": "1669"
+    },
+    {
+      "acronym": "OCMLP",
+      "mandates": "0",
+      "percentage": "0.24",
+      "votes": "967"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "territoryName": "Braga",
+  "territoryKeyOld": "30000",
+  "territoryKey": "LOCAL-030000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "PPD/PSD",
+      "mandates": "10",
+      "percentage": "53.44",
+      "votes": "215380"
+    },
+    {
+      "acronym": "PS",
+      "mandates": "5",
+      "percentage": "25.85",
+      "votes": "104172"
+    },
+    {
+      "acronym": "CDU",
+      "mandates": "1",
+      "percentage": "6.12",
+      "votes": "24648"
+    },
+    {
+      "acronym": "CDS",
+      "mandates": "1",
+      "percentage": "5.92",
+      "votes": "23854"
+    },
+    {
+      "acronym": "PRD",
+      "mandates": "0",
+      "percentage": "3.33",
+      "votes": "13412"
+    },
+    {
+      "acronym": "UDP",
+      "mandates": "0",
+      "percentage": "0.54",
+      "votes": "2163"
+    },
+    {
+      "acronym": "PDC",
+      "mandates": "0",
+      "percentage": "0.51",
+      "votes": "2051"
+    },
+    {
+      "acronym": "PSR",
+      "mandates": "0",
+      "percentage": "0.49",
+      "votes": "1977"
+    },
+    {
+      "acronym": "PPM",
+      "mandates": "0",
+      "percentage": "0.42",
+      "votes": "1707"
+    },
+    {
+      "acronym": "PC(R)",
+      "mandates": "0",
+      "percentage": "0.34",
+      "votes": "1369"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "0.34",
+      "votes": "1360"
+    },
+    {
+      "acronym": "MDP/CDE",
+      "mandates": "0",
+      "percentage": "0.29",
+      "votes": "1171"
+    },
+    {
+      "acronym": "POUS",
+      "mandates": "0",
+      "percentage": "0.26",
+      "votes": "1060"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "territoryName": "Madeira",
+  "territoryKeyOld": "220000",
+  "territoryKey": "LOCAL-300000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "PPD/PSD",
+      "mandates": "4",
+      "percentage": "56.76",
+      "votes": "68928"
+    },
+    {
+      "acronym": "PS",
+      "mandates": "1",
+      "percentage": "13.16",
+      "votes": "15976"
+    },
+    {
+      "acronym": "PRD",
+      "mandates": "0",
+      "percentage": "9.65",
+      "votes": "11723"
+    },
+    {
+      "acronym": "CDS",
+      "mandates": "0",
+      "percentage": "7.79",
+      "votes": "9463"
+    },
+    {
+      "acronym": "UDP",
+      "mandates": "0",
+      "percentage": "5.03",
+      "votes": "6113"
+    },
+    {
+      "acronym": "APU",
+      "mandates": "0",
+      "percentage": "3.24",
+      "votes": "3939"
+    },
+    {
+      "acronym": "PSR",
+      "mandates": "0",
+      "percentage": "0.63",
+      "votes": "769"
+    },
+    {
+      "acronym": "PDC",
+      "mandates": "0",
+      "percentage": "0.58",
+      "votes": "704"
+    },
+    {
+      "acronym": "POUS",
+      "mandates": "0",
+      "percentage": "0.43",
+      "votes": "527"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "0.39",
+      "votes": "475"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "territoryName": "Faro",
+  "territoryKeyOld": "80000",
+  "territoryKey": "LOCAL-080000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "PS",
+      "mandates": "3",
+      "percentage": "31.86",
+      "votes": "64205"
+    },
+    {
+      "acronym": "PPD/PSD",
+      "mandates": "3",
+      "percentage": "26.16",
+      "votes": "52728"
+    },
+    {
+      "acronym": "BE",
+      "mandates": "1",
+      "percentage": "15.33",
+      "votes": "30888"
+    },
+    {
+      "acronym": "CDS-PP",
+      "mandates": "1",
+      "percentage": "10.72",
+      "votes": "21611"
+    },
+    {
+      "acronym": "CDU",
+      "mandates": "0",
+      "percentage": "7.78",
+      "votes": "15672"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "1.39",
+      "votes": "2802"
+    },
+    {
+      "acronym": "PPM",
+      "mandates": "0",
+      "percentage": "0.47",
+      "votes": "949"
+    },
+    {
+      "acronym": "MEP",
+      "mandates": "0",
+      "percentage": "0.47",
+      "votes": "943"
+    },
+    {
+      "acronym": "PND",
+      "mandates": "0",
+      "percentage": "0.43",
+      "votes": "874"
+    },
+    {
+      "acronym": "PNR",
+      "mandates": "0",
+      "percentage": "0.43",
+      "votes": "872"
+    },
+    {
+      "acronym": "PPV",
+      "mandates": "0",
+      "percentage": "0.42",
+      "votes": "841"
+    },
+    {
+      "acronym": "MPT-PH",
+      "mandates": "0",
+      "percentage": "0.38",
+      "votes": "772"
+    },
+    {
+      "acronym": "MMS",
+      "mandates": "0",
+      "percentage": "0.29",
+      "votes": "584"
+    },
+    {
+      "acronym": "POUS",
+      "mandates": "0",
+      "percentage": "0.21",
+      "votes": "419"
+    }
+  ]
+}

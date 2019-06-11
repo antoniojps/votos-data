@@ -1,0 +1,74 @@
+{
+  "territoryName": "Madeira",
+  "territoryKeyOld": "220000",
+  "territoryKey": "LOCAL-300000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "PPD/PSD",
+      "mandates": "4",
+      "percentage": "56.24",
+      "votes": "66611"
+    },
+    {
+      "acronym": "PS",
+      "mandates": "1",
+      "percentage": "24.39",
+      "votes": "28888"
+    },
+    {
+      "acronym": "CDS",
+      "mandates": "0",
+      "percentage": "8.22",
+      "votes": "9734"
+    },
+    {
+      "acronym": "APU",
+      "mandates": "0",
+      "percentage": "2.79",
+      "votes": "3300"
+    },
+    {
+      "acronym": "UDP",
+      "mandates": "0",
+      "percentage": "2.71",
+      "votes": "3212"
+    },
+    {
+      "acronym": "PDA",
+      "mandates": "0",
+      "percentage": "0.86",
+      "votes": "1020"
+    },
+    {
+      "acronym": "PDC",
+      "mandates": "0",
+      "percentage": "0.59",
+      "votes": "695"
+    },
+    {
+      "acronym": "PSR",
+      "mandates": "0",
+      "percentage": "0.41",
+      "votes": "485"
+    },
+    {
+      "acronym": "POUS",
+      "mandates": "0",
+      "percentage": "0.39",
+      "votes": "457"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "0.3",
+      "votes": "358"
+    },
+    {
+      "acronym": "LST",
+      "mandates": "0",
+      "percentage": "0.29",
+      "votes": "339"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "territoryName": "Lisboa",
+  "territoryKeyOld": "110000",
+  "territoryKey": "LOCAL-110000",
+  "type": "ARI",
+  "resultsParty": [
+    {
+      "acronym": "AD",
+      "mandates": "24",
+      "percentage": "39.87",
+      "votes": "523583"
+    },
+    {
+      "acronym": "APU",
+      "mandates": "16",
+      "percentage": "26.01",
+      "votes": "341658"
+    },
+    {
+      "acronym": "PS",
+      "mandates": "15",
+      "percentage": "25.81",
+      "votes": "339032"
+    },
+    {
+      "acronym": "UDP",
+      "mandates": "1",
+      "percentage": "2.77",
+      "votes": "36388"
+    },
+    {
+      "acronym": "PDC",
+      "mandates": "0",
+      "percentage": "0.92",
+      "votes": "12027"
+    },
+    {
+      "acronym": "UEDS",
+      "mandates": "0",
+      "percentage": "0.9",
+      "votes": "11809"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "0.89",
+      "votes": "11716"
+    },
+    {
+      "acronym": "PSR",
+      "mandates": "0",
+      "percentage": "0.39",
+      "votes": "5144"
+    },
+    {
+      "acronym": "POUS",
+      "mandates": "0",
+      "percentage": "0.37",
+      "votes": "4810"
+    }
+  ]
+}

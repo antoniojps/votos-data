@@ -1,0 +1,97 @@
+{
+  "territoryName": "Lisboa",
+  "territoryKeyOld": "110000",
+  "territoryKey": "LOCAL-110000",
+  "resultsParty": [
+    {
+      "acronym": "PPD/PSD.CDS-PP",
+      "mandates": "18",
+      "percentage": "34.68",
+      "votes": "399520"
+    },
+    {
+      "acronym": "PS",
+      "mandates": "18",
+      "percentage": "33.54",
+      "votes": "386354"
+    },
+    {
+      "acronym": "B.E.",
+      "mandates": "5",
+      "percentage": "10.89",
+      "votes": "125438"
+    },
+    {
+      "acronym": "PCP-PEV",
+      "mandates": "5",
+      "percentage": "9.84",
+      "votes": "113406"
+    },
+    {
+      "acronym": "PAN",
+      "mandates": "1",
+      "percentage": "1.96",
+      "votes": "22628"
+    },
+    {
+      "acronym": "L/TDA",
+      "mandates": "0",
+      "percentage": "1.27",
+      "votes": "14683"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "0.96",
+      "votes": "11083"
+    },
+    {
+      "acronym": "PDR",
+      "mandates": "0",
+      "percentage": "0.89",
+      "votes": "10249"
+    },
+    {
+      "acronym": "PNR",
+      "mandates": "0",
+      "percentage": "0.62",
+      "votes": "7188"
+    },
+    {
+      "acronym": "MPT",
+      "mandates": "0",
+      "percentage": "0.44",
+      "votes": "5078"
+    },
+    {
+      "acronym": "PTP-MAS",
+      "mandates": "0",
+      "percentage": "0.44",
+      "votes": "5026"
+    },
+    {
+      "acronym": "PURP",
+      "mandates": "0",
+      "percentage": "0.35",
+      "votes": "3999"
+    },
+    {
+      "acronym": "NC",
+      "mandates": "0",
+      "percentage": "0.32",
+      "votes": "3737"
+    },
+    {
+      "acronym": "PPM",
+      "mandates": "0",
+      "percentage": "0.24",
+      "votes": "2820"
+    },
+    {
+      "acronym": "JPP",
+      "mandates": "0",
+      "percentage": "0.13",
+      "votes": "1553"
+    }
+  ]
+}

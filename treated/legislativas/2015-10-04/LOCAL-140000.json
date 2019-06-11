@@ -1,0 +1,97 @@
+{
+  "territoryName": "Santarém",
+  "territoryKeyOld": "140000",
+  "territoryKey": "LOCAL-140000",
+  "resultsParty": [
+    {
+      "acronym": "PPD/PSD.CDS-PP",
+      "mandates": "4",
+      "percentage": "35.82",
+      "votes": "81544"
+    },
+    {
+      "acronym": "PS",
+      "mandates": "3",
+      "percentage": "32.91",
+      "votes": "74905"
+    },
+    {
+      "acronym": "B.E.",
+      "mandates": "1",
+      "percentage": "10.76",
+      "votes": "24489"
+    },
+    {
+      "acronym": "PCP-PEV",
+      "mandates": "1",
+      "percentage": "9.64",
+      "votes": "21941"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "1.34",
+      "votes": "3060"
+    },
+    {
+      "acronym": "PAN",
+      "mandates": "0",
+      "percentage": "1.19",
+      "votes": "2715"
+    },
+    {
+      "acronym": "PDR",
+      "mandates": "0",
+      "percentage": "1.04",
+      "votes": "2377"
+    },
+    {
+      "acronym": "L/TDA",
+      "mandates": "0",
+      "percentage": "0.54",
+      "votes": "1236"
+    },
+    {
+      "acronym": "PNR",
+      "mandates": "0",
+      "percentage": "0.53",
+      "votes": "1206"
+    },
+    {
+      "acronym": "MPT",
+      "mandates": "0",
+      "percentage": "0.46",
+      "votes": "1038"
+    },
+    {
+      "acronym": "NC",
+      "mandates": "0",
+      "percentage": "0.41",
+      "votes": "932"
+    },
+    {
+      "acronym": "PTP-MAS",
+      "mandates": "0",
+      "percentage": "0.41",
+      "votes": "928"
+    },
+    {
+      "acronym": "PPM",
+      "mandates": "0",
+      "percentage": "0.36",
+      "votes": "822"
+    },
+    {
+      "acronym": "PURP",
+      "mandates": "0",
+      "percentage": "0.36",
+      "votes": "827"
+    },
+    {
+      "acronym": "PPV/CDC",
+      "mandates": "0",
+      "percentage": "0.22",
+      "votes": "491"
+    }
+  ]
+}

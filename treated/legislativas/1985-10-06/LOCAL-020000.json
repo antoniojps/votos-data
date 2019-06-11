@@ -1,0 +1,74 @@
+{
+  "territoryName": "Beja",
+  "territoryKeyOld": "20000",
+  "territoryKey": "LOCAL-020000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "APU",
+      "mandates": "3",
+      "percentage": "44.87",
+      "votes": "50814"
+    },
+    {
+      "acronym": "PS",
+      "mandates": "1",
+      "percentage": "20.14",
+      "votes": "22805"
+    },
+    {
+      "acronym": "PPD/PSD",
+      "mandates": "1",
+      "percentage": "13.72",
+      "votes": "15532"
+    },
+    {
+      "acronym": "PRD",
+      "mandates": "0",
+      "percentage": "11.59",
+      "votes": "13127"
+    },
+    {
+      "acronym": "CDS",
+      "mandates": "0",
+      "percentage": "2.18",
+      "votes": "2471"
+    },
+    {
+      "acronym": "UDP",
+      "mandates": "0",
+      "percentage": "1.27",
+      "votes": "1438"
+    },
+    {
+      "acronym": "PSR",
+      "mandates": "0",
+      "percentage": "1.19",
+      "votes": "1351"
+    },
+    {
+      "acronym": "PDC",
+      "mandates": "0",
+      "percentage": "0.57",
+      "votes": "648"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "0.55",
+      "votes": "623"
+    },
+    {
+      "acronym": "PC(R)",
+      "mandates": "0",
+      "percentage": "0.52",
+      "votes": "592"
+    },
+    {
+      "acronym": "POUS",
+      "mandates": "0",
+      "percentage": "0.4",
+      "votes": "455"
+    }
+  ]
+}

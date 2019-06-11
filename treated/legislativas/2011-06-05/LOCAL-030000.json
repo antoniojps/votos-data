@@ -1,0 +1,110 @@
+{
+  "territoryName": "Braga",
+  "territoryKeyOld": "30000",
+  "territoryKey": "LOCAL-030000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "PPD/PSD",
+      "mandates": "9",
+      "percentage": "40.08",
+      "votes": "194550"
+    },
+    {
+      "acronym": "PS",
+      "mandates": "7",
+      "percentage": "32.86",
+      "votes": "159476"
+    },
+    {
+      "acronym": "CDS-PP",
+      "mandates": "2",
+      "percentage": "10.39",
+      "votes": "50421"
+    },
+    {
+      "acronym": "CDU",
+      "mandates": "1",
+      "percentage": "4.89",
+      "votes": "23731"
+    },
+    {
+      "acronym": "BE",
+      "mandates": "0",
+      "percentage": "4.22",
+      "votes": "20488"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "0.88",
+      "votes": "4264"
+    },
+    {
+      "acronym": "PAN",
+      "mandates": "0",
+      "percentage": "0.56",
+      "votes": "2710"
+    },
+    {
+      "acronym": "PND",
+      "mandates": "0",
+      "percentage": "0.48",
+      "votes": "2328"
+    },
+    {
+      "acronym": "MPT",
+      "mandates": "0",
+      "percentage": "0.4",
+      "votes": "1959"
+    },
+    {
+      "acronym": "MEP",
+      "mandates": "0",
+      "percentage": "0.34",
+      "votes": "1630"
+    },
+    {
+      "acronym": "PTP",
+      "mandates": "0",
+      "percentage": "0.3",
+      "votes": "1465"
+    },
+    {
+      "acronym": "PPM",
+      "mandates": "0",
+      "percentage": "0.23",
+      "votes": "1114"
+    },
+    {
+      "acronym": "PNR",
+      "mandates": "0",
+      "percentage": "0.23",
+      "votes": "1094"
+    },
+    {
+      "acronym": "PPV",
+      "mandates": "0",
+      "percentage": "0.16",
+      "votes": "783"
+    },
+    {
+      "acronym": "POUS",
+      "mandates": "0",
+      "percentage": "0.14",
+      "votes": "693"
+    },
+    {
+      "acronym": "PDA",
+      "mandates": "0",
+      "percentage": "0.12",
+      "votes": "593"
+    },
+    {
+      "acronym": "PH",
+      "mandates": "0",
+      "percentage": "0",
+      "votes": "0"
+    }
+  ]
+}

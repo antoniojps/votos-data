@@ -1,0 +1,92 @@
+{
+  "territoryName": "Porto",
+  "territoryKeyOld": "130000",
+  "territoryKey": "LOCAL-130000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "PS",
+      "mandates": "18",
+      "percentage": "40.74",
+      "votes": "336960"
+    },
+    {
+      "acronym": "PPD",
+      "mandates": "11",
+      "percentage": "26.96",
+      "votes": "222974"
+    },
+    {
+      "acronym": "CDS",
+      "mandates": "6",
+      "percentage": "15.68",
+      "votes": "129732"
+    },
+    {
+      "acronym": "PCP",
+      "mandates": "3",
+      "percentage": "8.36",
+      "votes": "69176"
+    },
+    {
+      "acronym": "UDP",
+      "mandates": "0",
+      "percentage": "1.52",
+      "votes": "12590"
+    },
+    {
+      "acronym": "FSP",
+      "mandates": "0",
+      "percentage": "0.46",
+      "votes": "3817"
+    },
+    {
+      "acronym": "PPM",
+      "mandates": "0",
+      "percentage": "0.37",
+      "votes": "3047"
+    },
+    {
+      "acronym": "PDC",
+      "mandates": "0",
+      "percentage": "0.36",
+      "votes": "3014"
+    },
+    {
+      "acronym": "LCI",
+      "mandates": "0",
+      "percentage": "0.29",
+      "votes": "2376"
+    },
+    {
+      "acronym": "MES",
+      "mandates": "0",
+      "percentage": "0.27",
+      "votes": "2256"
+    },
+    {
+      "acronym": "MRPP",
+      "mandates": "0",
+      "percentage": "0.24",
+      "votes": "1963"
+    },
+    {
+      "acronym": "PRT",
+      "mandates": "0",
+      "percentage": "0.17",
+      "votes": "1442"
+    },
+    {
+      "acronym": "AOC",
+      "mandates": "0",
+      "percentage": "0.14",
+      "votes": "1167"
+    },
+    {
+      "acronym": "PCP (M-L)",
+      "mandates": "0",
+      "percentage": "0.14",
+      "votes": "1154"
+    }
+  ]
+}

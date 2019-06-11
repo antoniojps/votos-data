@@ -1,0 +1,74 @@
+{
+  "territoryName": "Resultados Globais",
+  "territoryKeyOld": null,
+  "territoryKey": "GLOBAL-990000",
+  "abstention": "35,74",
+  "resultsParty": [
+    {
+      "acronym": "PS",
+      "votes": "2588312",
+      "percentage": "45,03",
+      "mandates": "121"
+    },
+    {
+      "acronym": "PPD/PSD",
+      "votes": "1653425",
+      "percentage": "28,77",
+      "mandates": "75"
+    },
+    {
+      "acronym": "PCP-PEV",
+      "votes": "433369",
+      "percentage": "7,54",
+      "mandates": "14"
+    },
+    {
+      "acronym": "CDS-PP",
+      "votes": "416415",
+      "percentage": "7,24",
+      "mandates": "12"
+    },
+    {
+      "acronym": "B.E.",
+      "votes": "364971",
+      "percentage": "6,35",
+      "mandates": "8"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "votes": "48186",
+      "percentage": "0,84",
+      "mandates": "0"
+    },
+    {
+      "acronym": "PND",
+      "votes": "40358",
+      "percentage": "0,70",
+      "mandates": "0"
+    },
+    {
+      "acronym": "PH",
+      "votes": "17056",
+      "percentage": "0,30",
+      "mandates": "0"
+    },
+    {
+      "acronym": "PNR",
+      "votes": "9374",
+      "percentage": "0,16",
+      "mandates": "0"
+    },
+    {
+      "acronym": "POUS",
+      "votes": "5535",
+      "percentage": "0,10",
+      "mandates": "0"
+    },
+    {
+      "acronym": "PDA",
+      "votes": "1618",
+      "percentage": "0,03",
+      "mandates": "0"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "territoryName": "Açores",
+  "territoryKeyOld": "210001",
+  "territoryKey": "LOCAL-400000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "PPD/PSD",
+      "mandates": "3",
+      "percentage": "47.77",
+      "votes": "50757"
+    },
+    {
+      "acronym": "PS",
+      "mandates": "2",
+      "percentage": "37.56",
+      "votes": "39909"
+    },
+    {
+      "acronym": "CDS-PP",
+      "mandates": "0",
+      "percentage": "9.38",
+      "votes": "9971"
+    },
+    {
+      "acronym": "CDU",
+      "mandates": "0",
+      "percentage": "1.75",
+      "votes": "1855"
+    },
+    {
+      "acronym": "PDA",
+      "mandates": "0",
+      "percentage": "0.87",
+      "votes": "921"
+    },
+    {
+      "acronym": "UDP",
+      "mandates": "0",
+      "percentage": "0.43",
+      "votes": "457"
+    },
+    {
+      "acronym": "PSR",
+      "mandates": "0",
+      "percentage": "0.37",
+      "votes": "393"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "0.36",
+      "votes": "387"
+    }
+  ]
+}

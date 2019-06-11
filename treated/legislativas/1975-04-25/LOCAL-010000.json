@@ -1,0 +1,56 @@
+{
+  "territoryName": "Aveiro",
+  "territoryKeyOld": "10000",
+  "territoryKey": "LOCAL-010000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "PPD",
+      "mandates": "7",
+      "percentage": "42.86",
+      "votes": "141872"
+    },
+    {
+      "acronym": "PS",
+      "mandates": "5",
+      "percentage": "31.75",
+      "votes": "105098"
+    },
+    {
+      "acronym": "CDS",
+      "mandates": "2",
+      "percentage": "11.06",
+      "votes": "36602"
+    },
+    {
+      "acronym": "MDP",
+      "mandates": "0",
+      "percentage": "3.88",
+      "votes": "12849"
+    },
+    {
+      "acronym": "PCP",
+      "mandates": "0",
+      "percentage": "3.17",
+      "votes": "10479"
+    },
+    {
+      "acronym": "MES",
+      "mandates": "0",
+      "percentage": "0.99",
+      "votes": "3269"
+    },
+    {
+      "acronym": "FEC",
+      "mandates": "0",
+      "percentage": "0.61",
+      "votes": "2003"
+    },
+    {
+      "acronym": "PUP",
+      "mandates": "0",
+      "percentage": "0.51",
+      "votes": "1694"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "territoryName": "Resultados Globais",
+  "territoryKeyOld": null,
+  "territoryKey": "GLOBAL-990000",
+  "abstention": "33,70",
+  "resultsParty": [
+    {
+      "acronym": "PS",
+      "votes": "2583755",
+      "percentage": "43,76",
+      "mandates": "112"
+    },
+    {
+      "acronym": "PPD/PSD",
+      "votes": "2014589",
+      "percentage": "34,12",
+      "mandates": "88"
+    },
+    {
+      "acronym": "CDS-PP",
+      "votes": "534470",
+      "percentage": "9,05",
+      "mandates": "15"
+    },
+    {
+      "acronym": "PCP-PEV",
+      "votes": "506157",
+      "percentage": "8,57",
+      "mandates": "15"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "votes": "41137",
+      "percentage": "0,70",
+      "mandates": "0"
+    },
+    {
+      "acronym": "PSR",
+      "votes": "37638",
+      "percentage": "0,64",
+      "mandates": "0"
+    },
+    {
+      "acronym": "UDP",
+      "votes": "33876",
+      "percentage": "0,57",
+      "mandates": "0"
+    },
+    {
+      "acronym": "PSN",
+      "votes": "12613",
+      "percentage": "0,21",
+      "mandates": "0"
+    },
+    {
+      "acronym": "PG",
+      "votes": "8279",
+      "percentage": "0,14",
+      "mandates": "0"
+    },
+    {
+      "acronym": "MPT",
+      "votes": "8235",
+      "percentage": "0,14",
+      "mandates": "0"
+    },
+    {
+      "acronym": "PPM-MPT ",
+      "votes": "5932",
+      "percentage": "0,10",
+      "mandates": "0"
+    },
+    {
+      "acronym": "MUT",
+      "votes": "2544",
+      "percentage": "0,04",
+      "mandates": "0"
+    },
+    {
+      "acronym": "PDA",
+      "votes": "2536",
+      "percentage": "0,04",
+      "mandates": "0"
+    }
+  ]
+}

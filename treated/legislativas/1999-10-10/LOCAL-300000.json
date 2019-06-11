@@ -1,0 +1,56 @@
+{
+  "territoryName": "Madeira",
+  "territoryKeyOld": "220000",
+  "territoryKey": "LOCAL-300000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "PPD/PSD",
+      "mandates": "3",
+      "percentage": "46.2",
+      "votes": "56205"
+    },
+    {
+      "acronym": "PS",
+      "mandates": "2",
+      "percentage": "35.05",
+      "votes": "42637"
+    },
+    {
+      "acronym": "CDS-PP",
+      "mandates": "0",
+      "percentage": "10.86",
+      "votes": "13209"
+    },
+    {
+      "acronym": "CDU",
+      "mandates": "0",
+      "percentage": "2.82",
+      "votes": "3428"
+    },
+    {
+      "acronym": "BE",
+      "mandates": "0",
+      "percentage": "1.22",
+      "votes": "1481"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "0.54",
+      "votes": "651"
+    },
+    {
+      "acronym": "PSN",
+      "mandates": "0",
+      "percentage": "0.47",
+      "votes": "571"
+    },
+    {
+      "acronym": "MPT",
+      "mandates": "0",
+      "percentage": "0.4",
+      "votes": "487"
+    }
+  ]
+}

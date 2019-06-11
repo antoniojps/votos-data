@@ -1,0 +1,74 @@
+{
+  "territoryName": "Resultados Globais",
+  "territoryKeyOld": null,
+  "territoryKey": "GLOBAL-990000",
+  "abstention": "25,84",
+  "resultsParty": [
+    {
+      "acronym": "PPD/PSD",
+      "votes": "1732288",
+      "percentage": "29,87",
+      "mandates": "88"
+    },
+    {
+      "acronym": "PS",
+      "votes": "1204321",
+      "percentage": "20,77",
+      "mandates": "57"
+    },
+    {
+      "acronym": "PRD",
+      "votes": "1038893",
+      "percentage": "17,92",
+      "mandates": "45"
+    },
+    {
+      "acronym": "APU",
+      "votes": "898281",
+      "percentage": "15,49",
+      "mandates": "38"
+    },
+    {
+      "acronym": "CDS",
+      "votes": "577580",
+      "percentage": "9,96",
+      "mandates": "22"
+    },
+    {
+      "acronym": "UDP",
+      "votes": "73401",
+      "percentage": "1,27",
+      "mandates": "0"
+    },
+    {
+      "acronym": "PDC",
+      "votes": "41831",
+      "percentage": "0,72",
+      "mandates": "0"
+    },
+    {
+      "acronym": "PSR",
+      "votes": "35238",
+      "percentage": "0,61",
+      "mandates": "0"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "votes": "19943",
+      "percentage": "0,34",
+      "mandates": "0"
+    },
+    {
+      "acronym": "POUS",
+      "votes": "19085",
+      "percentage": "0,33",
+      "mandates": "0"
+    },
+    {
+      "acronym": "PC(R)",
+      "votes": "12749",
+      "percentage": "0,22",
+      "mandates": "0"
+    }
+  ]
+}

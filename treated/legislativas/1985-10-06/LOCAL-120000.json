@@ -1,0 +1,74 @@
+{
+  "territoryName": "Portalegre",
+  "territoryKeyOld": "120000",
+  "territoryKey": "LOCAL-120000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "APU",
+      "mandates": "1",
+      "percentage": "25.15",
+      "votes": "23539"
+    },
+    {
+      "acronym": "PS",
+      "mandates": "1",
+      "percentage": "23.67",
+      "votes": "22155"
+    },
+    {
+      "acronym": "PPD/PSD",
+      "mandates": "1",
+      "percentage": "20.88",
+      "votes": "19546"
+    },
+    {
+      "acronym": "PRD",
+      "mandates": "0",
+      "percentage": "18.77",
+      "votes": "17570"
+    },
+    {
+      "acronym": "CDS",
+      "mandates": "0",
+      "percentage": "4.92",
+      "votes": "4603"
+    },
+    {
+      "acronym": "UDP",
+      "mandates": "0",
+      "percentage": "0.99",
+      "votes": "924"
+    },
+    {
+      "acronym": "PSR",
+      "mandates": "0",
+      "percentage": "0.89",
+      "votes": "834"
+    },
+    {
+      "acronym": "PDC",
+      "mandates": "0",
+      "percentage": "0.57",
+      "votes": "531"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "0.46",
+      "votes": "426"
+    },
+    {
+      "acronym": "PC(R)",
+      "mandates": "0",
+      "percentage": "0.41",
+      "votes": "387"
+    },
+    {
+      "acronym": "POUS",
+      "mandates": "0",
+      "percentage": "0.33",
+      "votes": "308"
+    }
+  ]
+}

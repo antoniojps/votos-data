@@ -1,0 +1,68 @@
+{
+  "territoryName": "Faro",
+  "territoryKeyOld": "80000",
+  "territoryKey": "LOCAL-080000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "PS",
+      "mandates": "6",
+      "percentage": "45.42",
+      "votes": "93263"
+    },
+    {
+      "acronym": "PPD",
+      "mandates": "1",
+      "percentage": "13.93",
+      "votes": "28595"
+    },
+    {
+      "acronym": "PCP",
+      "mandates": "1",
+      "percentage": "12.31",
+      "votes": "25282"
+    },
+    {
+      "acronym": "MDP",
+      "mandates": "1",
+      "percentage": "9.49",
+      "votes": "19496"
+    },
+    {
+      "acronym": "CDS",
+      "mandates": "0",
+      "percentage": "3.36",
+      "votes": "6889"
+    },
+    {
+      "acronym": "FSP",
+      "mandates": "0",
+      "percentage": "1.76",
+      "votes": "3607"
+    },
+    {
+      "acronym": "MES",
+      "mandates": "0",
+      "percentage": "1.59",
+      "votes": "3275"
+    },
+    {
+      "acronym": "UDP",
+      "mandates": "0",
+      "percentage": "1.12",
+      "votes": "2303"
+    },
+    {
+      "acronym": "PUP",
+      "mandates": "0",
+      "percentage": "1.07",
+      "votes": "2194"
+    },
+    {
+      "acronym": "FEC",
+      "mandates": "0",
+      "percentage": "0.77",
+      "votes": "1577"
+    }
+  ]
+}

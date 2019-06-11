@@ -1,0 +1,68 @@
+{
+  "territoryName": "Porto",
+  "territoryKeyOld": "130000",
+  "territoryKey": "LOCAL-130000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "AD",
+      "mandates": "19",
+      "percentage": "46.6",
+      "votes": "429685"
+    },
+    {
+      "acronym": "FRS",
+      "mandates": "14",
+      "percentage": "34.27",
+      "votes": "316032"
+    },
+    {
+      "acronym": "APU",
+      "mandates": "5",
+      "percentage": "11.93",
+      "votes": "110013"
+    },
+    {
+      "acronym": "POUS/PST",
+      "mandates": "0",
+      "percentage": "1.68",
+      "votes": "15526"
+    },
+    {
+      "acronym": "UDP",
+      "mandates": "0",
+      "percentage": "1.37",
+      "votes": "12592"
+    },
+    {
+      "acronym": "PSR",
+      "mandates": "0",
+      "percentage": "1.08",
+      "votes": "9966"
+    },
+    {
+      "acronym": "PT",
+      "mandates": "0",
+      "percentage": "0.61",
+      "votes": "5618"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "0.37",
+      "votes": "3453"
+    },
+    {
+      "acronym": "PDC/MIRN-PDP/FN",
+      "mandates": "0",
+      "percentage": "0.17",
+      "votes": "1557"
+    },
+    {
+      "acronym": "UDA/PDA",
+      "mandates": "0",
+      "percentage": "0.13",
+      "votes": "1158"
+    }
+  ]
+}

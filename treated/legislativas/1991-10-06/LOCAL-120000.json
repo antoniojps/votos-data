@@ -1,0 +1,62 @@
+{
+  "territoryName": "Portalegre",
+  "territoryKeyOld": "120000",
+  "territoryKey": "LOCAL-120000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "PPD/PSD",
+      "mandates": "2",
+      "percentage": "38.93",
+      "votes": "32490"
+    },
+    {
+      "acronym": "PS",
+      "mandates": "1",
+      "percentage": "33.52",
+      "votes": "27978"
+    },
+    {
+      "acronym": "CDU",
+      "mandates": "0",
+      "percentage": "15.17",
+      "votes": "12664"
+    },
+    {
+      "acronym": "CDS",
+      "mandates": "0",
+      "percentage": "3.28",
+      "votes": "2734"
+    },
+    {
+      "acronym": "PSN",
+      "mandates": "0",
+      "percentage": "1.81",
+      "votes": "1512"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "1.73",
+      "votes": "1446"
+    },
+    {
+      "acronym": "PSR",
+      "mandates": "0",
+      "percentage": "1.71",
+      "votes": "1431"
+    },
+    {
+      "acronym": "PRD",
+      "mandates": "0",
+      "percentage": "1.04",
+      "votes": "869"
+    },
+    {
+      "acronym": "PPM",
+      "mandates": "0",
+      "percentage": "0.55",
+      "votes": "458"
+    }
+  ]
+}

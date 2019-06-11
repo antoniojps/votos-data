@@ -1,0 +1,56 @@
+{
+  "territoryName": "Castelo Branco",
+  "territoryKeyOld": "50000",
+  "territoryKey": "LOCAL-050000",
+  "type": "ARI",
+  "resultsParty": [
+    {
+      "acronym": "AD",
+      "mandates": "4",
+      "percentage": "49.89",
+      "votes": "76658"
+    },
+    {
+      "acronym": "PS",
+      "mandates": "2",
+      "percentage": "27.77",
+      "votes": "42659"
+    },
+    {
+      "acronym": "APU",
+      "mandates": "0",
+      "percentage": "12.41",
+      "votes": "19071"
+    },
+    {
+      "acronym": "UDP",
+      "mandates": "0",
+      "percentage": "1.88",
+      "votes": "2887"
+    },
+    {
+      "acronym": "PDC",
+      "mandates": "0",
+      "percentage": "1.51",
+      "votes": "2327"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "1.1",
+      "votes": "1683"
+    },
+    {
+      "acronym": "UEDS",
+      "mandates": "0",
+      "percentage": "0.96",
+      "votes": "1469"
+    },
+    {
+      "acronym": "PSR",
+      "mandates": "0",
+      "percentage": "0.81",
+      "votes": "1245"
+    }
+  ]
+}

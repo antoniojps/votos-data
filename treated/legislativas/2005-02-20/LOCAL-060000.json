@@ -1,0 +1,68 @@
+{
+  "territoryName": "Coimbra",
+  "territoryKeyOld": "60000",
+  "territoryKey": "LOCAL-060000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "PS",
+      "mandates": "6",
+      "percentage": "45.43",
+      "votes": "111042"
+    },
+    {
+      "acronym": "PPD/PSD",
+      "mandates": "4",
+      "percentage": "31.93",
+      "votes": "78062"
+    },
+    {
+      "acronym": "BE",
+      "mandates": "0",
+      "percentage": "6.32",
+      "votes": "15444"
+    },
+    {
+      "acronym": "CDU",
+      "mandates": "0",
+      "percentage": "5.51",
+      "votes": "13463"
+    },
+    {
+      "acronym": "CDS-PP",
+      "mandates": "0",
+      "percentage": "5.47",
+      "votes": "13365"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "0.63",
+      "votes": "1551"
+    },
+    {
+      "acronym": "PND",
+      "mandates": "0",
+      "percentage": "0.53",
+      "votes": "1285"
+    },
+    {
+      "acronym": "PH",
+      "mandates": "0",
+      "percentage": "0.27",
+      "votes": "664"
+    },
+    {
+      "acronym": "POUS",
+      "mandates": "0",
+      "percentage": "0.15",
+      "votes": "360"
+    },
+    {
+      "acronym": "PNR",
+      "mandates": "0",
+      "percentage": "0.14",
+      "votes": "341"
+    }
+  ]
+}

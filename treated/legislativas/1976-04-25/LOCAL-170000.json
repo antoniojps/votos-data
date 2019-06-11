@@ -1,0 +1,86 @@
+{
+  "territoryName": "Vila Real",
+  "territoryKeyOld": "170000",
+  "territoryKey": "LOCAL-170000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "PPD",
+      "mandates": "4",
+      "percentage": "38.99",
+      "votes": "50736"
+    },
+    {
+      "acronym": "PS",
+      "mandates": "2",
+      "percentage": "26.34",
+      "votes": "34277"
+    },
+    {
+      "acronym": "CDS",
+      "mandates": "1",
+      "percentage": "18.3",
+      "votes": "23808"
+    },
+    {
+      "acronym": "PCP",
+      "mandates": "0",
+      "percentage": "3.14",
+      "votes": "4086"
+    },
+    {
+      "acronym": "UDP",
+      "mandates": "0",
+      "percentage": "0.92",
+      "votes": "1192"
+    },
+    {
+      "acronym": "PPM",
+      "mandates": "0",
+      "percentage": "0.83",
+      "votes": "1079"
+    },
+    {
+      "acronym": "PDC",
+      "mandates": "0",
+      "percentage": "0.8",
+      "votes": "1041"
+    },
+    {
+      "acronym": "AOC",
+      "mandates": "0",
+      "percentage": "0.72",
+      "votes": "936"
+    },
+    {
+      "acronym": "MES",
+      "mandates": "0",
+      "percentage": "0.68",
+      "votes": "890"
+    },
+    {
+      "acronym": "LCI",
+      "mandates": "0",
+      "percentage": "0.67",
+      "votes": "877"
+    },
+    {
+      "acronym": "FSP",
+      "mandates": "0",
+      "percentage": "0.5",
+      "votes": "648"
+    },
+    {
+      "acronym": "MRPP",
+      "mandates": "0",
+      "percentage": "0.41",
+      "votes": "534"
+    },
+    {
+      "acronym": "PCP (M-L)",
+      "mandates": "0",
+      "percentage": "0.31",
+      "votes": "406"
+    }
+  ]
+}

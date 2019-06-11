@@ -1,0 +1,68 @@
+{
+  "territoryName": "Leiria",
+  "territoryKeyOld": "100000",
+  "territoryKey": "LOCAL-100000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "PPD/PSD",
+      "mandates": "7",
+      "percentage": "61.19",
+      "votes": "147279"
+    },
+    {
+      "acronym": "PS",
+      "mandates": "3",
+      "percentage": "23.03",
+      "votes": "55442"
+    },
+    {
+      "acronym": "CDS",
+      "mandates": "0",
+      "percentage": "4.79",
+      "votes": "11527"
+    },
+    {
+      "acronym": "CDU",
+      "mandates": "0",
+      "percentage": "4.46",
+      "votes": "10742"
+    },
+    {
+      "acronym": "PSN",
+      "mandates": "0",
+      "percentage": "1.44",
+      "votes": "3467"
+    },
+    {
+      "acronym": "PSR",
+      "mandates": "0",
+      "percentage": "0.76",
+      "votes": "1841"
+    },
+    {
+      "acronym": "PRD",
+      "mandates": "0",
+      "percentage": "0.61",
+      "votes": "1478"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "0.51",
+      "votes": "1217"
+    },
+    {
+      "acronym": "PPM",
+      "mandates": "0",
+      "percentage": "0.36",
+      "votes": "877"
+    },
+    {
+      "acronym": "PDA",
+      "mandates": "0",
+      "percentage": "0.24",
+      "votes": "578"
+    }
+  ]
+}

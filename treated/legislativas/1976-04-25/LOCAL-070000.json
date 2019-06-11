@@ -1,0 +1,74 @@
+{
+  "territoryName": "Évora",
+  "territoryKeyOld": "70000",
+  "territoryKey": "LOCAL-070000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "PCP",
+      "mandates": "4",
+      "percentage": "43.15",
+      "votes": "52291"
+    },
+    {
+      "acronym": "PS",
+      "mandates": "2",
+      "percentage": "30.26",
+      "votes": "36679"
+    },
+    {
+      "acronym": "PPD",
+      "mandates": "0",
+      "percentage": "9.16",
+      "votes": "11107"
+    },
+    {
+      "acronym": "CDS",
+      "mandates": "0",
+      "percentage": "7.96",
+      "votes": "9645"
+    },
+    {
+      "acronym": "UDP",
+      "mandates": "0",
+      "percentage": "2.6",
+      "votes": "3151"
+    },
+    {
+      "acronym": "FSP",
+      "mandates": "0",
+      "percentage": "1.23",
+      "votes": "1491"
+    },
+    {
+      "acronym": "PPM",
+      "mandates": "0",
+      "percentage": "0.7",
+      "votes": "844"
+    },
+    {
+      "acronym": "MES",
+      "mandates": "0",
+      "percentage": "0.65",
+      "votes": "790"
+    },
+    {
+      "acronym": "AOC",
+      "mandates": "0",
+      "percentage": "0.34",
+      "votes": "409"
+    },
+    {
+      "acronym": "MRPP",
+      "mandates": "0",
+      "percentage": "0.34",
+      "votes": "407"
+    },
+    {
+      "acronym": "LCI",
+      "mandates": "0",
+      "percentage": "0.3",
+      "votes": "358"
+    }
+  ]
+}

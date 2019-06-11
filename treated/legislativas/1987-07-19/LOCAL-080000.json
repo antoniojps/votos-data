@@ -1,0 +1,80 @@
+{
+  "territoryName": "Faro",
+  "territoryKeyOld": "80000",
+  "territoryKey": "LOCAL-080000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "PPD/PSD",
+      "mandates": "5",
+      "percentage": "46.67",
+      "votes": "88442"
+    },
+    {
+      "acronym": "PS",
+      "mandates": "3",
+      "percentage": "24.91",
+      "votes": "47218"
+    },
+    {
+      "acronym": "CDU",
+      "mandates": "1",
+      "percentage": "10.91",
+      "votes": "20683"
+    },
+    {
+      "acronym": "PRD",
+      "mandates": "0",
+      "percentage": "6.29",
+      "votes": "11926"
+    },
+    {
+      "acronym": "CDS",
+      "mandates": "0",
+      "percentage": "3.12",
+      "votes": "5910"
+    },
+    {
+      "acronym": "MDP/CDE",
+      "mandates": "0",
+      "percentage": "1.13",
+      "votes": "2148"
+    },
+    {
+      "acronym": "UDP",
+      "mandates": "0",
+      "percentage": "1.04",
+      "votes": "1962"
+    },
+    {
+      "acronym": "PC(R)",
+      "mandates": "0",
+      "percentage": "0.73",
+      "votes": "1380"
+    },
+    {
+      "acronym": "PSR",
+      "mandates": "0",
+      "percentage": "0.71",
+      "votes": "1347"
+    },
+    {
+      "acronym": "PPM",
+      "mandates": "0",
+      "percentage": "0.64",
+      "votes": "1211"
+    },
+    {
+      "acronym": "PDC",
+      "mandates": "0",
+      "percentage": "0.54",
+      "votes": "1024"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "0.46",
+      "votes": "868"
+    }
+  ]
+}

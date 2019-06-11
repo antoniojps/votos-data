@@ -1,0 +1,91 @@
+{
+  "territoryName": "Évora",
+  "territoryKeyOld": "70000",
+  "territoryKey": "LOCAL-070000",
+  "resultsParty": [
+    {
+      "acronym": "PS",
+      "mandates": "1",
+      "percentage": "37.47",
+      "votes": "31705"
+    },
+    {
+      "acronym": "PPD/PSD.CDS-PP",
+      "mandates": "1",
+      "percentage": "23.96",
+      "votes": "20275"
+    },
+    {
+      "acronym": "PCP-PEV",
+      "mandates": "1",
+      "percentage": "21.94",
+      "votes": "18567"
+    },
+    {
+      "acronym": "B.E.",
+      "mandates": "0",
+      "percentage": "8.64",
+      "votes": "7312"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "1.47",
+      "votes": "1245"
+    },
+    {
+      "acronym": "PAN",
+      "mandates": "0",
+      "percentage": "0.85",
+      "votes": "723"
+    },
+    {
+      "acronym": "PDR",
+      "mandates": "0",
+      "percentage": "0.52",
+      "votes": "443"
+    },
+    {
+      "acronym": "PPM",
+      "mandates": "0",
+      "percentage": "0.43",
+      "votes": "363"
+    },
+    {
+      "acronym": "L/TDA",
+      "mandates": "0",
+      "percentage": "0.42",
+      "votes": "356"
+    },
+    {
+      "acronym": "PNR",
+      "mandates": "0",
+      "percentage": "0.33",
+      "votes": "280"
+    },
+    {
+      "acronym": "MPT",
+      "mandates": "0",
+      "percentage": "0.29",
+      "votes": "242"
+    },
+    {
+      "acronym": "NC",
+      "mandates": "0",
+      "percentage": "0.26",
+      "votes": "216"
+    },
+    {
+      "acronym": "PTP-MAS",
+      "mandates": "0",
+      "percentage": "0.26",
+      "votes": "224"
+    },
+    {
+      "acronym": "PURP",
+      "mandates": "0",
+      "percentage": "0.2",
+      "votes": "166"
+    }
+  ]
+}

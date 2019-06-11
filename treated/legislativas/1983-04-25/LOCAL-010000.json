@@ -1,0 +1,80 @@
+{
+  "territoryName": "Aveiro",
+  "territoryKeyOld": "10000",
+  "territoryKey": "LOCAL-010000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "PS",
+      "mandates": "6",
+      "percentage": "36.55",
+      "votes": "125035"
+    },
+    {
+      "acronym": "PPD/PSD",
+      "mandates": "6",
+      "percentage": "34.8",
+      "votes": "119058"
+    },
+    {
+      "acronym": "CDS",
+      "mandates": "2",
+      "percentage": "16.4",
+      "votes": "56115"
+    },
+    {
+      "acronym": "APU",
+      "mandates": "1",
+      "percentage": "7",
+      "votes": "23963"
+    },
+    {
+      "acronym": "PDC",
+      "mandates": "0",
+      "percentage": "0.7",
+      "votes": "2396"
+    },
+    {
+      "acronym": "PPM",
+      "mandates": "0",
+      "percentage": "0.54",
+      "votes": "1836"
+    },
+    {
+      "acronym": "UDP",
+      "mandates": "0",
+      "percentage": "0.49",
+      "votes": "1684"
+    },
+    {
+      "acronym": "POUS",
+      "mandates": "0",
+      "percentage": "0.25",
+      "votes": "870"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "0.24",
+      "votes": "806"
+    },
+    {
+      "acronym": "PSR",
+      "mandates": "0",
+      "percentage": "0.23",
+      "votes": "785"
+    },
+    {
+      "acronym": "OCMLP",
+      "mandates": "0",
+      "percentage": "0.15",
+      "votes": "518"
+    },
+    {
+      "acronym": "LST",
+      "mandates": "0",
+      "percentage": "0.14",
+      "votes": "490"
+    }
+  ]
+}

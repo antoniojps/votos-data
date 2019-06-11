@@ -1,0 +1,104 @@
+{
+  "territoryName": "Resultados Globais",
+  "territoryKeyOld": null,
+  "territoryKey": "GLOBAL-990000",
+  "abstention": "40,32",
+  "resultsParty": [
+    {
+      "acronym": "PS",
+      "votes": "2077238",
+      "percentage": "36,56",
+      "mandates": "97"
+    },
+    {
+      "acronym": "PPD/PSD",
+      "votes": "1653665",
+      "percentage": "29,11",
+      "mandates": "81"
+    },
+    {
+      "acronym": "CDS-PP",
+      "votes": "592778",
+      "percentage": "10,43",
+      "mandates": "21"
+    },
+    {
+      "acronym": "B.E.",
+      "votes": "557306",
+      "percentage": "9,81",
+      "mandates": "16"
+    },
+    {
+      "acronym": "PCP-PEV",
+      "votes": "446279",
+      "percentage": "7,86",
+      "mandates": "15"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "votes": "52761",
+      "percentage": "0,93",
+      "mandates": "0"
+    },
+    {
+      "acronym": "MEP",
+      "votes": "25949",
+      "percentage": "0,46",
+      "mandates": "0"
+    },
+    {
+      "acronym": "PND",
+      "votes": "21876",
+      "percentage": "0,39",
+      "mandates": "0"
+    },
+    {
+      "acronym": "MMS",
+      "votes": "16924",
+      "percentage": "0,30",
+      "mandates": "0"
+    },
+    {
+      "acronym": "PPM",
+      "votes": "15262",
+      "percentage": "0,27",
+      "mandates": "0"
+    },
+    {
+      "acronym": "MPT-P.H.",
+      "votes": "12405",
+      "percentage": "0,22",
+      "mandates": "0"
+    },
+    {
+      "acronym": "P.N.R.",
+      "votes": "11503",
+      "percentage": "0,20",
+      "mandates": "0"
+    },
+    {
+      "acronym": "PPV",
+      "votes": "8461",
+      "percentage": "0,15",
+      "mandates": "0"
+    },
+    {
+      "acronym": "PTP",
+      "votes": "4974",
+      "percentage": "0,09",
+      "mandates": "0"
+    },
+    {
+      "acronym": "POUS",
+      "votes": "4632",
+      "percentage": "0,08",
+      "mandates": "0"
+    },
+    {
+      "acronym": "MPT",
+      "votes": "3265",
+      "percentage": "0,06",
+      "mandates": "0"
+    }
+  ]
+}

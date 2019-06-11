@@ -1,0 +1,110 @@
+{
+  "territoryName": "Portalegre",
+  "territoryKeyOld": "120000",
+  "territoryKey": "LOCAL-120000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "PPD/PSD",
+      "mandates": "1",
+      "percentage": "32.45",
+      "votes": "19992"
+    },
+    {
+      "acronym": "PS",
+      "mandates": "1",
+      "percentage": "32.4",
+      "votes": "19963"
+    },
+    {
+      "acronym": "CDU",
+      "mandates": "0",
+      "percentage": "12.84",
+      "votes": "7910"
+    },
+    {
+      "acronym": "CDS-PP",
+      "mandates": "0",
+      "percentage": "10.17",
+      "votes": "6265"
+    },
+    {
+      "acronym": "BE",
+      "mandates": "0",
+      "percentage": "4.47",
+      "votes": "2753"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "1.67",
+      "votes": "1031"
+    },
+    {
+      "acronym": "PAN",
+      "mandates": "0",
+      "percentage": "0.54",
+      "votes": "333"
+    },
+    {
+      "acronym": "MEP",
+      "mandates": "0",
+      "percentage": "0.37",
+      "votes": "227"
+    },
+    {
+      "acronym": "MPT",
+      "mandates": "0",
+      "percentage": "0.29",
+      "votes": "176"
+    },
+    {
+      "acronym": "PTP",
+      "mandates": "0",
+      "percentage": "0.26",
+      "votes": "162"
+    },
+    {
+      "acronym": "PNR",
+      "mandates": "0",
+      "percentage": "0.25",
+      "votes": "151"
+    },
+    {
+      "acronym": "PPM",
+      "mandates": "0",
+      "percentage": "0.22",
+      "votes": "135"
+    },
+    {
+      "acronym": "PH",
+      "mandates": "0",
+      "percentage": "0.13",
+      "votes": "80"
+    },
+    {
+      "acronym": "POUS",
+      "mandates": "0",
+      "percentage": "0.13",
+      "votes": "80"
+    },
+    {
+      "acronym": "PPV",
+      "mandates": "0",
+      "percentage": "0",
+      "votes": "0"
+    },
+    {
+      "acronym": "PDA",
+      "mandates": "0",
+      "percentage": "0",
+      "votes": "0"
+    },
+    {
+      "acronym": "PND",
+      "mandates": "0",
+      "percentage": "0",
+      "votes": "0"
+    }
+  ]
+}

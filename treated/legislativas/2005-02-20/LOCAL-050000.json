@@ -1,0 +1,62 @@
+{
+  "territoryName": "Castelo Branco",
+  "territoryKeyOld": "50000",
+  "territoryKey": "LOCAL-050000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "PS",
+      "mandates": "4",
+      "percentage": "56",
+      "votes": "69795"
+    },
+    {
+      "acronym": "PPD/PSD",
+      "mandates": "1",
+      "percentage": "26.67",
+      "votes": "33240"
+    },
+    {
+      "acronym": "CDS-PP",
+      "mandates": "0",
+      "percentage": "5.29",
+      "votes": "6590"
+    },
+    {
+      "acronym": "CDU",
+      "mandates": "0",
+      "percentage": "3.75",
+      "votes": "4678"
+    },
+    {
+      "acronym": "BE",
+      "mandates": "0",
+      "percentage": "3.74",
+      "votes": "4660"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "0.76",
+      "votes": "947"
+    },
+    {
+      "acronym": "PND",
+      "mandates": "0",
+      "percentage": "0.5",
+      "votes": "619"
+    },
+    {
+      "acronym": "PH",
+      "mandates": "0",
+      "percentage": "0.26",
+      "votes": "326"
+    },
+    {
+      "acronym": "PNR",
+      "mandates": "0",
+      "percentage": "0.21",
+      "votes": "263"
+    }
+  ]
+}

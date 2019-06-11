@@ -1,0 +1,110 @@
+{
+  "territoryName": "Guarda",
+  "territoryKeyOld": "90000",
+  "territoryKey": "LOCAL-090000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "PPD/PSD",
+      "mandates": "3",
+      "percentage": "46.33",
+      "votes": "43024"
+    },
+    {
+      "acronym": "PS",
+      "mandates": "1",
+      "percentage": "28.28",
+      "votes": "26263"
+    },
+    {
+      "acronym": "CDS-PP",
+      "mandates": "0",
+      "percentage": "11.23",
+      "votes": "10426"
+    },
+    {
+      "acronym": "CDU",
+      "mandates": "0",
+      "percentage": "3.55",
+      "votes": "3299"
+    },
+    {
+      "acronym": "BE",
+      "mandates": "0",
+      "percentage": "3.35",
+      "votes": "3114"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "0.81",
+      "votes": "755"
+    },
+    {
+      "acronym": "PAN",
+      "mandates": "0",
+      "percentage": "0.56",
+      "votes": "520"
+    },
+    {
+      "acronym": "PPV",
+      "mandates": "0",
+      "percentage": "0.31",
+      "votes": "286"
+    },
+    {
+      "acronym": "MPT",
+      "mandates": "0",
+      "percentage": "0.27",
+      "votes": "251"
+    },
+    {
+      "acronym": "MEP",
+      "mandates": "0",
+      "percentage": "0.24",
+      "votes": "225"
+    },
+    {
+      "acronym": "PDA",
+      "mandates": "0",
+      "percentage": "0.22",
+      "votes": "200"
+    },
+    {
+      "acronym": "PTP",
+      "mandates": "0",
+      "percentage": "0.21",
+      "votes": "199"
+    },
+    {
+      "acronym": "PPM",
+      "mandates": "0",
+      "percentage": "0.21",
+      "votes": "191"
+    },
+    {
+      "acronym": "PNR",
+      "mandates": "0",
+      "percentage": "0.19",
+      "votes": "178"
+    },
+    {
+      "acronym": "POUS",
+      "mandates": "0",
+      "percentage": "0",
+      "votes": "0"
+    },
+    {
+      "acronym": "PH",
+      "mandates": "0",
+      "percentage": "0",
+      "votes": "0"
+    },
+    {
+      "acronym": "PND",
+      "mandates": "0",
+      "percentage": "0",
+      "votes": "0"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "territoryName": "Lisboa",
+  "territoryKeyOld": "110000",
+  "territoryKey": "LOCAL-110000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "PPD/PSD",
+      "mandates": "25",
+      "percentage": "45.3",
+      "votes": "556881"
+    },
+    {
+      "acronym": "PS",
+      "mandates": "16",
+      "percentage": "29.7",
+      "votes": "365112"
+    },
+    {
+      "acronym": "CDU",
+      "mandates": "6",
+      "percentage": "12.15",
+      "votes": "149315"
+    },
+    {
+      "acronym": "CDS",
+      "mandates": "2",
+      "percentage": "4",
+      "votes": "49194"
+    },
+    {
+      "acronym": "PSN",
+      "mandates": "1",
+      "percentage": "2.61",
+      "votes": "32142"
+    },
+    {
+      "acronym": "PSR",
+      "mandates": "0",
+      "percentage": "1.8",
+      "votes": "22088"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "1.08",
+      "votes": "13300"
+    },
+    {
+      "acronym": "PRD",
+      "mandates": "0",
+      "percentage": "0.6",
+      "votes": "7427"
+    },
+    {
+      "acronym": "PPM",
+      "mandates": "0",
+      "percentage": "0.54",
+      "votes": "6678"
+    },
+    {
+      "acronym": "PDA",
+      "mandates": "0",
+      "percentage": "0.19",
+      "votes": "2306"
+    },
+    {
+      "acronym": "FER",
+      "mandates": "0",
+      "percentage": "0.19",
+      "votes": "2282"
+    }
+  ]
+}

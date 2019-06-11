@@ -1,0 +1,80 @@
+{
+  "territoryName": "Guarda",
+  "territoryKeyOld": "90000",
+  "territoryKey": "LOCAL-090000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "PPD/PSD",
+      "mandates": "4",
+      "percentage": "60.01",
+      "votes": "71133"
+    },
+    {
+      "acronym": "PS",
+      "mandates": "1",
+      "percentage": "21.75",
+      "votes": "25783"
+    },
+    {
+      "acronym": "CDS",
+      "mandates": "0",
+      "percentage": "6.6",
+      "votes": "7827"
+    },
+    {
+      "acronym": "CDU",
+      "mandates": "0",
+      "percentage": "3.32",
+      "votes": "3934"
+    },
+    {
+      "acronym": "PRD",
+      "mandates": "0",
+      "percentage": "2",
+      "votes": "2369"
+    },
+    {
+      "acronym": "PDC",
+      "mandates": "0",
+      "percentage": "0.96",
+      "votes": "1143"
+    },
+    {
+      "acronym": "PPM",
+      "mandates": "0",
+      "percentage": "0.56",
+      "votes": "667"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "0.48",
+      "votes": "574"
+    },
+    {
+      "acronym": "PC(R)",
+      "mandates": "0",
+      "percentage": "0.45",
+      "votes": "532"
+    },
+    {
+      "acronym": "MDP/CDE",
+      "mandates": "0",
+      "percentage": "0.32",
+      "votes": "379"
+    },
+    {
+      "acronym": "PSR",
+      "mandates": "0",
+      "percentage": "0.28",
+      "votes": "331"
+    },
+    {
+      "acronym": "UDP",
+      "mandates": "0",
+      "percentage": "0.27",
+      "votes": "325"
+    }
+  ]
+}

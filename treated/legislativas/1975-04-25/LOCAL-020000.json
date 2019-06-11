@@ -1,0 +1,56 @@
+{
+  "territoryName": "Beja",
+  "territoryKeyOld": "20000",
+  "territoryKey": "LOCAL-020000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "PCP",
+      "mandates": "3",
+      "percentage": "38.97",
+      "votes": "50341"
+    },
+    {
+      "acronym": "PS",
+      "mandates": "3",
+      "percentage": "35.55",
+      "votes": "45930"
+    },
+    {
+      "acronym": "MDP",
+      "mandates": "0",
+      "percentage": "5.45",
+      "votes": "7036"
+    },
+    {
+      "acronym": "PPD",
+      "mandates": "0",
+      "percentage": "5.25",
+      "votes": "6787"
+    },
+    {
+      "acronym": "MES",
+      "mandates": "0",
+      "percentage": "2.53",
+      "votes": "3267"
+    },
+    {
+      "acronym": "CDS",
+      "mandates": "0",
+      "percentage": "2.18",
+      "votes": "2821"
+    },
+    {
+      "acronym": "UDP",
+      "mandates": "0",
+      "percentage": "1.43",
+      "votes": "1845"
+    },
+    {
+      "acronym": "PUP",
+      "mandates": "0",
+      "percentage": "1.23",
+      "votes": "1590"
+    }
+  ]
+}

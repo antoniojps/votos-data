@@ -1,0 +1,50 @@
+{
+  "territoryName": "Viseu",
+  "territoryKeyOld": "180000",
+  "territoryKey": "LOCAL-180000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "PPD",
+      "mandates": "6",
+      "percentage": "43.78",
+      "votes": "102922"
+    },
+    {
+      "acronym": "PS",
+      "mandates": "2",
+      "percentage": "21.47",
+      "votes": "50473"
+    },
+    {
+      "acronym": "CDS",
+      "mandates": "2",
+      "percentage": "17.19",
+      "votes": "40422"
+    },
+    {
+      "acronym": "MDP",
+      "mandates": "0",
+      "percentage": "4.04",
+      "votes": "9492"
+    },
+    {
+      "acronym": "FSP",
+      "mandates": "0",
+      "percentage": "2.31",
+      "votes": "5432"
+    },
+    {
+      "acronym": "PCP",
+      "mandates": "0",
+      "percentage": "2.29",
+      "votes": "5380"
+    },
+    {
+      "acronym": "PPM",
+      "mandates": "0",
+      "percentage": "0.91",
+      "votes": "2145"
+    }
+  ]
+}

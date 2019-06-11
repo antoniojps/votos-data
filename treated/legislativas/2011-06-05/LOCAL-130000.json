@@ -1,0 +1,110 @@
+{
+  "territoryName": "Porto",
+  "territoryKeyOld": "130000",
+  "territoryKey": "LOCAL-130000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "PPD/PSD",
+      "mandates": "17",
+      "percentage": "39.16",
+      "votes": "389007"
+    },
+    {
+      "acronym": "PS",
+      "mandates": "14",
+      "percentage": "32.02",
+      "votes": "318113"
+    },
+    {
+      "acronym": "CDS-PP",
+      "mandates": "4",
+      "percentage": "10",
+      "votes": "99395"
+    },
+    {
+      "acronym": "CDU",
+      "mandates": "2",
+      "percentage": "6.22",
+      "votes": "61832"
+    },
+    {
+      "acronym": "BE",
+      "mandates": "2",
+      "percentage": "5.13",
+      "votes": "51002"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "0.97",
+      "votes": "9640"
+    },
+    {
+      "acronym": "PAN",
+      "mandates": "0",
+      "percentage": "0.91",
+      "votes": "9072"
+    },
+    {
+      "acronym": "PTP",
+      "mandates": "0",
+      "percentage": "0.34",
+      "votes": "3386"
+    },
+    {
+      "acronym": "MEP",
+      "mandates": "0",
+      "percentage": "0.3",
+      "votes": "2960"
+    },
+    {
+      "acronym": "MPT",
+      "mandates": "0",
+      "percentage": "0.24",
+      "votes": "2413"
+    },
+    {
+      "acronym": "PDA",
+      "mandates": "0",
+      "percentage": "0.22",
+      "votes": "2217"
+    },
+    {
+      "acronym": "PNR",
+      "mandates": "0",
+      "percentage": "0.16",
+      "votes": "1551"
+    },
+    {
+      "acronym": "PND",
+      "mandates": "0",
+      "percentage": "0.16",
+      "votes": "1550"
+    },
+    {
+      "acronym": "PPM",
+      "mandates": "0",
+      "percentage": "0.15",
+      "votes": "1525"
+    },
+    {
+      "acronym": "PH",
+      "mandates": "0",
+      "percentage": "0.12",
+      "votes": "1194"
+    },
+    {
+      "acronym": "PPV",
+      "mandates": "0",
+      "percentage": "0.11",
+      "votes": "1098"
+    },
+    {
+      "acronym": "POUS",
+      "mandates": "0",
+      "percentage": "0.05",
+      "votes": "515"
+    }
+  ]
+}

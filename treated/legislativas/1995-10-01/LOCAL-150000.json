@@ -1,0 +1,74 @@
+{
+  "territoryName": "Setúbal",
+  "territoryKeyOld": "150000",
+  "territoryKey": "LOCAL-150000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "PS",
+      "mandates": "9",
+      "percentage": "44.88",
+      "votes": "194313"
+    },
+    {
+      "acronym": "CDU",
+      "mandates": "4",
+      "percentage": "23.77",
+      "votes": "102911"
+    },
+    {
+      "acronym": "PPD/PSD",
+      "mandates": "3",
+      "percentage": "18.4",
+      "votes": "79645"
+    },
+    {
+      "acronym": "CDS-PP",
+      "mandates": "1",
+      "percentage": "7.22",
+      "votes": "31261"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "1.66",
+      "votes": "7181"
+    },
+    {
+      "acronym": "UDP",
+      "mandates": "0",
+      "percentage": "0.89",
+      "votes": "3832"
+    },
+    {
+      "acronym": "PSR",
+      "mandates": "0",
+      "percentage": "0.61",
+      "votes": "2650"
+    },
+    {
+      "acronym": "PPM/MPT",
+      "mandates": "0",
+      "percentage": "0.38",
+      "votes": "1666"
+    },
+    {
+      "acronym": "PG",
+      "mandates": "0",
+      "percentage": "0.23",
+      "votes": "1010"
+    },
+    {
+      "acronym": "PSN",
+      "mandates": "0",
+      "percentage": "0.15",
+      "votes": "659"
+    },
+    {
+      "acronym": "MUT",
+      "mandates": "0",
+      "percentage": "0.09",
+      "votes": "396"
+    }
+  ]
+}

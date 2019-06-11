@@ -1,0 +1,62 @@
+{
+  "territoryName": "Faro",
+  "territoryKeyOld": "80000",
+  "territoryKey": "LOCAL-080000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "PS",
+      "mandates": "4",
+      "percentage": "40.48",
+      "votes": "75468"
+    },
+    {
+      "acronym": "PPD/PSD",
+      "mandates": "4",
+      "percentage": "37.68",
+      "votes": "70236"
+    },
+    {
+      "acronym": "CDS-PP",
+      "mandates": "0",
+      "percentage": "8.34",
+      "votes": "15539"
+    },
+    {
+      "acronym": "CDU",
+      "mandates": "0",
+      "percentage": "6.27",
+      "votes": "11696"
+    },
+    {
+      "acronym": "BE",
+      "mandates": "0",
+      "percentage": "2.77",
+      "votes": "5168"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "0.99",
+      "votes": "1846"
+    },
+    {
+      "acronym": "PPM",
+      "mandates": "0",
+      "percentage": "0.38",
+      "votes": "708"
+    },
+    {
+      "acronym": "MPT",
+      "mandates": "0",
+      "percentage": "0.38",
+      "votes": "703"
+    },
+    {
+      "acronym": "PH",
+      "mandates": "0",
+      "percentage": "0.24",
+      "votes": "445"
+    }
+  ]
+}

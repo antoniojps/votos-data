@@ -1,0 +1,110 @@
+{
+  "territoryName": "Resultados Globais",
+  "territoryKeyOld": null,
+  "territoryKey": "GLOBAL-990000",
+  "abstention": "41,97",
+  "resultsParty": [
+    {
+      "acronym": "PPD/PSD",
+      "votes": "2159181",
+      "percentage": "38,66",
+      "mandates": "108"
+    },
+    {
+      "acronym": "PS",
+      "votes": "1566347",
+      "percentage": "28,05",
+      "mandates": "74"
+    },
+    {
+      "acronym": "CDS-PP",
+      "votes": "653888",
+      "percentage": "11,71",
+      "mandates": "24"
+    },
+    {
+      "acronym": "PCP-PEV",
+      "votes": "441147",
+      "percentage": "7,90",
+      "mandates": "16"
+    },
+    {
+      "acronym": "B.E.",
+      "votes": "288923",
+      "percentage": "5,17",
+      "mandates": "8"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "votes": "62610",
+      "percentage": "1,12",
+      "mandates": "0"
+    },
+    {
+      "acronym": "PAN",
+      "votes": "57995",
+      "percentage": "1,04",
+      "mandates": "0"
+    },
+    {
+      "acronym": "MPT",
+      "votes": "22705",
+      "percentage": "0,41",
+      "mandates": "0"
+    },
+    {
+      "acronym": "MEP",
+      "votes": "21942",
+      "percentage": "0,39",
+      "mandates": "0"
+    },
+    {
+      "acronym": "PNR",
+      "votes": "17548",
+      "percentage": "0,31",
+      "mandates": "0"
+    },
+    {
+      "acronym": "PTP",
+      "votes": "16895",
+      "percentage": "0,30",
+      "mandates": "0"
+    },
+    {
+      "acronym": "PPM",
+      "votes": "14687",
+      "percentage": "0,26",
+      "mandates": "0"
+    },
+    {
+      "acronym": "PND",
+      "votes": "11806",
+      "percentage": "0,21",
+      "mandates": "0"
+    },
+    {
+      "acronym": "PPV",
+      "votes": "8209",
+      "percentage": "0,15",
+      "mandates": "0"
+    },
+    {
+      "acronym": "POUS",
+      "votes": "4572",
+      "percentage": "0,08",
+      "mandates": "0"
+    },
+    {
+      "acronym": "PDA",
+      "votes": "4569",
+      "percentage": "0,08",
+      "mandates": "0"
+    },
+    {
+      "acronym": "P.H.",
+      "votes": "3588",
+      "percentage": "0,06",
+      "mandates": "0"
+    }
+  ]
+}

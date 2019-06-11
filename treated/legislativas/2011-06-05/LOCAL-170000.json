@@ -1,0 +1,110 @@
+{
+  "territoryName": "Vila Real",
+  "territoryKeyOld": "170000",
+  "territoryKey": "LOCAL-170000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "PPD/PSD",
+      "mandates": "3",
+      "percentage": "51.4",
+      "votes": "61455"
+    },
+    {
+      "acronym": "PS",
+      "mandates": "2",
+      "percentage": "29.13",
+      "votes": "34825"
+    },
+    {
+      "acronym": "CDS-PP",
+      "mandates": "0",
+      "percentage": "8.69",
+      "votes": "10385"
+    },
+    {
+      "acronym": "CDU",
+      "mandates": "0",
+      "percentage": "3.06",
+      "votes": "3656"
+    },
+    {
+      "acronym": "BE",
+      "mandates": "0",
+      "percentage": "2.33",
+      "votes": "2784"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "0.56",
+      "votes": "675"
+    },
+    {
+      "acronym": "PAN",
+      "mandates": "0",
+      "percentage": "0.52",
+      "votes": "617"
+    },
+    {
+      "acronym": "PPM",
+      "mandates": "0",
+      "percentage": "0.48",
+      "votes": "574"
+    },
+    {
+      "acronym": "MPT",
+      "mandates": "0",
+      "percentage": "0.25",
+      "votes": "304"
+    },
+    {
+      "acronym": "PTP",
+      "mandates": "0",
+      "percentage": "0.21",
+      "votes": "254"
+    },
+    {
+      "acronym": "MEP",
+      "mandates": "0",
+      "percentage": "0.2",
+      "votes": "234"
+    },
+    {
+      "acronym": "PNR",
+      "mandates": "0",
+      "percentage": "0.12",
+      "votes": "147"
+    },
+    {
+      "acronym": "PDA",
+      "mandates": "0",
+      "percentage": "0.1",
+      "votes": "121"
+    },
+    {
+      "acronym": "PH",
+      "mandates": "0",
+      "percentage": "0",
+      "votes": "0"
+    },
+    {
+      "acronym": "PND",
+      "mandates": "0",
+      "percentage": "0",
+      "votes": "0"
+    },
+    {
+      "acronym": "POUS",
+      "mandates": "0",
+      "percentage": "0",
+      "votes": "0"
+    },
+    {
+      "acronym": "PPV",
+      "mandates": "0",
+      "percentage": "0",
+      "votes": "0"
+    }
+  ]
+}

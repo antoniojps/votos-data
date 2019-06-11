@@ -1,0 +1,74 @@
+{
+  "territoryName": "Vila Real",
+  "territoryKeyOld": "170000",
+  "territoryKey": "LOCAL-170000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "PPD/PSD",
+      "mandates": "3",
+      "percentage": "41.09",
+      "votes": "51820"
+    },
+    {
+      "acronym": "PS",
+      "mandates": "2",
+      "percentage": "36.1",
+      "votes": "45531"
+    },
+    {
+      "acronym": "CDS-PP",
+      "mandates": "0",
+      "percentage": "10.09",
+      "votes": "12728"
+    },
+    {
+      "acronym": "BE",
+      "mandates": "0",
+      "percentage": "5.49",
+      "votes": "6929"
+    },
+    {
+      "acronym": "CDU",
+      "mandates": "0",
+      "percentage": "2.87",
+      "votes": "3620"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "0.61",
+      "votes": "764"
+    },
+    {
+      "acronym": "MEP",
+      "mandates": "0",
+      "percentage": "0.28",
+      "votes": "358"
+    },
+    {
+      "acronym": "PPM",
+      "mandates": "0",
+      "percentage": "0.26",
+      "votes": "330"
+    },
+    {
+      "acronym": "MMS",
+      "mandates": "0",
+      "percentage": "0.22",
+      "votes": "275"
+    },
+    {
+      "acronym": "MPT-PH",
+      "mandates": "0",
+      "percentage": "0.2",
+      "votes": "258"
+    },
+    {
+      "acronym": "PPV",
+      "mandates": "0",
+      "percentage": "0.15",
+      "votes": "184"
+    }
+  ]
+}

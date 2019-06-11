@@ -1,0 +1,80 @@
+{
+  "territoryName": "Viseu",
+  "territoryKeyOld": "180000",
+  "territoryKey": "LOCAL-180000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "PPD/PSD",
+      "mandates": "8",
+      "percentage": "64.06",
+      "votes": "145654"
+    },
+    {
+      "acronym": "PS",
+      "mandates": "2",
+      "percentage": "17.93",
+      "votes": "40762"
+    },
+    {
+      "acronym": "CDS",
+      "mandates": "0",
+      "percentage": "6.97",
+      "votes": "15852"
+    },
+    {
+      "acronym": "CDU",
+      "mandates": "0",
+      "percentage": "2.86",
+      "votes": "6507"
+    },
+    {
+      "acronym": "PRD",
+      "mandates": "0",
+      "percentage": "1.73",
+      "votes": "3932"
+    },
+    {
+      "acronym": "PDC",
+      "mandates": "0",
+      "percentage": "1.53",
+      "votes": "3482"
+    },
+    {
+      "acronym": "PSR",
+      "mandates": "0",
+      "percentage": "0.44",
+      "votes": "1006"
+    },
+    {
+      "acronym": "PPM",
+      "mandates": "0",
+      "percentage": "0.41",
+      "votes": "940"
+    },
+    {
+      "acronym": "PC(R)",
+      "mandates": "0",
+      "percentage": "0.36",
+      "votes": "818"
+    },
+    {
+      "acronym": "MDP/CDE",
+      "mandates": "0",
+      "percentage": "0.36",
+      "votes": "817"
+    },
+    {
+      "acronym": "UDP",
+      "mandates": "0",
+      "percentage": "0.34",
+      "votes": "777"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "0.2",
+      "votes": "461"
+    }
+  ]
+}

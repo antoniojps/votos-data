@@ -1,0 +1,56 @@
+{
+  "territoryName": "Bragança",
+  "territoryKeyOld": "40000",
+  "territoryKey": "LOCAL-040000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "PPD/PSD",
+      "mandates": "2",
+      "percentage": "45.1",
+      "votes": "37130"
+    },
+    {
+      "acronym": "PS",
+      "mandates": "2",
+      "percentage": "39.74",
+      "votes": "32715"
+    },
+    {
+      "acronym": "CDS-PP",
+      "mandates": "0",
+      "percentage": "8.66",
+      "votes": "7131"
+    },
+    {
+      "acronym": "CDU",
+      "mandates": "0",
+      "percentage": "2.62",
+      "votes": "2160"
+    },
+    {
+      "acronym": "BE",
+      "mandates": "0",
+      "percentage": "0.84",
+      "votes": "695"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "0.65",
+      "votes": "537"
+    },
+    {
+      "acronym": "MPT",
+      "mandates": "0",
+      "percentage": "0.38",
+      "votes": "314"
+    },
+    {
+      "acronym": "PSN",
+      "mandates": "0",
+      "percentage": "0.29",
+      "votes": "240"
+    }
+  ]
+}

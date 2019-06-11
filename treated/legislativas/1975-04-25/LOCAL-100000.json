@@ -1,0 +1,68 @@
+{
+  "territoryName": "Leiria",
+  "territoryKeyOld": "100000",
+  "territoryKey": "LOCAL-100000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "PPD",
+      "mandates": "5",
+      "percentage": "35.57",
+      "votes": "85924"
+    },
+    {
+      "acronym": "PS",
+      "mandates": "5",
+      "percentage": "33.19",
+      "votes": "80180"
+    },
+    {
+      "acronym": "CDS",
+      "mandates": "1",
+      "percentage": "6.76",
+      "votes": "16322"
+    },
+    {
+      "acronym": "PCP",
+      "mandates": "0",
+      "percentage": "6.43",
+      "votes": "15525"
+    },
+    {
+      "acronym": "MDP",
+      "mandates": "0",
+      "percentage": "3.4",
+      "votes": "8225"
+    },
+    {
+      "acronym": "FSP",
+      "mandates": "0",
+      "percentage": "1.25",
+      "votes": "3021"
+    },
+    {
+      "acronym": "MES",
+      "mandates": "0",
+      "percentage": "1.14",
+      "votes": "2763"
+    },
+    {
+      "acronym": "UDP",
+      "mandates": "0",
+      "percentage": "1.07",
+      "votes": "2588"
+    },
+    {
+      "acronym": "FEC",
+      "mandates": "0",
+      "percentage": "0.78",
+      "votes": "1896"
+    },
+    {
+      "acronym": "LCI",
+      "mandates": "0",
+      "percentage": "0.41",
+      "votes": "979"
+    }
+  ]
+}

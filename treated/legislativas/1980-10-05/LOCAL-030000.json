@@ -1,0 +1,68 @@
+{
+  "territoryName": "Braga",
+  "territoryKeyOld": "30000",
+  "territoryKey": "LOCAL-030000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "AD",
+      "mandates": "9",
+      "percentage": "54.87",
+      "votes": "212676"
+    },
+    {
+      "acronym": "FRS",
+      "mandates": "5",
+      "percentage": "29.32",
+      "votes": "113648"
+    },
+    {
+      "acronym": "APU",
+      "mandates": "1",
+      "percentage": "8.37",
+      "votes": "32449"
+    },
+    {
+      "acronym": "POUS/PST",
+      "mandates": "0",
+      "percentage": "1.86",
+      "votes": "7212"
+    },
+    {
+      "acronym": "PSR",
+      "mandates": "0",
+      "percentage": "1.12",
+      "votes": "4360"
+    },
+    {
+      "acronym": "UDP",
+      "mandates": "0",
+      "percentage": "0.86",
+      "votes": "3346"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "0.51",
+      "votes": "1977"
+    },
+    {
+      "acronym": "PT",
+      "mandates": "0",
+      "percentage": "0.49",
+      "votes": "1912"
+    },
+    {
+      "acronym": "PDC/MIRN-PDP/FN",
+      "mandates": "0",
+      "percentage": "0.25",
+      "votes": "964"
+    },
+    {
+      "acronym": "OCMLP",
+      "mandates": "0",
+      "percentage": "0.24",
+      "votes": "935"
+    }
+  ]
+}

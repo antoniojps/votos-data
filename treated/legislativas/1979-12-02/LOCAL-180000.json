@@ -1,0 +1,62 @@
+{
+  "territoryName": "Viseu",
+  "territoryKeyOld": "180000",
+  "territoryKey": "LOCAL-180000",
+  "type": "ARI",
+  "resultsParty": [
+    {
+      "acronym": "AD",
+      "mandates": "8",
+      "percentage": "64.14",
+      "votes": "156445"
+    },
+    {
+      "acronym": "PS",
+      "mandates": "2",
+      "percentage": "21.39",
+      "votes": "52183"
+    },
+    {
+      "acronym": "APU",
+      "mandates": "0",
+      "percentage": "5.52",
+      "votes": "13464"
+    },
+    {
+      "acronym": "PDC",
+      "mandates": "0",
+      "percentage": "1.65",
+      "votes": "4032"
+    },
+    {
+      "acronym": "UDP",
+      "mandates": "0",
+      "percentage": "1.38",
+      "votes": "3373"
+    },
+    {
+      "acronym": "PSR",
+      "mandates": "0",
+      "percentage": "1.07",
+      "votes": "2607"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "0.66",
+      "votes": "1613"
+    },
+    {
+      "acronym": "UEDS",
+      "mandates": "0",
+      "percentage": "0.41",
+      "votes": "999"
+    },
+    {
+      "acronym": "OCMLP",
+      "mandates": "0",
+      "percentage": "0.22",
+      "votes": "544"
+    }
+  ]
+}

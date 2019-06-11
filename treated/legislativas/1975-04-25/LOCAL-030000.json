@@ -1,0 +1,68 @@
+{
+  "territoryName": "Braga",
+  "territoryKeyOld": "30000",
+  "territoryKey": "LOCAL-030000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "PPD",
+      "mandates": "7",
+      "percentage": "37.7",
+      "votes": "127173"
+    },
+    {
+      "acronym": "PS",
+      "mandates": "5",
+      "percentage": "27.42",
+      "votes": "92481"
+    },
+    {
+      "acronym": "CDS",
+      "mandates": "3",
+      "percentage": "18.01",
+      "votes": "60754"
+    },
+    {
+      "acronym": "PCP",
+      "mandates": "0",
+      "percentage": "3.71",
+      "votes": "12508"
+    },
+    {
+      "acronym": "MDP",
+      "mandates": "0",
+      "percentage": "2.91",
+      "votes": "9829"
+    },
+    {
+      "acronym": "PUP",
+      "mandates": "0",
+      "percentage": "0.86",
+      "votes": "2889"
+    },
+    {
+      "acronym": "MES",
+      "mandates": "0",
+      "percentage": "0.82",
+      "votes": "2779"
+    },
+    {
+      "acronym": "FSP",
+      "mandates": "0",
+      "percentage": "0.79",
+      "votes": "2654"
+    },
+    {
+      "acronym": "FEC",
+      "mandates": "0",
+      "percentage": "0.76",
+      "votes": "2557"
+    },
+    {
+      "acronym": "PPM",
+      "mandates": "0",
+      "percentage": "0.75",
+      "votes": "2530"
+    }
+  ]
+}

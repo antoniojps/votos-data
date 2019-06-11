@@ -1,0 +1,92 @@
+{
+  "territoryName": "Lisboa",
+  "territoryKeyOld": "110000",
+  "territoryKey": "LOCAL-110000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "PS",
+      "mandates": "25",
+      "percentage": "38.3",
+      "votes": "458713"
+    },
+    {
+      "acronym": "PCP",
+      "mandates": "14",
+      "percentage": "21.75",
+      "votes": "260554"
+    },
+    {
+      "acronym": "PPD",
+      "mandates": "10",
+      "percentage": "16.37",
+      "votes": "196031"
+    },
+    {
+      "acronym": "CDS",
+      "mandates": "8",
+      "percentage": "13.15",
+      "votes": "157554"
+    },
+    {
+      "acronym": "UDP",
+      "mandates": "1",
+      "percentage": "2.62",
+      "votes": "31409"
+    },
+    {
+      "acronym": "MRPP",
+      "mandates": "0",
+      "percentage": "1.2",
+      "votes": "14372"
+    },
+    {
+      "acronym": "FSP",
+      "mandates": "0",
+      "percentage": "0.68",
+      "votes": "8192"
+    },
+    {
+      "acronym": "MES",
+      "mandates": "0",
+      "percentage": "0.66",
+      "votes": "7964"
+    },
+    {
+      "acronym": "PCP (M-L)",
+      "mandates": "0",
+      "percentage": "0.44",
+      "votes": "5289"
+    },
+    {
+      "acronym": "PPM",
+      "mandates": "0",
+      "percentage": "0.41",
+      "votes": "4902"
+    },
+    {
+      "acronym": "PDC",
+      "mandates": "0",
+      "percentage": "0.36",
+      "votes": "4348"
+    },
+    {
+      "acronym": "LCI",
+      "mandates": "0",
+      "percentage": "0.24",
+      "votes": "2865"
+    },
+    {
+      "acronym": "AOC",
+      "mandates": "0",
+      "percentage": "0.24",
+      "votes": "2832"
+    },
+    {
+      "acronym": "PRT",
+      "mandates": "0",
+      "percentage": "0.13",
+      "votes": "1580"
+    }
+  ]
+}

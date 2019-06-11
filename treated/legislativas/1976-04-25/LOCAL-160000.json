@@ -1,0 +1,86 @@
+{
+  "territoryName": "Viana do Castelo",
+  "territoryKeyOld": "160000",
+  "territoryKey": "LOCAL-160000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "PPD",
+      "mandates": "3",
+      "percentage": "32.77",
+      "votes": "42519"
+    },
+    {
+      "acronym": "PS",
+      "mandates": "2",
+      "percentage": "25.51",
+      "votes": "33094"
+    },
+    {
+      "acronym": "CDS",
+      "mandates": "2",
+      "percentage": "23.46",
+      "votes": "30437"
+    },
+    {
+      "acronym": "PCP",
+      "mandates": "0",
+      "percentage": "6.64",
+      "votes": "8611"
+    },
+    {
+      "acronym": "FSP",
+      "mandates": "0",
+      "percentage": "1.01",
+      "votes": "1314"
+    },
+    {
+      "acronym": "PDC",
+      "mandates": "0",
+      "percentage": "0.92",
+      "votes": "1192"
+    },
+    {
+      "acronym": "UDP",
+      "mandates": "0",
+      "percentage": "0.86",
+      "votes": "1110"
+    },
+    {
+      "acronym": "PPM",
+      "mandates": "0",
+      "percentage": "0.77",
+      "votes": "995"
+    },
+    {
+      "acronym": "MES",
+      "mandates": "0",
+      "percentage": "0.68",
+      "votes": "881"
+    },
+    {
+      "acronym": "LCI",
+      "mandates": "0",
+      "percentage": "0.45",
+      "votes": "583"
+    },
+    {
+      "acronym": "MRPP",
+      "mandates": "0",
+      "percentage": "0.31",
+      "votes": "399"
+    },
+    {
+      "acronym": "AOC",
+      "mandates": "0",
+      "percentage": "0.29",
+      "votes": "380"
+    },
+    {
+      "acronym": "PCP (M-L)",
+      "mandates": "0",
+      "percentage": "0.24",
+      "votes": "314"
+    }
+  ]
+}

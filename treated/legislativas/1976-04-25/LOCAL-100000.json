@@ -1,0 +1,86 @@
+{
+  "territoryName": "Leiria",
+  "territoryKeyOld": "100000",
+  "territoryKey": "LOCAL-100000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "PPD",
+      "mandates": "4",
+      "percentage": "31.18",
+      "votes": "69457"
+    },
+    {
+      "acronym": "PS",
+      "mandates": "4",
+      "percentage": "31.08",
+      "votes": "69236"
+    },
+    {
+      "acronym": "CDS",
+      "mandates": "2",
+      "percentage": "19.4",
+      "votes": "43213"
+    },
+    {
+      "acronym": "PCP",
+      "mandates": "1",
+      "percentage": "7.28",
+      "votes": "16226"
+    },
+    {
+      "acronym": "UDP",
+      "mandates": "0",
+      "percentage": "0.96",
+      "votes": "2136"
+    },
+    {
+      "acronym": "FSP",
+      "mandates": "0",
+      "percentage": "0.94",
+      "votes": "2094"
+    },
+    {
+      "acronym": "PPM",
+      "mandates": "0",
+      "percentage": "0.73",
+      "votes": "1633"
+    },
+    {
+      "acronym": "PDC",
+      "mandates": "0",
+      "percentage": "0.65",
+      "votes": "1448"
+    },
+    {
+      "acronym": "MRPP",
+      "mandates": "0",
+      "percentage": "0.52",
+      "votes": "1169"
+    },
+    {
+      "acronym": "MES",
+      "mandates": "0",
+      "percentage": "0.45",
+      "votes": "1009"
+    },
+    {
+      "acronym": "LCI",
+      "mandates": "0",
+      "percentage": "0.37",
+      "votes": "814"
+    },
+    {
+      "acronym": "AOC",
+      "mandates": "0",
+      "percentage": "0.23",
+      "votes": "514"
+    },
+    {
+      "acronym": "PCP (M-L)",
+      "mandates": "0",
+      "percentage": "0.18",
+      "votes": "399"
+    }
+  ]
+}

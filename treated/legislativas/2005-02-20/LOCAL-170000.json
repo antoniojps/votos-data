@@ -1,0 +1,68 @@
+{
+  "territoryName": "Vila Real",
+  "territoryKeyOld": "170000",
+  "territoryKey": "LOCAL-170000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "PS",
+      "mandates": "3",
+      "percentage": "43.81",
+      "votes": "55123"
+    },
+    {
+      "acronym": "PPD/PSD",
+      "mandates": "2",
+      "percentage": "40.17",
+      "votes": "50545"
+    },
+    {
+      "acronym": "CDS-PP",
+      "mandates": "0",
+      "percentage": "6.76",
+      "votes": "8509"
+    },
+    {
+      "acronym": "CDU",
+      "mandates": "0",
+      "percentage": "2.6",
+      "votes": "3275"
+    },
+    {
+      "acronym": "BE",
+      "mandates": "0",
+      "percentage": "2.4",
+      "votes": "3019"
+    },
+    {
+      "acronym": "PND",
+      "mandates": "0",
+      "percentage": "0.5",
+      "votes": "631"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "0.45",
+      "votes": "562"
+    },
+    {
+      "acronym": "PH",
+      "mandates": "0",
+      "percentage": "0.4",
+      "votes": "507"
+    },
+    {
+      "acronym": "PNR",
+      "mandates": "0",
+      "percentage": "0.16",
+      "votes": "207"
+    },
+    {
+      "acronym": "PDA",
+      "mandates": "0",
+      "percentage": "0.13",
+      "votes": "164"
+    }
+  ]
+}

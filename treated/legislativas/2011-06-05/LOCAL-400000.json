@@ -1,0 +1,110 @@
+{
+  "territoryName": "Açores",
+  "territoryKeyOld": "210001",
+  "territoryKey": "LOCAL-400000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "PPD/PSD",
+      "mandates": "3",
+      "percentage": "47.21",
+      "votes": "42622"
+    },
+    {
+      "acronym": "PS",
+      "mandates": "2",
+      "percentage": "25.69",
+      "votes": "23189"
+    },
+    {
+      "acronym": "CDS-PP",
+      "mandates": "0",
+      "percentage": "12.07",
+      "votes": "10896"
+    },
+    {
+      "acronym": "BE",
+      "mandates": "0",
+      "percentage": "4.39",
+      "votes": "3965"
+    },
+    {
+      "acronym": "CDU",
+      "mandates": "0",
+      "percentage": "2.53",
+      "votes": "2288"
+    },
+    {
+      "acronym": "PAN",
+      "mandates": "0",
+      "percentage": "0.84",
+      "votes": "756"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "0.74",
+      "votes": "669"
+    },
+    {
+      "acronym": "PDA",
+      "mandates": "0",
+      "percentage": "0.43",
+      "votes": "389"
+    },
+    {
+      "acronym": "MPT",
+      "mandates": "0",
+      "percentage": "0.35",
+      "votes": "314"
+    },
+    {
+      "acronym": "PTP",
+      "mandates": "0",
+      "percentage": "0.32",
+      "votes": "293"
+    },
+    {
+      "acronym": "PPM",
+      "mandates": "0",
+      "percentage": "0.3",
+      "votes": "271"
+    },
+    {
+      "acronym": "MEP",
+      "mandates": "0",
+      "percentage": "0.28",
+      "votes": "257"
+    },
+    {
+      "acronym": "PNR",
+      "mandates": "0",
+      "percentage": "0.24",
+      "votes": "219"
+    },
+    {
+      "acronym": "PND",
+      "mandates": "0",
+      "percentage": "0",
+      "votes": "0"
+    },
+    {
+      "acronym": "PH",
+      "mandates": "0",
+      "percentage": "0",
+      "votes": "0"
+    },
+    {
+      "acronym": "POUS",
+      "mandates": "0",
+      "percentage": "0",
+      "votes": "0"
+    },
+    {
+      "acronym": "PPV",
+      "mandates": "0",
+      "percentage": "0",
+      "votes": "0"
+    }
+  ]
+}

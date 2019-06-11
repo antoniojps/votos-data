@@ -1,0 +1,80 @@
+{
+  "territoryName": "Beja",
+  "territoryKeyOld": "20000",
+  "territoryKey": "LOCAL-020000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "CDU",
+      "mandates": "3",
+      "percentage": "38.66",
+      "votes": "39592"
+    },
+    {
+      "acronym": "PPD/PSD",
+      "mandates": "1",
+      "percentage": "24.53",
+      "votes": "25121"
+    },
+    {
+      "acronym": "PS",
+      "mandates": "1",
+      "percentage": "20.26",
+      "votes": "20742"
+    },
+    {
+      "acronym": "PRD",
+      "mandates": "0",
+      "percentage": "5.73",
+      "votes": "5868"
+    },
+    {
+      "acronym": "CDS",
+      "mandates": "0",
+      "percentage": "1.96",
+      "votes": "2011"
+    },
+    {
+      "acronym": "PSR",
+      "mandates": "0",
+      "percentage": "1.08",
+      "votes": "1101"
+    },
+    {
+      "acronym": "UDP",
+      "mandates": "0",
+      "percentage": "1.07",
+      "votes": "1098"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "1",
+      "votes": "1024"
+    },
+    {
+      "acronym": "MDP/CDE",
+      "mandates": "0",
+      "percentage": "0.89",
+      "votes": "914"
+    },
+    {
+      "acronym": "PC(R)",
+      "mandates": "0",
+      "percentage": "0.7",
+      "votes": "714"
+    },
+    {
+      "acronym": "PDC",
+      "mandates": "0",
+      "percentage": "0.67",
+      "votes": "691"
+    },
+    {
+      "acronym": "PPM",
+      "mandates": "0",
+      "percentage": "0.38",
+      "votes": "392"
+    }
+  ]
+}

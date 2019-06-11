@@ -1,0 +1,97 @@
+{
+  "territoryName": "Porto",
+  "territoryKeyOld": "130000",
+  "territoryKey": "LOCAL-130000",
+  "resultsParty": [
+    {
+      "acronym": "PPD/PSD.CDS-PP",
+      "mandates": "17",
+      "percentage": "39.59",
+      "votes": "380043"
+    },
+    {
+      "acronym": "PS",
+      "mandates": "14",
+      "percentage": "32.72",
+      "votes": "314084"
+    },
+    {
+      "acronym": "B.E.",
+      "mandates": "5",
+      "percentage": "11.14",
+      "votes": "106954"
+    },
+    {
+      "acronym": "PCP-PEV",
+      "mandates": "3",
+      "percentage": "6.83",
+      "votes": "65560"
+    },
+    {
+      "acronym": "PAN",
+      "mandates": "0",
+      "percentage": "1.59",
+      "votes": "15295"
+    },
+    {
+      "acronym": "PDR",
+      "mandates": "0",
+      "percentage": "1.11",
+      "votes": "10702"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "1.07",
+      "votes": "10290"
+    },
+    {
+      "acronym": "L/TDA",
+      "mandates": "0",
+      "percentage": "0.52",
+      "votes": "5014"
+    },
+    {
+      "acronym": "PNR",
+      "mandates": "0",
+      "percentage": "0.49",
+      "votes": "4750"
+    },
+    {
+      "acronym": "MPT",
+      "mandates": "0",
+      "percentage": "0.36",
+      "votes": "3449"
+    },
+    {
+      "acronym": "NC",
+      "mandates": "0",
+      "percentage": "0.29",
+      "votes": "2773"
+    },
+    {
+      "acronym": "PTP-MAS",
+      "mandates": "0",
+      "percentage": "0.29",
+      "votes": "2788"
+    },
+    {
+      "acronym": "PPM",
+      "mandates": "0",
+      "percentage": "0.25",
+      "votes": "2392"
+    },
+    {
+      "acronym": "PURP",
+      "mandates": "0",
+      "percentage": "0.17",
+      "votes": "1611"
+    },
+    {
+      "acronym": "JPP",
+      "mandates": "0",
+      "percentage": "0.13",
+      "votes": "1239"
+    }
+  ]
+}

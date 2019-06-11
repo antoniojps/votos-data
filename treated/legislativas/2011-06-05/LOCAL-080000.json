@@ -1,0 +1,110 @@
+{
+  "territoryName": "Faro",
+  "territoryKeyOld": "80000",
+  "territoryKey": "LOCAL-080000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "PPD/PSD",
+      "mandates": "4",
+      "percentage": "37.03",
+      "votes": "74304"
+    },
+    {
+      "acronym": "PS",
+      "mandates": "2",
+      "percentage": "22.97",
+      "votes": "46082"
+    },
+    {
+      "acronym": "CDS-PP",
+      "mandates": "1",
+      "percentage": "12.68",
+      "votes": "25441"
+    },
+    {
+      "acronym": "CDU",
+      "mandates": "1",
+      "percentage": "8.6",
+      "votes": "17255"
+    },
+    {
+      "acronym": "BE",
+      "mandates": "1",
+      "percentage": "8.15",
+      "votes": "16347"
+    },
+    {
+      "acronym": "PAN",
+      "mandates": "0",
+      "percentage": "1.64",
+      "votes": "3285"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "1.58",
+      "votes": "3160"
+    },
+    {
+      "acronym": "MPT",
+      "mandates": "0",
+      "percentage": "1.03",
+      "votes": "2076"
+    },
+    {
+      "acronym": "MEP",
+      "mandates": "0",
+      "percentage": "0.54",
+      "votes": "1083"
+    },
+    {
+      "acronym": "PNR",
+      "mandates": "0",
+      "percentage": "0.53",
+      "votes": "1069"
+    },
+    {
+      "acronym": "PPM",
+      "mandates": "0",
+      "percentage": "0.35",
+      "votes": "700"
+    },
+    {
+      "acronym": "PPV",
+      "mandates": "0",
+      "percentage": "0.32",
+      "votes": "640"
+    },
+    {
+      "acronym": "POUS",
+      "mandates": "0",
+      "percentage": "0.13",
+      "votes": "263"
+    },
+    {
+      "acronym": "PND",
+      "mandates": "0",
+      "percentage": "0",
+      "votes": "0"
+    },
+    {
+      "acronym": "PDA",
+      "mandates": "0",
+      "percentage": "0",
+      "votes": "0"
+    },
+    {
+      "acronym": "PH",
+      "mandates": "0",
+      "percentage": "0",
+      "votes": "0"
+    },
+    {
+      "acronym": "PTP",
+      "mandates": "0",
+      "percentage": "0",
+      "votes": "0"
+    }
+  ]
+}

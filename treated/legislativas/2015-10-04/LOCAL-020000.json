@@ -1,0 +1,97 @@
+{
+  "territoryName": "Beja",
+  "territoryKeyOld": "20000",
+  "territoryKey": "LOCAL-020000",
+  "resultsParty": [
+    {
+      "acronym": "PS",
+      "mandates": "1",
+      "percentage": "37.29",
+      "votes": "27775"
+    },
+    {
+      "acronym": "PCP-PEV",
+      "mandates": "1",
+      "percentage": "24.96",
+      "votes": "18592"
+    },
+    {
+      "acronym": "PPD/PSD.CDS-PP",
+      "mandates": "1",
+      "percentage": "20.11",
+      "votes": "14980"
+    },
+    {
+      "acronym": "B.E.",
+      "mandates": "0",
+      "percentage": "8.2",
+      "votes": "6105"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "2.61",
+      "votes": "1945"
+    },
+    {
+      "acronym": "PAN",
+      "mandates": "0",
+      "percentage": "0.82",
+      "votes": "608"
+    },
+    {
+      "acronym": "PDR",
+      "mandates": "0",
+      "percentage": "0.47",
+      "votes": "351"
+    },
+    {
+      "acronym": "PURP",
+      "mandates": "0",
+      "percentage": "0.46",
+      "votes": "340"
+    },
+    {
+      "acronym": "PNR",
+      "mandates": "0",
+      "percentage": "0.37",
+      "votes": "275"
+    },
+    {
+      "acronym": "L/TDA",
+      "mandates": "0",
+      "percentage": "0.36",
+      "votes": "271"
+    },
+    {
+      "acronym": "MPT",
+      "mandates": "0",
+      "percentage": "0.33",
+      "votes": "248"
+    },
+    {
+      "acronym": "PPM",
+      "mandates": "0",
+      "percentage": "0.26",
+      "votes": "192"
+    },
+    {
+      "acronym": "PTP-MAS",
+      "mandates": "0",
+      "percentage": "0.26",
+      "votes": "193"
+    },
+    {
+      "acronym": "NC",
+      "mandates": "0",
+      "percentage": "0.21",
+      "votes": "160"
+    },
+    {
+      "acronym": "JPP",
+      "mandates": "0",
+      "percentage": "0.12",
+      "votes": "88"
+    }
+  ]
+}

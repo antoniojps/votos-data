@@ -1,0 +1,110 @@
+{
+  "territoryName": "Évora",
+  "territoryKeyOld": "70000",
+  "territoryKey": "LOCAL-070000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "PS",
+      "mandates": "1",
+      "percentage": "29.04",
+      "votes": "25010"
+    },
+    {
+      "acronym": "PPD/PSD",
+      "mandates": "1",
+      "percentage": "27.57",
+      "votes": "23747"
+    },
+    {
+      "acronym": "CDU",
+      "mandates": "1",
+      "percentage": "22.02",
+      "votes": "18967"
+    },
+    {
+      "acronym": "CDS-PP",
+      "mandates": "0",
+      "percentage": "8.72",
+      "votes": "7513"
+    },
+    {
+      "acronym": "BE",
+      "mandates": "0",
+      "percentage": "4.91",
+      "votes": "4225"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "2.1",
+      "votes": "1810"
+    },
+    {
+      "acronym": "PAN",
+      "mandates": "0",
+      "percentage": "0.75",
+      "votes": "649"
+    },
+    {
+      "acronym": "MEP",
+      "mandates": "0",
+      "percentage": "0.3",
+      "votes": "259"
+    },
+    {
+      "acronym": "MPT",
+      "mandates": "0",
+      "percentage": "0.28",
+      "votes": "237"
+    },
+    {
+      "acronym": "PTP",
+      "mandates": "0",
+      "percentage": "0.25",
+      "votes": "216"
+    },
+    {
+      "acronym": "PPM",
+      "mandates": "0",
+      "percentage": "0.24",
+      "votes": "207"
+    },
+    {
+      "acronym": "PNR",
+      "mandates": "0",
+      "percentage": "0.2",
+      "votes": "168"
+    },
+    {
+      "acronym": "PPV",
+      "mandates": "0",
+      "percentage": "0.18",
+      "votes": "153"
+    },
+    {
+      "acronym": "PH",
+      "mandates": "0",
+      "percentage": "0.11",
+      "votes": "91"
+    },
+    {
+      "acronym": "PND",
+      "mandates": "0",
+      "percentage": "0",
+      "votes": "0"
+    },
+    {
+      "acronym": "PDA",
+      "mandates": "0",
+      "percentage": "0",
+      "votes": "0"
+    },
+    {
+      "acronym": "POUS",
+      "mandates": "0",
+      "percentage": "0",
+      "votes": "0"
+    }
+  ]
+}

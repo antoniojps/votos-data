@@ -1,0 +1,68 @@
+{
+  "territoryName": "Viana do Castelo",
+  "territoryKeyOld": "160000",
+  "territoryKey": "LOCAL-160000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "AD",
+      "mandates": "5",
+      "percentage": "59.21",
+      "votes": "86186"
+    },
+    {
+      "acronym": "FRS",
+      "mandates": "1",
+      "percentage": "22.84",
+      "votes": "33245"
+    },
+    {
+      "acronym": "APU",
+      "mandates": "0",
+      "percentage": "9.99",
+      "votes": "14548"
+    },
+    {
+      "acronym": "POUS/PST",
+      "mandates": "0",
+      "percentage": "1.5",
+      "votes": "2187"
+    },
+    {
+      "acronym": "PT",
+      "mandates": "0",
+      "percentage": "0.93",
+      "votes": "1351"
+    },
+    {
+      "acronym": "UDP",
+      "mandates": "0",
+      "percentage": "0.68",
+      "votes": "996"
+    },
+    {
+      "acronym": "OCMLP",
+      "mandates": "0",
+      "percentage": "0.63",
+      "votes": "924"
+    },
+    {
+      "acronym": "PDC/MIRN-PDP/FN",
+      "mandates": "0",
+      "percentage": "0.62",
+      "votes": "902"
+    },
+    {
+      "acronym": "PSR",
+      "mandates": "0",
+      "percentage": "0.48",
+      "votes": "693"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "0.43",
+      "votes": "623"
+    }
+  ]
+}

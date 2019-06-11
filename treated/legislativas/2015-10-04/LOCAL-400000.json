@@ -1,0 +1,91 @@
+{
+  "territoryName": "Açores",
+  "territoryKeyOld": "210001",
+  "territoryKey": "LOCAL-400000",
+  "resultsParty": [
+    {
+      "acronym": "PS",
+      "mandates": "3",
+      "percentage": "40.37",
+      "votes": "37869"
+    },
+    {
+      "acronym": "PPD/PSD",
+      "mandates": "2",
+      "percentage": "36.06",
+      "votes": "33826"
+    },
+    {
+      "acronym": "B.E.",
+      "mandates": "0",
+      "percentage": "7.81",
+      "votes": "7330"
+    },
+    {
+      "acronym": "CDS-PP.PPM",
+      "mandates": "0",
+      "percentage": "3.9",
+      "votes": "3654"
+    },
+    {
+      "acronym": "PCP-PEV",
+      "mandates": "0",
+      "percentage": "2.47",
+      "votes": "2320"
+    },
+    {
+      "acronym": "PAN",
+      "mandates": "0",
+      "percentage": "0.87",
+      "votes": "815"
+    },
+    {
+      "acronym": "NC",
+      "mandates": "0",
+      "percentage": "0.82",
+      "votes": "766"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "0.64",
+      "votes": "601"
+    },
+    {
+      "acronym": "PDR",
+      "mandates": "0",
+      "percentage": "0.54",
+      "votes": "511"
+    },
+    {
+      "acronym": "PURP",
+      "mandates": "0",
+      "percentage": "0.37",
+      "votes": "346"
+    },
+    {
+      "acronym": "L/TDA",
+      "mandates": "0",
+      "percentage": "0.35",
+      "votes": "332"
+    },
+    {
+      "acronym": "PTP-MAS",
+      "mandates": "0",
+      "percentage": "0.34",
+      "votes": "319"
+    },
+    {
+      "acronym": "MPT",
+      "mandates": "0",
+      "percentage": "0.32",
+      "votes": "299"
+    },
+    {
+      "acronym": "PNR",
+      "mandates": "0",
+      "percentage": "0.2",
+      "votes": "185"
+    }
+  ]
+}

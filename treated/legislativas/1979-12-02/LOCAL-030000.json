@@ -1,0 +1,56 @@
+{
+  "territoryName": "Braga",
+  "territoryKeyOld": "30000",
+  "territoryKey": "LOCAL-030000",
+  "type": "ARI",
+  "resultsParty": [
+    {
+      "acronym": "AD",
+      "mandates": "9",
+      "percentage": "51.85",
+      "votes": "197250"
+    },
+    {
+      "acronym": "PS",
+      "mandates": "5",
+      "percentage": "30.2",
+      "votes": "114886"
+    },
+    {
+      "acronym": "APU",
+      "mandates": "1",
+      "percentage": "10",
+      "votes": "38051"
+    },
+    {
+      "acronym": "PDC",
+      "mandates": "0",
+      "percentage": "1.54",
+      "votes": "5867"
+    },
+    {
+      "acronym": "UDP",
+      "mandates": "0",
+      "percentage": "1.44",
+      "votes": "5482"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "1.01",
+      "votes": "3856"
+    },
+    {
+      "acronym": "UEDS",
+      "mandates": "0",
+      "percentage": "0.78",
+      "votes": "2955"
+    },
+    {
+      "acronym": "PSR",
+      "mandates": "0",
+      "percentage": "0.59",
+      "votes": "2235"
+    }
+  ]
+}

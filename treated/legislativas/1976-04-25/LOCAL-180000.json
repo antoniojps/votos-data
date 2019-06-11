@@ -1,0 +1,86 @@
+{
+  "territoryName": "Viseu",
+  "territoryKeyOld": "180000",
+  "territoryKey": "LOCAL-180000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "PPD",
+      "mandates": "4",
+      "percentage": "32.22",
+      "votes": "70159"
+    },
+    {
+      "acronym": "CDS",
+      "mandates": "4",
+      "percentage": "31.16",
+      "votes": "67864"
+    },
+    {
+      "acronym": "PS",
+      "mandates": "3",
+      "percentage": "22.97",
+      "votes": "50033"
+    },
+    {
+      "acronym": "PCP",
+      "mandates": "0",
+      "percentage": "2.27",
+      "votes": "4954"
+    },
+    {
+      "acronym": "PDC",
+      "mandates": "0",
+      "percentage": "1.08",
+      "votes": "2342"
+    },
+    {
+      "acronym": "PPM",
+      "mandates": "0",
+      "percentage": "0.96",
+      "votes": "2093"
+    },
+    {
+      "acronym": "UDP",
+      "mandates": "0",
+      "percentage": "0.93",
+      "votes": "2026"
+    },
+    {
+      "acronym": "FSP",
+      "mandates": "0",
+      "percentage": "0.55",
+      "votes": "1194"
+    },
+    {
+      "acronym": "MES",
+      "mandates": "0",
+      "percentage": "0.47",
+      "votes": "1034"
+    },
+    {
+      "acronym": "MRPP",
+      "mandates": "0",
+      "percentage": "0.37",
+      "votes": "815"
+    },
+    {
+      "acronym": "AOC",
+      "mandates": "0",
+      "percentage": "0.36",
+      "votes": "792"
+    },
+    {
+      "acronym": "PCP (M-L)",
+      "mandates": "0",
+      "percentage": "0.32",
+      "votes": "688"
+    },
+    {
+      "acronym": "LCI",
+      "mandates": "0",
+      "percentage": "0.25",
+      "votes": "554"
+    }
+  ]
+}

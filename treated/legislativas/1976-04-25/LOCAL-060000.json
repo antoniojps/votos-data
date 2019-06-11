@@ -1,0 +1,92 @@
+{
+  "territoryName": "Coimbra",
+  "territoryKeyOld": "60000",
+  "territoryKey": "LOCAL-060000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "PS",
+      "mandates": "6",
+      "percentage": "40.89",
+      "votes": "98162"
+    },
+    {
+      "acronym": "PPD",
+      "mandates": "4",
+      "percentage": "26.72",
+      "votes": "64162"
+    },
+    {
+      "acronym": "CDS",
+      "mandates": "1",
+      "percentage": "12.48",
+      "votes": "29967"
+    },
+    {
+      "acronym": "PCP",
+      "mandates": "1",
+      "percentage": "7.25",
+      "votes": "17405"
+    },
+    {
+      "acronym": "UDP",
+      "mandates": "0",
+      "percentage": "1.15",
+      "votes": "2771"
+    },
+    {
+      "acronym": "FSP",
+      "mandates": "0",
+      "percentage": "0.72",
+      "votes": "1718"
+    },
+    {
+      "acronym": "PDC",
+      "mandates": "0",
+      "percentage": "0.7",
+      "votes": "1671"
+    },
+    {
+      "acronym": "PRT",
+      "mandates": "0",
+      "percentage": "0.66",
+      "votes": "1584"
+    },
+    {
+      "acronym": "MRPP",
+      "mandates": "0",
+      "percentage": "0.6",
+      "votes": "1430"
+    },
+    {
+      "acronym": "PPM",
+      "mandates": "0",
+      "percentage": "0.56",
+      "votes": "1356"
+    },
+    {
+      "acronym": "LCI",
+      "mandates": "0",
+      "percentage": "0.48",
+      "votes": "1159"
+    },
+    {
+      "acronym": "MES",
+      "mandates": "0",
+      "percentage": "0.45",
+      "votes": "1090"
+    },
+    {
+      "acronym": "AOC",
+      "mandates": "0",
+      "percentage": "0.44",
+      "votes": "1066"
+    },
+    {
+      "acronym": "PCP (M-L)",
+      "mandates": "0",
+      "percentage": "0.21",
+      "votes": "498"
+    }
+  ]
+}

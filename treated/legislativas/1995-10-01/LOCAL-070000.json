@@ -1,0 +1,56 @@
+{
+  "territoryName": "Évora",
+  "territoryKeyOld": "70000",
+  "territoryKey": "LOCAL-070000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "PS",
+      "mandates": "2",
+      "percentage": "42.57",
+      "votes": "44488"
+    },
+    {
+      "acronym": "CDU",
+      "mandates": "1",
+      "percentage": "26.9",
+      "votes": "28106"
+    },
+    {
+      "acronym": "PPD/PSD",
+      "mandates": "1",
+      "percentage": "20.18",
+      "votes": "21091"
+    },
+    {
+      "acronym": "CDS-PP",
+      "mandates": "0",
+      "percentage": "5.22",
+      "votes": "5453"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "1.91",
+      "votes": "2000"
+    },
+    {
+      "acronym": "UDP",
+      "mandates": "0",
+      "percentage": "0.76",
+      "votes": "789"
+    },
+    {
+      "acronym": "PSR",
+      "mandates": "0",
+      "percentage": "0.45",
+      "votes": "470"
+    },
+    {
+      "acronym": "PPM/MPT",
+      "mandates": "0",
+      "percentage": "0.35",
+      "votes": "367"
+    }
+  ]
+}

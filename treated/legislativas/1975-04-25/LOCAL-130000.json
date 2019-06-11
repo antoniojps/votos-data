@@ -1,0 +1,80 @@
+{
+  "territoryName": "Porto",
+  "territoryKeyOld": "130000",
+  "territoryKey": "LOCAL-130000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "PS",
+      "mandates": "18",
+      "percentage": "42.55",
+      "votes": "356377"
+    },
+    {
+      "acronym": "PPD",
+      "mandates": "12",
+      "percentage": "29.41",
+      "votes": "246311"
+    },
+    {
+      "acronym": "CDS",
+      "mandates": "3",
+      "percentage": "8.92",
+      "votes": "74685"
+    },
+    {
+      "acronym": "PCP",
+      "mandates": "2",
+      "percentage": "6.66",
+      "votes": "55794"
+    },
+    {
+      "acronym": "MDP",
+      "mandates": "1",
+      "percentage": "2.58",
+      "votes": "21609"
+    },
+    {
+      "acronym": "MES",
+      "mandates": "0",
+      "percentage": "0.99",
+      "votes": "8331"
+    },
+    {
+      "acronym": "FEC",
+      "mandates": "0",
+      "percentage": "0.85",
+      "votes": "7118"
+    },
+    {
+      "acronym": "FSP",
+      "mandates": "0",
+      "percentage": "0.72",
+      "votes": "6017"
+    },
+    {
+      "acronym": "UDP",
+      "mandates": "0",
+      "percentage": "0.63",
+      "votes": "5279"
+    },
+    {
+      "acronym": "LCI",
+      "mandates": "0",
+      "percentage": "0.56",
+      "votes": "4731"
+    },
+    {
+      "acronym": "PPM",
+      "mandates": "0",
+      "percentage": "0.56",
+      "votes": "4710"
+    },
+    {
+      "acronym": "PUP",
+      "mandates": "0",
+      "percentage": "0.37",
+      "votes": "3059"
+    }
+  ]
+}

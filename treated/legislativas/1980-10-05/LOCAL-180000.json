@@ -1,0 +1,62 @@
+{
+  "territoryName": "Viseu",
+  "territoryKeyOld": "180000",
+  "territoryKey": "LOCAL-180000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "AD",
+      "mandates": "8",
+      "percentage": "66.77",
+      "votes": "160593"
+    },
+    {
+      "acronym": "FRS",
+      "mandates": "2",
+      "percentage": "20.9",
+      "votes": "50272"
+    },
+    {
+      "acronym": "APU",
+      "mandates": "0",
+      "percentage": "4.96",
+      "votes": "11936"
+    },
+    {
+      "acronym": "POUS/PST",
+      "mandates": "0",
+      "percentage": "1.37",
+      "votes": "3294"
+    },
+    {
+      "acronym": "UDP",
+      "mandates": "0",
+      "percentage": "0.64",
+      "votes": "1536"
+    },
+    {
+      "acronym": "PSR",
+      "mandates": "0",
+      "percentage": "0.55",
+      "votes": "1315"
+    },
+    {
+      "acronym": "PT",
+      "mandates": "0",
+      "percentage": "0.46",
+      "votes": "1106"
+    },
+    {
+      "acronym": "PDC/MIRN-PDP/FN",
+      "mandates": "0",
+      "percentage": "0.41",
+      "votes": "979"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "0.36",
+      "votes": "861"
+    }
+  ]
+}

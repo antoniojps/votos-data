@@ -1,0 +1,91 @@
+{
+  "territoryName": "Vila Real",
+  "territoryKeyOld": "170000",
+  "territoryKey": "LOCAL-170000",
+  "resultsParty": [
+    {
+      "acronym": "PPD/PSD.CDS-PP",
+      "mandates": "3",
+      "percentage": "51.02",
+      "votes": "56262"
+    },
+    {
+      "acronym": "PS",
+      "mandates": "2",
+      "percentage": "33.06",
+      "votes": "36461"
+    },
+    {
+      "acronym": "B.E.",
+      "mandates": "0",
+      "percentage": "5.18",
+      "votes": "5707"
+    },
+    {
+      "acronym": "PCP-PEV",
+      "mandates": "0",
+      "percentage": "2.95",
+      "votes": "3250"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "0.91",
+      "votes": "1004"
+    },
+    {
+      "acronym": "PDR",
+      "mandates": "0",
+      "percentage": "0.73",
+      "votes": "806"
+    },
+    {
+      "acronym": "PAN",
+      "mandates": "0",
+      "percentage": "0.6",
+      "votes": "667"
+    },
+    {
+      "acronym": "PTP-MAS",
+      "mandates": "0",
+      "percentage": "0.47",
+      "votes": "521"
+    },
+    {
+      "acronym": "L/TDA",
+      "mandates": "0",
+      "percentage": "0.35",
+      "votes": "383"
+    },
+    {
+      "acronym": "PPM",
+      "mandates": "0",
+      "percentage": "0.29",
+      "votes": "316"
+    },
+    {
+      "acronym": "MPT",
+      "mandates": "0",
+      "percentage": "0.28",
+      "votes": "306"
+    },
+    {
+      "acronym": "NC",
+      "mandates": "0",
+      "percentage": "0.25",
+      "votes": "281"
+    },
+    {
+      "acronym": "PNR",
+      "mandates": "0",
+      "percentage": "0.25",
+      "votes": "279"
+    },
+    {
+      "acronym": "PURP",
+      "mandates": "0",
+      "percentage": "0.14",
+      "votes": "151"
+    }
+  ]
+}

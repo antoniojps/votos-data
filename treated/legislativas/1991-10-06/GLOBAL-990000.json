@@ -1,0 +1,80 @@
+{
+  "territoryName": "Resultados Globais",
+  "territoryKeyOld": null,
+  "territoryKey": "GLOBAL-990000",
+  "abstention": "32,22",
+  "resultsParty": [
+    {
+      "acronym": "PPD/PSD",
+      "votes": "2902351",
+      "percentage": "50,60",
+      "mandates": "135"
+    },
+    {
+      "acronym": "PS",
+      "votes": "1670758",
+      "percentage": "29,13",
+      "mandates": "72"
+    },
+    {
+      "acronym": "PCP-PEV",
+      "votes": "504583",
+      "percentage": "8,80",
+      "mandates": "17"
+    },
+    {
+      "acronym": "CDS",
+      "votes": "254317",
+      "percentage": "4,43",
+      "mandates": "5"
+    },
+    {
+      "acronym": "PSN",
+      "votes": "96096",
+      "percentage": "1,68",
+      "mandates": "1"
+    },
+    {
+      "acronym": "PSR",
+      "votes": "64159",
+      "percentage": "1,12",
+      "mandates": "0"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "votes": "48542",
+      "percentage": "0,85",
+      "mandates": "0"
+    },
+    {
+      "acronym": "PRD",
+      "votes": "35077",
+      "percentage": "0,61",
+      "mandates": "0"
+    },
+    {
+      "acronym": "PPM",
+      "votes": "25216",
+      "percentage": "0,44",
+      "mandates": "0"
+    },
+    {
+      "acronym": "PDA",
+      "votes": "10842",
+      "percentage": "0,19",
+      "mandates": "0"
+    },
+    {
+      "acronym": "FER",
+      "votes": "6661",
+      "percentage": "0,12",
+      "mandates": "0"
+    },
+    {
+      "acronym": "UDP",
+      "votes": "6157",
+      "percentage": "0,11",
+      "mandates": "0"
+    }
+  ]
+}

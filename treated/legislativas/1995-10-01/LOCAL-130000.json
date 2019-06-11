@@ -1,0 +1,74 @@
+{
+  "territoryName": "Porto",
+  "territoryKeyOld": "130000",
+  "territoryKey": "LOCAL-130000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "PS",
+      "mandates": "18",
+      "percentage": "46.7",
+      "votes": "467512"
+    },
+    {
+      "acronym": "PPD/PSD",
+      "mandates": "14",
+      "percentage": "36.36",
+      "votes": "364019"
+    },
+    {
+      "acronym": "CDS-PP",
+      "mandates": "3",
+      "percentage": "7.75",
+      "votes": "77602"
+    },
+    {
+      "acronym": "CDU",
+      "mandates": "2",
+      "percentage": "6.01",
+      "votes": "60178"
+    },
+    {
+      "acronym": "PSR",
+      "mandates": "0",
+      "percentage": "0.35",
+      "votes": "3523"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "0.32",
+      "votes": "3220"
+    },
+    {
+      "acronym": "UDP",
+      "mandates": "0",
+      "percentage": "0.29",
+      "votes": "2883"
+    },
+    {
+      "acronym": "PSN",
+      "mandates": "0",
+      "percentage": "0.25",
+      "votes": "2478"
+    },
+    {
+      "acronym": "PPM/MPT",
+      "mandates": "0",
+      "percentage": "0.23",
+      "votes": "2292"
+    },
+    {
+      "acronym": "PG",
+      "mandates": "0",
+      "percentage": "0.14",
+      "votes": "1414"
+    },
+    {
+      "acronym": "MUT",
+      "mandates": "0",
+      "percentage": "0.04",
+      "votes": "377"
+    }
+  ]
+}

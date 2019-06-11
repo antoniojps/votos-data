@@ -1,0 +1,50 @@
+{
+  "territoryName": "Bragança",
+  "territoryKeyOld": "40000",
+  "territoryKey": "LOCAL-040000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "PPD",
+      "mandates": "3",
+      "percentage": "43",
+      "votes": "43220"
+    },
+    {
+      "acronym": "PS",
+      "mandates": "1",
+      "percentage": "24.66",
+      "votes": "24789"
+    },
+    {
+      "acronym": "CDS",
+      "mandates": "0",
+      "percentage": "13.46",
+      "votes": "13533"
+    },
+    {
+      "acronym": "MDP",
+      "mandates": "0",
+      "percentage": "3.65",
+      "votes": "3667"
+    },
+    {
+      "acronym": "PCP",
+      "mandates": "0",
+      "percentage": "2.72",
+      "votes": "2731"
+    },
+    {
+      "acronym": "FSP",
+      "mandates": "0",
+      "percentage": "1.6",
+      "votes": "1612"
+    },
+    {
+      "acronym": "PPM",
+      "mandates": "0",
+      "percentage": "1",
+      "votes": "1009"
+    }
+  ]
+}

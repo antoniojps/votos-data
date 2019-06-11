@@ -1,0 +1,50 @@
+{
+  "territoryName": "Vila Real",
+  "territoryKeyOld": "170000",
+  "territoryKey": "LOCAL-170000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "PPD",
+      "mandates": "4",
+      "percentage": "45.79",
+      "votes": "64339"
+    },
+    {
+      "acronym": "PS",
+      "mandates": "2",
+      "percentage": "27.14",
+      "votes": "38140"
+    },
+    {
+      "acronym": "CDS",
+      "mandates": "0",
+      "percentage": "7.16",
+      "votes": "10065"
+    },
+    {
+      "acronym": "PCP",
+      "mandates": "0",
+      "percentage": "2.85",
+      "votes": "4011"
+    },
+    {
+      "acronym": "MDP",
+      "mandates": "0",
+      "percentage": "2.3",
+      "votes": "3227"
+    },
+    {
+      "acronym": "FEC",
+      "mandates": "0",
+      "percentage": "2.27",
+      "votes": "3194"
+    },
+    {
+      "acronym": "PPM",
+      "mandates": "0",
+      "percentage": "1.08",
+      "votes": "1523"
+    }
+  ]
+}

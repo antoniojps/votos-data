@@ -1,0 +1,86 @@
+{
+  "territoryName": "Setúbal",
+  "territoryKeyOld": "150000",
+  "territoryKey": "LOCAL-150000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "CDU",
+      "mandates": "7",
+      "percentage": "32.74",
+      "votes": "129037"
+    },
+    {
+      "acronym": "PPD/PSD",
+      "mandates": "6",
+      "percentage": "32.58",
+      "votes": "128402"
+    },
+    {
+      "acronym": "PS",
+      "mandates": "3",
+      "percentage": "17.61",
+      "votes": "69408"
+    },
+    {
+      "acronym": "PRD",
+      "mandates": "1",
+      "percentage": "8.66",
+      "votes": "34109"
+    },
+    {
+      "acronym": "CDS",
+      "mandates": "0",
+      "percentage": "1.88",
+      "votes": "7401"
+    },
+    {
+      "acronym": "UDP",
+      "mandates": "0",
+      "percentage": "1.49",
+      "votes": "5858"
+    },
+    {
+      "acronym": "MDP/CDE",
+      "mandates": "0",
+      "percentage": "0.93",
+      "votes": "3664"
+    },
+    {
+      "acronym": "PSR",
+      "mandates": "0",
+      "percentage": "0.71",
+      "votes": "2783"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "0.47",
+      "votes": "1871"
+    },
+    {
+      "acronym": "PDC",
+      "mandates": "0",
+      "percentage": "0.36",
+      "votes": "1433"
+    },
+    {
+      "acronym": "PC(R)",
+      "mandates": "0",
+      "percentage": "0.32",
+      "votes": "1275"
+    },
+    {
+      "acronym": "PPM",
+      "mandates": "0",
+      "percentage": "0.26",
+      "votes": "1021"
+    },
+    {
+      "acronym": "POUS",
+      "mandates": "0",
+      "percentage": "0.17",
+      "votes": "667"
+    }
+  ]
+}

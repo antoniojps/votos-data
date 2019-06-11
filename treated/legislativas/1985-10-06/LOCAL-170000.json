@@ -1,0 +1,74 @@
+{
+  "territoryName": "Vila Real",
+  "territoryKeyOld": "170000",
+  "territoryKey": "LOCAL-170000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "PPD/PSD",
+      "mandates": "3",
+      "percentage": "42.18",
+      "votes": "55388"
+    },
+    {
+      "acronym": "PS",
+      "mandates": "2",
+      "percentage": "22.95",
+      "votes": "30129"
+    },
+    {
+      "acronym": "CDS",
+      "mandates": "1",
+      "percentage": "12.47",
+      "votes": "16375"
+    },
+    {
+      "acronym": "PRD",
+      "mandates": "0",
+      "percentage": "8.64",
+      "votes": "11350"
+    },
+    {
+      "acronym": "APU",
+      "mandates": "0",
+      "percentage": "5.94",
+      "votes": "7804"
+    },
+    {
+      "acronym": "PDC",
+      "mandates": "0",
+      "percentage": "1.13",
+      "votes": "1482"
+    },
+    {
+      "acronym": "UDP",
+      "mandates": "0",
+      "percentage": "0.84",
+      "votes": "1108"
+    },
+    {
+      "acronym": "POUS",
+      "mandates": "0",
+      "percentage": "0.61",
+      "votes": "802"
+    },
+    {
+      "acronym": "PSR",
+      "mandates": "0",
+      "percentage": "0.57",
+      "votes": "744"
+    },
+    {
+      "acronym": "PC(R)",
+      "mandates": "0",
+      "percentage": "0.4",
+      "votes": "521"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "0.28",
+      "votes": "372"
+    }
+  ]
+}

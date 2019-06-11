@@ -1,0 +1,62 @@
+{
+  "territoryName": "Porto",
+  "territoryKeyOld": "130000",
+  "territoryKey": "LOCAL-130000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "PS",
+      "mandates": "17",
+      "percentage": "41.15",
+      "votes": "386004"
+    },
+    {
+      "acronym": "PPD/PSD",
+      "mandates": "16",
+      "percentage": "40",
+      "votes": "375204"
+    },
+    {
+      "acronym": "CDS-PP",
+      "mandates": "3",
+      "percentage": "8.43",
+      "votes": "79034"
+    },
+    {
+      "acronym": "CDU",
+      "mandates": "1",
+      "percentage": "4.61",
+      "votes": "43272"
+    },
+    {
+      "acronym": "BE",
+      "mandates": "1",
+      "percentage": "2.69",
+      "votes": "25195"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "0.61",
+      "votes": "5740"
+    },
+    {
+      "acronym": "MPT",
+      "mandates": "0",
+      "percentage": "0.22",
+      "votes": "2066"
+    },
+    {
+      "acronym": "PH",
+      "mandates": "0",
+      "percentage": "0.2",
+      "votes": "1830"
+    },
+    {
+      "acronym": "PNR",
+      "mandates": "0",
+      "percentage": "0.19",
+      "votes": "1781"
+    }
+  ]
+}

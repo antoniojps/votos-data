@@ -1,0 +1,80 @@
+{
+  "territoryName": "Évora",
+  "territoryKeyOld": "70000",
+  "territoryKey": "LOCAL-070000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "PS",
+      "mandates": "1",
+      "percentage": "35.03",
+      "votes": "32024"
+    },
+    {
+      "acronym": "CDU",
+      "mandates": "1",
+      "percentage": "22.33",
+      "votes": "20411"
+    },
+    {
+      "acronym": "PPD/PSD",
+      "mandates": "1",
+      "percentage": "18.99",
+      "votes": "17362"
+    },
+    {
+      "acronym": "BE",
+      "mandates": "0",
+      "percentage": "11.12",
+      "votes": "10168"
+    },
+    {
+      "acronym": "CDS-PP",
+      "mandates": "0",
+      "percentage": "6.39",
+      "votes": "5837"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "2.09",
+      "votes": "1908"
+    },
+    {
+      "acronym": "MEP",
+      "mandates": "0",
+      "percentage": "0.4",
+      "votes": "366"
+    },
+    {
+      "acronym": "PPM",
+      "mandates": "0",
+      "percentage": "0.32",
+      "votes": "294"
+    },
+    {
+      "acronym": "MMS",
+      "mandates": "0",
+      "percentage": "0.2",
+      "votes": "182"
+    },
+    {
+      "acronym": "MPT-PH",
+      "mandates": "0",
+      "percentage": "0.17",
+      "votes": "156"
+    },
+    {
+      "acronym": "PNR",
+      "mandates": "0",
+      "percentage": "0.17",
+      "votes": "152"
+    },
+    {
+      "acronym": "PND",
+      "mandates": "0",
+      "percentage": "0.16",
+      "votes": "150"
+    }
+  ]
+}

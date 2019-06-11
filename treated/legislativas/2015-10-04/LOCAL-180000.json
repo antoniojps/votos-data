@@ -1,0 +1,91 @@
+{
+  "territoryName": "Viseu",
+  "territoryKeyOld": "180000",
+  "territoryKey": "LOCAL-180000",
+  "resultsParty": [
+    {
+      "acronym": "PPD/PSD.CDS-PP",
+      "mandates": "6",
+      "percentage": "51.05",
+      "votes": "97362"
+    },
+    {
+      "acronym": "PS",
+      "mandates": "3",
+      "percentage": "29.65",
+      "votes": "56543"
+    },
+    {
+      "acronym": "B.E.",
+      "mandates": "0",
+      "percentage": "6.72",
+      "votes": "12816"
+    },
+    {
+      "acronym": "PCP-PEV",
+      "mandates": "0",
+      "percentage": "3.5",
+      "votes": "6668"
+    },
+    {
+      "acronym": "PDR",
+      "mandates": "0",
+      "percentage": "1.02",
+      "votes": "1952"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "0.91",
+      "votes": "1743"
+    },
+    {
+      "acronym": "PAN",
+      "mandates": "0",
+      "percentage": "0.68",
+      "votes": "1296"
+    },
+    {
+      "acronym": "L/TDA",
+      "mandates": "0",
+      "percentage": "0.53",
+      "votes": "1003"
+    },
+    {
+      "acronym": "PTP-MAS",
+      "mandates": "0",
+      "percentage": "0.38",
+      "votes": "721"
+    },
+    {
+      "acronym": "MPT",
+      "mandates": "0",
+      "percentage": "0.36",
+      "votes": "679"
+    },
+    {
+      "acronym": "PNR",
+      "mandates": "0",
+      "percentage": "0.32",
+      "votes": "608"
+    },
+    {
+      "acronym": "NC",
+      "mandates": "0",
+      "percentage": "0.28",
+      "votes": "534"
+    },
+    {
+      "acronym": "PPM",
+      "mandates": "0",
+      "percentage": "0.28",
+      "votes": "533"
+    },
+    {
+      "acronym": "PURP",
+      "mandates": "0",
+      "percentage": "0.2",
+      "votes": "387"
+    }
+  ]
+}

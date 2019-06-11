@@ -1,0 +1,86 @@
+{
+  "territoryName": "Aveiro",
+  "territoryKeyOld": "10000",
+  "territoryKey": "LOCAL-010000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "PPD/PSD",
+      "mandates": "7",
+      "percentage": "34.56",
+      "votes": "134842"
+    },
+    {
+      "acronym": "PS",
+      "mandates": "6",
+      "percentage": "33.75",
+      "votes": "131693"
+    },
+    {
+      "acronym": "CDS-PP",
+      "mandates": "2",
+      "percentage": "12.98",
+      "votes": "50663"
+    },
+    {
+      "acronym": "BE",
+      "mandates": "1",
+      "percentage": "8.96",
+      "votes": "34975"
+    },
+    {
+      "acronym": "CDU",
+      "mandates": "0",
+      "percentage": "3.84",
+      "votes": "14985"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "0.76",
+      "votes": "2960"
+    },
+    {
+      "acronym": "MMS",
+      "mandates": "0",
+      "percentage": "0.65",
+      "votes": "2520"
+    },
+    {
+      "acronym": "MEP",
+      "mandates": "0",
+      "percentage": "0.38",
+      "votes": "1501"
+    },
+    {
+      "acronym": "PND",
+      "mandates": "0",
+      "percentage": "0.26",
+      "votes": "1030"
+    },
+    {
+      "acronym": "PPM",
+      "mandates": "0",
+      "percentage": "0.26",
+      "votes": "1004"
+    },
+    {
+      "acronym": "PPV",
+      "mandates": "0",
+      "percentage": "0.19",
+      "votes": "759"
+    },
+    {
+      "acronym": "PNR",
+      "mandates": "0",
+      "percentage": "0.17",
+      "votes": "680"
+    },
+    {
+      "acronym": "MPT-PH",
+      "mandates": "0",
+      "percentage": "0.17",
+      "votes": "645"
+    }
+  ]
+}

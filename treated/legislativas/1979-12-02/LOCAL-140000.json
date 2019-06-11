@@ -1,0 +1,62 @@
+{
+  "territoryName": "Santarém",
+  "territoryKeyOld": "140000",
+  "territoryKey": "LOCAL-140000",
+  "type": "ARI",
+  "resultsParty": [
+    {
+      "acronym": "AD",
+      "mandates": "6",
+      "percentage": "41.04",
+      "votes": "118494"
+    },
+    {
+      "acronym": "PS",
+      "mandates": "3",
+      "percentage": "27.32",
+      "votes": "78893"
+    },
+    {
+      "acronym": "APU",
+      "mandates": "3",
+      "percentage": "21.72",
+      "votes": "62713"
+    },
+    {
+      "acronym": "UDP",
+      "mandates": "0",
+      "percentage": "2.17",
+      "votes": "6280"
+    },
+    {
+      "acronym": "PDC",
+      "mandates": "0",
+      "percentage": "1.38",
+      "votes": "3995"
+    },
+    {
+      "acronym": "PSR",
+      "mandates": "0",
+      "percentage": "1.02",
+      "votes": "2945"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "0.92",
+      "votes": "2651"
+    },
+    {
+      "acronym": "UEDS",
+      "mandates": "0",
+      "percentage": "0.77",
+      "votes": "2213"
+    },
+    {
+      "acronym": "POUS",
+      "mandates": "0",
+      "percentage": "0.6",
+      "votes": "1735"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "territoryName": "Beja",
+  "territoryKeyOld": "20000",
+  "territoryKey": "LOCAL-020000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "PCP",
+      "mandates": "4",
+      "percentage": "43.99",
+      "votes": "52839"
+    },
+    {
+      "acronym": "PS",
+      "mandates": "2",
+      "percentage": "31.97",
+      "votes": "38405"
+    },
+    {
+      "acronym": "PPD",
+      "mandates": "0",
+      "percentage": "8.23",
+      "votes": "9882"
+    },
+    {
+      "acronym": "CDS",
+      "mandates": "0",
+      "percentage": "4.17",
+      "votes": "5004"
+    },
+    {
+      "acronym": "UDP",
+      "mandates": "0",
+      "percentage": "2.22",
+      "votes": "2671"
+    },
+    {
+      "acronym": "MES",
+      "mandates": "0",
+      "percentage": "1.74",
+      "votes": "2092"
+    },
+    {
+      "acronym": "FSP",
+      "mandates": "0",
+      "percentage": "1.3",
+      "votes": "1564"
+    },
+    {
+      "acronym": "PPM",
+      "mandates": "0",
+      "percentage": "0.6",
+      "votes": "724"
+    },
+    {
+      "acronym": "AOC",
+      "mandates": "0",
+      "percentage": "0.46",
+      "votes": "557"
+    },
+    {
+      "acronym": "LCI",
+      "mandates": "0",
+      "percentage": "0.4",
+      "votes": "481"
+    },
+    {
+      "acronym": "MRPP",
+      "mandates": "0",
+      "percentage": "0.36",
+      "votes": "428"
+    }
+  ]
+}

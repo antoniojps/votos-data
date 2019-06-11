@@ -1,0 +1,74 @@
+{
+  "territoryName": "Évora",
+  "territoryKeyOld": "70000",
+  "territoryKey": "LOCAL-070000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "APU",
+      "mandates": "3",
+      "percentage": "47.57",
+      "votes": "56722"
+    },
+    {
+      "acronym": "PS",
+      "mandates": "1",
+      "percentage": "23.89",
+      "votes": "28486"
+    },
+    {
+      "acronym": "PPD/PSD",
+      "mandates": "1",
+      "percentage": "18.6",
+      "votes": "22184"
+    },
+    {
+      "acronym": "CDS",
+      "mandates": "0",
+      "percentage": "4.52",
+      "votes": "5395"
+    },
+    {
+      "acronym": "UDP",
+      "mandates": "0",
+      "percentage": "0.76",
+      "votes": "902"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "0.66",
+      "votes": "784"
+    },
+    {
+      "acronym": "PSR",
+      "mandates": "0",
+      "percentage": "0.44",
+      "votes": "529"
+    },
+    {
+      "acronym": "POUS",
+      "mandates": "0",
+      "percentage": "0.44",
+      "votes": "526"
+    },
+    {
+      "acronym": "PPM",
+      "mandates": "0",
+      "percentage": "0.38",
+      "votes": "458"
+    },
+    {
+      "acronym": "PDC",
+      "mandates": "0",
+      "percentage": "0.34",
+      "votes": "400"
+    },
+    {
+      "acronym": "LST",
+      "mandates": "0",
+      "percentage": "0.18",
+      "votes": "213"
+    }
+  ]
+}

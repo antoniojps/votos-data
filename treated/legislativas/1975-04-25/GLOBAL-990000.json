@@ -1,0 +1,92 @@
+{
+  "territoryName": "Resultados Globais",
+  "territoryKeyOld": null,
+  "territoryKey": "GLOBAL-990000",
+  "abstention": "8,34",
+  "resultsParty": [
+    {
+      "acronym": "PS",
+      "votes": "2162972",
+      "percentage": "37,87",
+      "mandates": "116"
+    },
+    {
+      "acronym": "PPD",
+      "votes": "1507282",
+      "percentage": "26,39",
+      "mandates": "81"
+    },
+    {
+      "acronym": "PCP",
+      "votes": "711935",
+      "percentage": "12,46",
+      "mandates": "30"
+    },
+    {
+      "acronym": "CDS",
+      "votes": "434879",
+      "percentage": "7,61",
+      "mandates": "16"
+    },
+    {
+      "acronym": "MDP",
+      "votes": "236318",
+      "percentage": "4,14",
+      "mandates": "5"
+    },
+    {
+      "acronym": "FSP",
+      "votes": "66307",
+      "percentage": "1,16",
+      "mandates": "0"
+    },
+    {
+      "acronym": "MES",
+      "votes": "58248",
+      "percentage": "1,02",
+      "mandates": "0"
+    },
+    {
+      "acronym": "UDP",
+      "votes": "44877",
+      "percentage": "0,79",
+      "mandates": "1"
+    },
+    {
+      "acronym": "FEC",
+      "votes": "33185",
+      "percentage": "0,58",
+      "mandates": "0"
+    },
+    {
+      "acronym": "PPM",
+      "votes": "32526",
+      "percentage": "0,57",
+      "mandates": "0"
+    },
+    {
+      "acronym": "PUP",
+      "votes": "13138",
+      "percentage": "0,23",
+      "mandates": "0"
+    },
+    {
+      "acronym": "LCI",
+      "votes": "10835",
+      "percentage": "0,19",
+      "mandates": "0"
+    },
+    {
+      "acronym": "ADIM",
+      "votes": "1622",
+      "percentage": "0,03",
+      "mandates": "1"
+    },
+    {
+      "acronym": "CDM",
+      "votes": "1030",
+      "percentage": "0,02",
+      "mandates": "0"
+    }
+  ]
+}

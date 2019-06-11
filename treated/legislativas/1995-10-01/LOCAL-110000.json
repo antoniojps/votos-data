@@ -1,0 +1,80 @@
+{
+  "territoryName": "Lisboa",
+  "territoryKeyOld": "110000",
+  "territoryKey": "LOCAL-110000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "PS",
+      "mandates": "24",
+      "percentage": "44.33",
+      "votes": "559551"
+    },
+    {
+      "acronym": "PPD/PSD",
+      "mandates": "15",
+      "percentage": "28.98",
+      "votes": "365857"
+    },
+    {
+      "acronym": "CDU",
+      "mandates": "6",
+      "percentage": "11.99",
+      "votes": "151351"
+    },
+    {
+      "acronym": "CDS-PP",
+      "mandates": "5",
+      "percentage": "9.39",
+      "votes": "118547"
+    },
+    {
+      "acronym": "PSR",
+      "mandates": "0",
+      "percentage": "1.34",
+      "votes": "16857"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "0.72",
+      "votes": "9113"
+    },
+    {
+      "acronym": "UDP",
+      "mandates": "0",
+      "percentage": "0.64",
+      "votes": "8095"
+    },
+    {
+      "acronym": "MPT",
+      "mandates": "0",
+      "percentage": "0.44",
+      "votes": "5506"
+    },
+    {
+      "acronym": "PG",
+      "mandates": "0",
+      "percentage": "0.2",
+      "votes": "2481"
+    },
+    {
+      "acronym": "PSN",
+      "mandates": "0",
+      "percentage": "0.15",
+      "votes": "1929"
+    },
+    {
+      "acronym": "PDA",
+      "mandates": "0",
+      "percentage": "0.1",
+      "votes": "1211"
+    },
+    {
+      "acronym": "MUT",
+      "mandates": "0",
+      "percentage": "0.08",
+      "votes": "1011"
+    }
+  ]
+}

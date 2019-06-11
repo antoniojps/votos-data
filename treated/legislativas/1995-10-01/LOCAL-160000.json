@@ -1,0 +1,62 @@
+{
+  "territoryName": "Viana do Castelo",
+  "territoryKeyOld": "160000",
+  "territoryKey": "LOCAL-160000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "PPD/PSD",
+      "mandates": "3",
+      "percentage": "42.09",
+      "votes": "61051"
+    },
+    {
+      "acronym": "PS",
+      "mandates": "3",
+      "percentage": "38.77",
+      "votes": "56234"
+    },
+    {
+      "acronym": "CDS-PP",
+      "mandates": "0",
+      "percentage": "11.26",
+      "votes": "16328"
+    },
+    {
+      "acronym": "CDU",
+      "mandates": "0",
+      "percentage": "4.56",
+      "votes": "6614"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "0.52",
+      "votes": "753"
+    },
+    {
+      "acronym": "UDP",
+      "mandates": "0",
+      "percentage": "0.36",
+      "votes": "527"
+    },
+    {
+      "acronym": "PPM/MPT",
+      "mandates": "0",
+      "percentage": "0.34",
+      "votes": "496"
+    },
+    {
+      "acronym": "PSR",
+      "mandates": "0",
+      "percentage": "0.34",
+      "votes": "491"
+    },
+    {
+      "acronym": "PG",
+      "mandates": "0",
+      "percentage": "0.23",
+      "votes": "340"
+    }
+  ]
+}

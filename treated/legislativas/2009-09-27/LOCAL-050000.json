@@ -1,0 +1,86 @@
+{
+  "territoryName": "Castelo Branco",
+  "territoryKeyOld": "50000",
+  "territoryKey": "LOCAL-050000",
+  "type": "AR",
+  "resultsParty": [
+    {
+      "acronym": "PS",
+      "mandates": "2",
+      "percentage": "40.98",
+      "votes": "48105"
+    },
+    {
+      "acronym": "PPD/PSD",
+      "mandates": "2",
+      "percentage": "29.75",
+      "votes": "34925"
+    },
+    {
+      "acronym": "BE",
+      "mandates": "0",
+      "percentage": "9.06",
+      "votes": "10632"
+    },
+    {
+      "acronym": "CDS-PP",
+      "mandates": "0",
+      "percentage": "8.39",
+      "votes": "9843"
+    },
+    {
+      "acronym": "CDU",
+      "mandates": "0",
+      "percentage": "5.06",
+      "votes": "5937"
+    },
+    {
+      "acronym": "PCTP/MRPP",
+      "mandates": "0",
+      "percentage": "0.96",
+      "votes": "1130"
+    },
+    {
+      "acronym": "MMS",
+      "mandates": "0",
+      "percentage": "0.43",
+      "votes": "508"
+    },
+    {
+      "acronym": "PTP",
+      "mandates": "0",
+      "percentage": "0.34",
+      "votes": "402"
+    },
+    {
+      "acronym": "PPM",
+      "mandates": "0",
+      "percentage": "0.34",
+      "votes": "394"
+    },
+    {
+      "acronym": "MPT-PH",
+      "mandates": "0",
+      "percentage": "0.3",
+      "votes": "352"
+    },
+    {
+      "acronym": "MEP",
+      "mandates": "0",
+      "percentage": "0.3",
+      "votes": "348"
+    },
+    {
+      "acronym": "PNR",
+      "mandates": "0",
+      "percentage": "0.22",
+      "votes": "263"
+    },
+    {
+      "acronym": "PPV",
+      "mandates": "0",
+      "percentage": "0.21",
+      "votes": "250"
+    }
+  ]
+}
